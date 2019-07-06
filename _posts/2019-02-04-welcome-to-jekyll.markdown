@@ -5,11 +5,7 @@ categories: [ Jekyll ]
 image: http://www.curtamais.com.br/uploads/conteudos/ac98c1b397b9d938066e03f8c986ae88.jpg
 ---
 
-A foto que mostra um dos homens mais ricos do mundo em momento de pura simplicidade é uma lição sobre sucesso
-
-![Imagem](http://www.curtamais.com.br/uploads/conteudos/ac98c1b397b9d938066e03f8c986ae88.jpg)
-
-
+A foto que mostra um dos homens mais ricos do mundo em momento de pura simplicidade é uma lição sobre sucesso.
 
 Com um patrimônio de US$ 95 bilhões, Bill Gates é famoso por ser a segunda pessoa mais rica do planeta, atualmente atrás apenas de Jeff Bezos da Amazon (US$ 142,3 bilhões).
 

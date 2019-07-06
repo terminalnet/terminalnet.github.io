@@ -1,27 +1,25 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "Alcance ilimitado, sem salvaguardas': Snowden avisa sobre maior controle social da história"
 author: sal
-categories: [ tutorial ]
-image: assets/images/17.jpg
-tags: [featured]
+categories: [ News ]
+image: https://cdnbr2.img.sputniknews.com/images/74/55/745525.jpg
+tags: [artigos]
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+O governo dos EUA tem tendência de se apropriar das inovações revolucionárias e torná-las em armas, disse Edward Snowden. Ele notou que o desejo humano natural de comunicar com os outros está sendo utilizado em uma escala sem precedentes.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+"Não há garantia nenhuma que a nossa visão utópica do futuro vá se realizar", disse Snowden a um auditório na Universidade Dalhousie, no Canadá, em uma transmissão ao vivo desde Moscou nesta semana. Snowden sublinhou que o governo dos EUA "corrompeu nosso conhecimento [...] com um objetivo militar".
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+"Eles pegaram nossa capacidade nuclear e a transformaram na arma mais terrível que o mundo alguma vez testemunhou. E agora vemos o momento atômico da ciência da computação [...] Seu alcance é ilimitado [...] mas as salvaguardas dela não são!"
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+O denunciante, que no ano 2013 divulgou informação altamente classificada sobre operações de espionagem global realizada pela Agência de Segurança Nacional, declarou que os governos, armados com tecnologias modernas e com a ajuda das mídias sociais e das gigantes tecnológicas, estão se tornando "omnipotentes" na sua capacidade de monitorar, analisar e influenciar o comportamento.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Edward Snowden
 
-To deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+© REUTERS / Glenn Greenwald/Laura Poitras/Courtesy of the Guardian/Handout via Reuters
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+"É por meio do uso de novas plataformas e algoritmos, que são baseados nesta capacidade, que eles são capazes de transformar o nosso comportamento. Em alguns casos, eles podem predizer nossos desejos e também os empurrar para obter resultados diferentes."
 
-> The claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+A necessidade humana natural de "pertencer" está sendo explorada, e os usuários consentem voluntariamente entregar virtualmente todos seus dados, assinando acordos cuidadosamente elaborados que ninguém se preocupa em ler. "Tudo isso tem centenas e centenas de páginas de um jargão legal que nós não somos capazes de ler e avaliar, mas isso é considerado como vinculativo para nós", disse Snowden.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+"E agora todas essas instituições, que são ao mesmo tempo comerciais e governamentais, [...] estruturaram e consolidaram isso como os meios mais eficientes de controle social em toda a história da nossa espécie."

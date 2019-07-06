@@ -3,7 +3,7 @@ layout: post
 title:  "Japão, 30 mil suicídios por ano: riqueza, tecnologia, mas… vazio na alma"
 author: sal
 categories: [ News ]
-image: https://aleteiaportuguese.files.wordpress.com/2017/04/suicidio.jpg
+image: assets/images/suicidio.jpg
 ---
 Uma análise do período compreendido entre 1998 e 2010 apontou que mais de 30 mil pessoas se suicidaram no Japão em cada ano desse intervalo, taxa que, aproximadamente, continua se aplicando até o presente. Cerca de 20% dos suicídios se devem a motivos econômicos e 60% a motivos relacionados com a saúde física e a depressão, conforme recente pesquisa do governo.
 

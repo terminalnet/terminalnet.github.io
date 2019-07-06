@@ -3,7 +3,7 @@ layout: post
 title:  "Alcance ilimitado, sem salvaguardas': Snowden avisa sobre maior controle social da história"
 author: sal
 categories: [ News ]
-image: https://cdnbr2.img.sputniknews.com/images/74/55/745525.jpg
+image: assets/images/745525.jpg
 tags: [artigos]
 ---
 O governo dos EUA tem tendência de se apropriar das inovações revolucionárias e torná-las em armas, disse Edward Snowden. Ele notou que o desejo humano natural de comunicar com os outros está sendo utilizado em uma escala sem precedentes.

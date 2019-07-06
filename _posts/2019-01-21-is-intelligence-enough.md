@@ -3,7 +3,7 @@ layout: post
 title:  "Blue Java, a banana azul que tem textura de sorvete e sabor de baunilha"
 author: sal
 categories: [ News ]
-image: https://www.gazetadopovo.com.br/bomgourmet/wp-content/uploads/2019/03/banana-azul-planta-foto-sociedade-internacional-da-banana-reproducao.jpg
+image: assets/images/banana-azul-planta-foto-sociedade-internacional-da-banana-reproducao.jpg
 ---
 Uma banana com textura parecida com sorvete, sabor de baunilha e cor azulada? Pode parecer curioso, mas a banana Blue Java existe e causa curiosidade onde aparece. Afinal, ela é completamente diferente de tudo o que vemos em terras tupiniquins, mas muito comum no Havaí, na Oceania e até mesmo entre alguns vizinhos nossos das Américas Central e do Sul.
 

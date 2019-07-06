@@ -3,7 +3,7 @@ layout: post
 title:  "Unicamp faz 1ª cirurgia de crânio com titânio impresso em 3D do Brasil"
 author: jane
 categories: [ News ]
-image: http://s2.glbimg.com/h2MHyOAnXE6w9Ny8wDry37J6cWo=/300x225/s.glbimg.com/jo/g1/f/original/2015/06/02/cranio4.jpg
+image: assets/images/cranio4.jpg
 tags: artigos
 ---
 Procedimento da paciente contemplada foi acompanhado em Campinas.

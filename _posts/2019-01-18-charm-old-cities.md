@@ -3,7 +3,7 @@ layout: post
 title:  "Pesquisa aponta que o ser humano está cada vez menos inteligente"
 author: jane
 categories: [ News ]
-image: https://static.historyplay.tv/files/burrice_-_estupidez_-_falta_de_inteligencia_-_history_channel_brasil.jpg
+image: assets/images/burrice_-_estupidez_-_falta_de_inteligencia_-_history_channel_brasil.jpg
 tags: [artigos]
 ---
 Pesquisadores noruegueses, após analisarem mais de 730 mil avaliações de QI (Quociente de Inteligência), chegaram à conclusão de que as pessoas estão cada vez menos inteligentes. O estudo verificou uma diminuição de praticamente 7 pontos de uma geração a outra, sendo a última a que apresentou menor inteligência.

@@ -3,7 +3,7 @@ layout: post
 title:  "Empresa cria sapato com GPS para monitorar idosos e pessoas com problemas de memória"
 author: sal
 categories: [ News ]
-image: https://s2.glbimg.com/upCAkUB_rqP8LgC60g9qbSfloI4=/940x523/e.glbimg.com/og/ed/f/original/2019/01/11/screen-shot-2017-05-01-at-10.57.47-pm.png
+image: assets/images/screen-shot-2017-05-01-at-10.57.47-pm.png
 ---
 
 Com o Smart Sole, pessoas com necessidades especiais podem ter sua localização monitorada via app e GPS (Foto: Divulgação/Smart Sole)

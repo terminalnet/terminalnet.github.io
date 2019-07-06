@@ -3,7 +3,7 @@ layout: post
 title:  "Cientistas ingleses criam primeiro ser vivo com DNA 100% sintético"
 author: sal
 categories: [ News ]
-image: https://olhardigital.com.br/uploads/acervo_imagens/2019/05/r16x9/20190522060218_1200_675_-_dna.jpg
+image: assets/images/20190522060218_1200_675_-_dna.jpg
 ---
 Para a decepção de fãs de histórias em quadrinhos e ficção científica, cientistas ainda não conseguem fabricar soros especiais para criar super-humanos, mas já podem produzir uma bactéria com código genético totalmente sintetizado em laboratório. O feito foi realizado por estudiosos da Universidade de Cambridge, Inglaterra, e marca o primeiro ser vivo com DNA 100% criado em laboratório.
 

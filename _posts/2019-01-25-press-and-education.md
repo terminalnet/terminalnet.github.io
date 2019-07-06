@@ -3,7 +3,7 @@ layout: post
 title:  "Síndrome de sabe-tudo: pessoas dominadas pelo ego que não conseguem evoluir"
 author: sal
 categories: [ News ]
-image: https://osegredo.com.br/wp-content/uploads/2018/07/s%C3%ADndrome-de-sabe-830x450.jpg
+image: assets/images/s%C3%ADndrome-de-sabe-830x450.jpg
 ---
 As pessoas que sofrem da síndrome de sabe-tudo possuem um sério problema: nessa tentativa persistente de se mostrarem superiores, elas apenas mostram que sofrem de uma séria insegurança sobre si mesmas.
 

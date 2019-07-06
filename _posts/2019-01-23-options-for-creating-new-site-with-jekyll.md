@@ -3,7 +3,7 @@ layout: post
 title:  "Brasil fica em primeiro lugar em campeonato mundial de robótica nos EUA"
 author: jane
 categories: [ News ]
-image: https://media.metrolatam.com/2019/04/23/f454627-9f1f31508dec81827edbfa2b45d8068b-1200x600.jpg
+image: assets/images/f454627-9f1f31508dec81827edbfa2b45d8068b-1200x600.jpg
 ---
 O Brasil foi reconhecido no principal campeonato mundial de robótica, encerrado no último sábado, em Houston, Texas, nos Estados Unidos.
 

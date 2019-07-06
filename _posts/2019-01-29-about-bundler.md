@@ -3,7 +3,7 @@ layout: post
 title:  "Bahia recebe a 1ª usina solar flutuante do Brasil, no Rio São Francisco"
 author: sal
 categories: [ News ]
-image: https://abrilcasa.files.wordpress.com/2019/04/planta-solar-flutuante-ecc81-instalada-na-usina-sobradinho-_-capa-blog-752x440.jpg
+image: assets/images/planta-solar-flutuante-ecc81-instalada-na-usina-sobradinho-_-capa-blog-752x440.jpg
 ---
 A planta piloto de painéis solares foi instalada pela Companhia Hidro Elétrica do São Francisco (Chesf), no reservatório da Usina Hidrelétrica de Sobradinho
 

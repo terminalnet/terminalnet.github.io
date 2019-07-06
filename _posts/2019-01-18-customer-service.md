@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title:  "Cientistas mostram que pinguins tentam matar 'talaricos'"
 author: jane
-categories: [ Jekyll, tutorial ]
-image: assets/images/11.jpg
+categories: [ News ]
+image: https://1.bp.blogspot.com/-DhG_e90qnsA/XR4_p4crEvI/AAAAAAABM5k/Fkyl2oaiYz0ngUWMdwbkoHuVpIVCOECbACLcBGAs/s1600/cats.jpg
 ---
+ Um estudo publicado na Biology Letters mostram que os pinguins são monogâmicos não só durante a época de acasalamento, mas tendem a permanecer fiéis ao parceiro ou parceira mesmo quando o macho vai viajar, e acabam tendo um relacionamento à distância.
 
-No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
 
-Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free-custom domain name and all.
+O pesquisador Jean-Baptiste Thiebot, autor do estudo, diz: "esses animais são extremamente fieis - alguns relacionamentos duram a vida inteira de um pinguim, e continuam fieis mesmo que separados por centenas de quilômetros".
 
-## What is Jekyll?
+Mas é claro: em alguns casos, acontecem traições. Nas filmagens a seguir, feitas por pesquisadores e divulgadas pela National Geographic, vemos o que acontece quando um pinguim chega em casa e pega a mulher no flagra com outro cara.
 
-Jekyll is a simple, blog-aware, static site generator.
+Primeiro, a luta começa. Eles usam suas asas, que contém fortes ossos, já que eles não voam, como um taco de beisebol, e começam a acertar violentas porradas um no outro. Depois de certo momento, os dois chamam pela fêmea pra que ela decida por um dos dois. E ela escolhe o "talarico".
 
-You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.
+Os amantes entram no ninho, mas o marido ainda não desistiu. Ele puxa o talarico pra fora do ninho e começa uma luta mais violenta ainda. Os dois ficam cobertos de sangue. E o macho fiel, vendo que será derrotado, faz um último apelo pra fêmea que pulou a cerca, mas ela não tem mais tempo para perdedores.
 
-Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.
+Hoje você aprendeu que pinguins odeiam talaricos.
+
+Via: https://www.ovelhasvoadoras.com.br/2019/07/cientistas-mostram-que-pinguins-tentam-matar-talaricos.html

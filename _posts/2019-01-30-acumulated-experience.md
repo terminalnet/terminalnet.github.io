@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  "Accumulated experience of social living"
+title:  "Habilidades, não diplomas, definem hoje os melhores talentos, diz CEO do LinkedIn"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/15.jpg
+categories: [ News ]
+image: https://s2.glbimg.com/Qzy6X9UfwrtZJxStm4nwsCEpzmI=/620x430/e.glbimg.com/og/ed/f/original/2017/12/31/gettyimages-490834208.jpg
 ---
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Em processos seletivos, é comum que recrutadores levem em consideração a universidade onde se formaram os candidatos — sobretudo para dar preferência aos que frequentaram as instituições mais renomadas. Para Jeff Weiner, CEO do LinkedIn, tal prática não faz o menor sentido. Durante uma palestra na ASU GSV Summit, o executivo defendeu o que acredita ser importante analisar na hora de contratar alguém. Segundo ele, o LinkedIn quer alguém com paixão pelo que faz, ética, perseverança, lealdade e mentalidade de crescimento (o "Growth Mindset" sobre o qual tem se falado tanto no mundo corporativo recentemente).
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+"Estas são qualidades que você não vê necessariamente em um diploma", defende Weiner. "Há habilidades que tendem a ser completamente negligenciadas quando as pessoas estão examinando currículos ou perfis do LinkedIn. E, no entanto, cada vez mais, achamos que esses são os tipos de pessoas que fazem a maior diferença dentro da nossa organização."
 
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+"Cada vez mais eu ouço esse mantra: habilidades, não diplomas. Não são habilidades que dispensam diplomas. Trata-se apenas de expandir nossa perspectiva para ir além dos diplomas." Ou seja, três palavras que podem fazer toda a diferença no processo de contratação: habilidades, não diplomas. E faz todo o sentido.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
++ Por que há executivos pagando tão caro para aprender soft skills?
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+"Nós nos orgulhávamos de no recrutamento ter uma lista incrivelmente curta de universidades, e muitas empresas do Vale do Silício costumavam fazer o mesmo", disse Weiner. "Certamente não estamos sozinhos. Recentemente, demos uma olhada no perfis do LinkedIn e constatamos que, entre os trabalhadores do setor de tecnologia dentro do Vale, apenas 5% deles tiveram formações não tradicionais".
+
+Nos últimos anos, no entanto, empresas têm percebido que existe muito talento escondido — e que muitas pessoas inteligentes e apaixonadas estão desprezando o ensino superior tradicional. 
+
+"Estamos tentando nos afastar dessa ideia de que todos na equipe de engenharia, e todos no geral, devem ter vindo de uma escola específica ou ter que ter um grau diploma", disse Weiner. "Sim, diplomas de [ciência da computação] de escolas específicas podem te levar a encontrar um talento incrível. Mas há tanto talento para ser encontrando se as pessoas estiverem abertas buscá-los em lugares diferentes." 

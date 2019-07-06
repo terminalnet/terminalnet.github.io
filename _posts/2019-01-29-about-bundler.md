@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "About Bundler"
+title:  "Bahia recebe a 1ª usina solar flutuante do Brasil, no Rio São Francisco"
 author: sal
-categories: [ Jekyll ]
-image: assets/images/2.jpg
+categories: [ News ]
+image: https://abrilcasa.files.wordpress.com/2019/04/planta-solar-flutuante-ecc81-instalada-na-usina-sobradinho-_-capa-blog-752x440.jpg
 ---
-`gem install bundler` installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:
+A planta piloto de painéis solares foi instalada pela Companhia Hidro Elétrica do São Francisco (Chesf), no reservatório da Usina Hidrelétrica de Sobradinho
 
-`bundler` is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.
+Depois da 1ª usina do Brasil a gerar energia por meio de esgoto e lixo, no Paraná, o País ganha agora um novo tipo de geração de eletricidade. O Rio São Francisco, a partir do começo deste ano, recebeu uma Usina Solar Fotovoltaica Flutuante, como um projeto de estudo para avaliar a viabilidade técnica, econômica e ambiental do método.
 
-The `Gemfile` and `Gemfile.lock` files inform `Bundler` about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit `bundle exec` and just `run jekyll serve`.
+A planta piloto de painéis solares foi instalada pela Companhia Hidro Elétrica do São Francisco (Chesf), no reservatório da Usina Hidrelétrica de Sobradinho, na Bahia. A plataforma flutuante de Sobradinho tem 7,3 mil módulos de placas solares, área total de 10 mil m² e capacidade de gerar 1 megawatt-pico (MWp). Outros 4 MWp deverão ser instalados em 2019. Quando o projeto estiver concluído, com 5MWp, a usina flutuante deverá contar com 35 mil módulos e 50 mil m² de área sobre o reservatório de Sobradinho.
 
-When you run `bundle exec jekyll serve`, `Bundler` uses the gems and versions as specified in `Gemfile.lock` to ensure your Jekyll site builds with no compatibility or dependency conflicts.
+“No Nordeste, por exemplo, temos que criar um modelo que permita que o vento e sol, que são fontes de energia mais barata, possam beneficiar os consumidores”, explicou o ministro de Minas e Energia, Moreira Franco.
 
-For more information about how to use `Bundler` in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.
+As placas solares têm o objetivo de converter a luz do sol em energia e, teoricamente, funciona melhor sobre a água pois é refrescada tanto pelo rio quanto pelo vento, atuando melhor do que no solo. No fim do projeto, ela poderá fornecer energia para até 20 mil casas populares.

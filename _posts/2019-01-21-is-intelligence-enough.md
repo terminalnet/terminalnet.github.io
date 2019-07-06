@@ -1,17 +1,32 @@
 ---
 layout: post
-title:  "Is Intelligence Enough"
+title:  "Blue Java, a banana azul que tem textura de sorvete e sabor de baunilha"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
+categories: [ News ]
+image: https://www.gazetadopovo.com.br/bomgourmet/wp-content/uploads/2019/03/banana-azul-planta-foto-sociedade-internacional-da-banana-reproducao.jpg
 ---
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
+Uma banana com textura parecida com sorvete, sabor de baunilha e cor azulada? Pode parecer curioso, mas a banana Blue Java existe e causa curiosidade onde aparece. Afinal, ela é completamente diferente de tudo o que vemos em terras tupiniquins, mas muito comum no Havaí, na Oceania e até mesmo entre alguns vizinhos nossos das Américas Central e do Sul.
 
-> Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+A banana azul, também conhecida como Ney Mannan ou Krie, só existe em alguns países de clima tropical. Foto: Sociedade Internacional da Banana/reprodução.
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+Essa variedade de banana chama a atenção pela aparência, com a planta em si alcançando até seis metros de altura, os frutos um pouco maiores que o habitual, e a forma de consumo – quanto menos madura, melhor. É ainda nova que ela mantém a cor azul, depois a banana fica com uma tonalidade mais pálida, com a polpa cremosa branca.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+Não se sabe exatamente como essa variedade surgiu, mas, segundo a Sociedade Internacional da Banana, a Musa acuminata × balbisiana Blue Java teve seus primeiros registros de cultivo na Índia, e curiosamente foi levada para outros países. Menos para o Brasil, segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa).
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+À reportagem, a Embrapa afirmou que não tem registros de pesquisa da banana azul em território nacional. E a fruta realmente pode ser um pouco difícil de ser encontrada por aqui.
+
+A consultora e chef curitibana Taissa Schuartz conheceu a banana azul há quatro anos, quando viajou à Argentina visitar a filha que fazia faculdade lá. No alojamento da jovem em Buenos Aires, ela conheceu duas estudantes do Equador que tinham alguns frutos – importados em malas de viagem.
+
+Taissa conta que achou a banana azul muito curiosa, mas com um sabor característico e uma textura que lembra muito a massa usada para o preparo de salgados fritos.
+
+“Achei bem interessante que essa banana só é azul enquanto ainda está nova, depois vai perdendo a coloração. Aí elas me ensinaram uma receita em que a gente cozinha a banana e vai amassando e batendo até virar uma massa. Ao fim, essa pasta fica com uma consistência que parece a massa da coxinha, e recheia com queijo, carne, o que quiser, empana e frita”, explica a chef.
+
+Ela diz que a banana tem um sabor que realmente remete à baunilha, mas que, dependendo do preparo, pode perder um pouco do dulçor. Registros da Sociedade Internacional da Banana apontam que ela pode ser consumida tanto ainda nova, na tonalidade azul, como mais madura.
+Rissole de banana azul
+
+A chef Taissa aprendeu a fazer o rissole de banana azul a partir de uma receita muito popular no Equador, ensinada pelas colegas da filha. As garotas afirmaram que o petisco é vendido em qualquer esquina por ambulantes, e não leva absolutamente nenhuma farinha – apenas a massa da fruta.
+
+“Você pega a banana ainda azulada, mas não tanto, corta as duas pontinhas dela e coloca para cozinhar na água com sal durante uns 15 a 20 minutos. Com muito cuidado, você pega e vê se ela está macia, tira a casca e coloca para abrir na mesa. Com uma garrafa limpa (pode ser de vinho) você pressiona e vai abrindo a massa. Ela esfria aos poucos e fica na consistência do nosso rissole. Aí é só rechear, empanar e colocar para fritar”, explica a chef.
+
+Ela finaliza contando que o salgado fica com um leve aroma de baunilha e pouco gosto de banana. Depois disso, Taissa nunca mais encontrou a banana azul para repetir o preparo, mas a lembrança ficou na memória. “Aquilo ficou tão bom”, completa.
 

@@ -1,37 +1,13 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
+title:  "Brasileira de 17 anos leva o ouro em Olimpíada Europeia de Matemática"
 author: sal
-categories: [ Jekyll ]
-image: assets/images/14.jpg
-tags: featured
+categories: [ News ]
+image: https://www.hypeness.com.br/wp-content/uploads/2019/04/Mariana_EGMO_2.jpg
+tags: artigos
 ---
-I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
+Se cada ouro olímpico para o Brasil é celebrado como a grande conquista que de fato é, esse outro ouro, numa olimpíada também diferente, merece toda celebração: trata-se do feito de Mariana Bigolin Groff, a jovem gaúcha que ficou em primeiro lugar na 8a Olimpíada Europeia de Matemática (EGMO, em inglês). Aos 17 anos, Mariana conquistou a medalha de ouro em Kiev, na Ucrânia, onde o evento aconteceu entre os dias 7 e 13 de abril.
 
-So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in the 1920s, the book was part of a series which also included The Adventures of a Grain of Dust and A Year in the Wonderland of Trees, all of which were supposed to introduce children to the world of Natural Sciences. 
+E nas competições acadêmicas Mariana é uma verdadeira superatleta: a gaúcha já conquistou 28 medalhas em competições nacionais e 5 em competições internacionais. A Olimpíada Brasileira de Matemática das Escolas Públicas ela já conquistou o ouro 6 vezes, e sua coleção de medalhas se estende para astronomia, informática, química e física.
 
-In each of them, Hawksworth personifies the natural object he is exploring, and using a mixture of folk tales, scientific facts and colloquial, friendly explanations guides the reader through the history of the natural world. It’s a real thrill of a ride, dramatizing the life cycle of supposedly dull things. The Adventures of a Grain of Dust begins even more loudly than Pebble:
-
-I don’t want you to think that I’m boasting, but I do believe I’m one of the greatest travellers that ever was; and if anybody, living or dead, has ever gone through with more than I have I’d like to hear about it.
-
-> Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.
-
-I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
-
-So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in the 1920s, the book was part of a series which also included The Adventures of a Grain of Dust and A Year in the Wonderland of Trees, all of which were supposed to introduce children to the world of Natural Sciences. 
-
-In each of them, Hawksworth personifies the natural object he is exploring, and using a mixture of folk tales, scientific facts and colloquial, friendly explanations guides the reader through the history of the natural world. It’s a real thrill of a ride, dramatizing the life cycle of supposedly dull things. The Adventures of a Grain of Dust begins even more loudly than Pebble:
-
-#### I don’t want you to think that I’m boasting
-
-Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.
-
-I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
-
-> So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in the 1920s, the book was part of a series which also included The Adventures of a Grain of Dust and A Year in the Wonderland of Trees, all of which were supposed to introduce children to the world of Natural Sciences. 
-
-In each of them, Hawksworth personifies the natural object he is exploring, and using a mixture of folk tales, scientific facts and colloquial, friendly explanations guides the reader through the history of the natural world. It’s a real thrill of a ride, dramatizing the life cycle of supposedly dull things. The Adventures of a Grain of Dust begins even more loudly than Pebble:
-
-I don’t want you to think that I’m boasting, but I do believe I’m one of the greatest travellers that ever was; and if anybody, living or dead, has ever gone through with more than I have I’d like to hear about it.
-
-Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.
+Mariana já havia declarado que brilhar na competição era seu grande sonho. Ela recentemente deixou a escola pública que estudava no interior do Rio Grande do Sul por uma bolsa em uma escola particular em Fortaleza. Esta é a terceira participação brasileira na EGMO, com 9 medalhas conquistadas ao todo, e uma menção honrosa. Na classificação em grupo, o Brasil acabou em 20o colocado entre 49 países, com uma equipe formada por alunas de todo o país.

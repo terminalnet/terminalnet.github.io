@@ -1,50 +1,17 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Homem enche Amazon Drive com 1,8 petabytes de pornografia como teste"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/4.jpg
-tags: [featured]
+image: https://img.ibxk.com.br/2019/06/26/26183217064360.jpg
+tags: [artigos]
 ---
-There are lots of powerful things you can do with the Markdown editor
+Um usuário do Reddit, conhecido como “beaston02”, tinha como meta descobrir se o “armazenamento ilimitado” do Amazon Drive realmente era ilimitado. Para isso, alimentou a nuvem do serviço com vídeos pornográficos durante meses e, enfim, teve sua descoberta: 1,8 petabytes como limite, o que significa cerca de 2 milhões de gigabytes.
 
-If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+Foram cerca de seis meses de trabalho para encher a nuvem
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+Como demonstrado pelo usuário, ele conseguiu enviar para o armazenamento 10,6 TB de fotos, 3,9 TB de arquivos e 1.011 TB de vídeos. Tudo, simplesmente tudo, era pornografia.
 
+O usuário do Reddit criou um script para gravar transmissões ao vivo de webcams públicas em sites pornôs. Enquanto o material era gravado, ao mesmo, era enviado para o armazenamento do Amazon Drive. Foram cerca de seis meses de trabalho para encher a nuvem.
 
-## Special formatting
-
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-If you want to get really fancy, you can even add syntax highlighting using Rouge.
-
-
-![walking]({{ site.baseurl }}/assets/images/3.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+“Beaston02” ainda afirmou que, se reproduzidos de forma contínua, os vídeos representariam até 293 anos em transmissão direta, na qualidade máxima de 720p. A ideia virou projeto: o ‘Petabyte Porn Project’ agora conta com Github e scripts de vídeo e armazenamento para “espalhar a palavra”.

@@ -1,15 +1,22 @@
 ---
 layout: post
-title:  "Options for creating a new site with Jekyll"
+title:  "Brasil fica em primeiro lugar em campeonato mundial de robótica nos EUA"
 author: jane
-categories: [ Jekyll, tutorial ]
-image: assets/images/13.jpg
+categories: [ News ]
+image: https://media.metrolatam.com/2019/04/23/f454627-9f1f31508dec81827edbfa2b45d8068b-1200x600.jpg
 ---
+O Brasil foi reconhecido no principal campeonato mundial de robótica, encerrado no último sábado, em Houston, Texas, nos Estados Unidos.
 
-`jekyll new <PATH>` installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called `myblog`. Here are some additional details:
+O País ficou em primeiro lugar nas categorias de design mecânico de robô e em segundo lugar em estratégia e inovação. Das dez equipes brasileiras que viajaram a Houston, cinco foram premiadas.
 
-- To install the Jekyll site into the directory you're currently in, run `jekyll new` . If the existing directory isn't empty, you can pass the --force option with jekyll new . --force.
-- `jekyll new` automatically initiates `bundle install` to install the dependencies required. (If you don't want Bundler to install the gems, use `jekyll new myblog --skip-bundle`.)
-- By default, the Jekyll site installed by `jekyll new` uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.
-- We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use `jekyll new myblog --blank`
-- To learn about other parameters you can include with `jekyll new`, type `jekyll new --help`.
+Na First Robotics Competition (FRC), voltada a jovens de 14 a 18 anos, duas equipes levaram o "Rookie All Star", premiação máxima concedida aos iniciantes na disputa. A Robonáticos #7565 e a Octopus #7567, ambas do Sesi/Senai de São Paulo, foram as premiadas.
+
+Design. Na First Lego League (FLL), para alunos de 9 a 16 anos, a equipe Red Rabbit, da escola Sesi de Americana (SP), foi reconhecida por ter o melhor design entre as 108 equipes que participaram da FLL no mundial de Houston.
+
+Nesta categoria, os juízes avaliam a estrutura do robô desenvolvido pelos competidores e os conceitos de engenharia utilizados.
+
+A Jedi’s (de Jundiaí/SP) ainda conquistou a segunda posição em estratégia e inovação.
+
+Ainda na FLL, a Techmaker (do Sesi de Blumenau/SC) recebeu o primeiro lugar em Gracious Professionalism, categoria que avalia o cumprimento das metas do torneio, entre elas o compartilhamento de informações, simpatia e profissionalismo dos participantes.
+
+Na categoria FirstTech Challenge (FTC), a equipe Geartech Canaã (do Sesi de Goiânia) foi uma das seis finalistas no prêmio motivação.

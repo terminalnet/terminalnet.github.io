@@ -1,48 +1,30 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "App brasileiro que traduz Português para Libras ganha prêmio do Google"
 author: jane
 categories: [ News ]
-image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+image: https://s2.glbimg.com/g5L7ksa8e3VJ5Bz8ALXmHSoD0SU=/e.glbimg.com/og/ed/f/original/2019/05/10/hand_talk.jpg
 tags: [artigos]
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+O App brasileiro Hand Talk, já mostrado aqui no SóNotíciaBoa, acaba de ser premiado pelo Google. O aplicativo traduz mensagens em Português para Libras, a Língua Brasileira de Sinais.
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+O App foi um dos projetos selecionados no Desafio Google de Impacto em IA – Inteligência Artificial.
 
+Com o prêmio, o Hand Talk ganhou R$ 5 milhões, consultoria do Google e a entrada em uma aceleradora de empresas.
+O aplicativo foi criado em 2012 por Ronaldo Tenório, um jovem empreendedor digital de 33 anos.
+Hand Talk também é o nome da empresa. Ela criou o pequeno avatar que pode ser adicionado em sites, ou utilizado em um aplicativo para smartphones e que transforma o texto em português para Libras.
 
-## Special formatting
+A empresa foi uma das 20 selecionadas pelo Google esta semana.
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+O desafio premia organizações que propõem ideias para enfrentar problemas atuais e os vencedores falam sobre saúde, economia e empoderamento, proteção e conservação ambiental, educação, desinformação, crise e respostas a emergências.
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+Ao todo foram 2.602 inscrições de 119 países.
 
+O Hand Talk está disponível para Android e iPhone, de graça.
 
-## Writing code blocks
+hand-talk-imagem
+Foto: reprodução / Google
 
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
+Foto: reprodução / Google
 
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-If you want to get really fancy, you can even add syntax highlighting using Rouge.
-
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+Com informações do Tecnoblog e Google.

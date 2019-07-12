@@ -2,7 +2,7 @@
 layout: post
 title: "Ransomware que exige R$ 10 mil para desbloquear PC já está na América Latina"
 categories: [ News ]
-image: '/assets/images/ransomware.jpg'
+image: 'assets/images/ransomware.jpg'
 ---
 
 *Sodin confisca os arquivos do computador e pede US$ 2.500 por resgate. Ele tem como alvo a região asiática, mas também já apareceu na Europa e na América do Norte*

@@ -13,7 +13,7 @@ O feito do rapaz por si só já é notável e significativo, mas ganha ares aind
 
 > Aos 23 anos, o Julio, que tem autismo severo, precisa ser amarrado em momentos de crise. Também por falta de tratamento ele parou de falar há muitos anos e precisa de um acompanhamento em clínicas e psicoterapeutas. Queremos custear um tratamento pra ele e comprar moveis para a família em Fortaleza (CE) viver um pouco melhor. [Contribua aqui](https://voaa.me/tratamento-julio4) .
 
-![Imagem Julio](assets/images/whatsapp-image-2019-07-04-at-23-01-50-6215875.jpeg)
+![Imagem Julio](/assets/images/whatsapp.jpg)
 
 Ao final, ele conseguiu. Na última segunda-feira (8), o estudante foi até Salvador (BA) receber seu prêmio.
 

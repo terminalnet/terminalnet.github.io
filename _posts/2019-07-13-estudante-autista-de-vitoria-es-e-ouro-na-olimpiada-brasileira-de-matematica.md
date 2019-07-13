@@ -11,7 +11,7 @@ Aluno da Escola Municipal Experimental de Vitória, que fica dentro da Ufes (Uni
 
 O feito do rapaz por si só já é notável e significativo, mas ganha ares ainda mais especiais porque ele é autista.
 
-> Aos 23 anos, o Julio, que tem autismo severo, precisa ser amarrado em momentos de crise. Também por falta de tratamento ele parou de falar há muitos anos e precisa de um acompanhamento em clínicas e psicoterapeutas. Queremos custear um tratamento pra ele e comprar moveis para a família em Fortaleza (CE) viver um pouco melhor. [Contribua aqui](https://voaa.me/tratamento-julio4) .
+> Aos 23 anos, o Julio, que tem autismo severo, precisa ser amarrado em momentos de crise. Também por falta de tratamento ele parou de falar há muitos anos e precisa de um acompanhamento em clínicas e psicoterapeutas. Queremos custear um tratamento pra ele e comprar moveis para a família em Fortaleza (CE) viver um pouco melhor. [Contribua aqui](https://voaa.me/tratamento-julio?_ga=2.85482142.667652681.1563060165-244940340.1563060164) .
 
 ![Imagem Julio](/assets/images/whatsapp.jpg)
 

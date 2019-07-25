@@ -5,6 +5,7 @@ author: sal
 categories: [ News ]
 image: assets/images/Mariana_EGMO_2.jpg
 tags: artigos
+tags: [featured]
 ---
 Se cada ouro olímpico para o Brasil é celebrado como a grande conquista que de fato é, esse outro ouro, numa olimpíada também diferente, merece toda celebração: trata-se do feito de Mariana Bigolin Groff, a jovem gaúcha que ficou em primeiro lugar na 8a Olimpíada Europeia de Matemática (EGMO, em inglês). Aos 17 anos, Mariana conquistou a medalha de ouro em Kiev, na Ucrânia, onde o evento aconteceu entre os dias 7 e 13 de abril.
 

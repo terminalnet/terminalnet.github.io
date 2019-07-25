@@ -4,7 +4,7 @@ title:  "Os celulares espiam e transmitem nossas conversas, mesmo desligados"
 author: jane
 categories: [ News ]
 image: assets/images/1550953521_057163_1550954640_noticia_normal_recorte1.jpg
-tags: [artigos]
+tags: [featured]
 ---
 
 

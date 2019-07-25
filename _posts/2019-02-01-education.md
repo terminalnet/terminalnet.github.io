@@ -3,6 +3,7 @@ layout: post
 title:  "Cearenses levam ouro, prata e bronze na Olimpíada Internacional de Química"
 categories: [ News ]
 image: assets/images/6905526.jpg
+tags: [featured]
 ---
 50ª Olimpíada Internacional de Química ocorreu em Praga, na República Tcheca.
 

@@ -20,5 +20,3 @@ Ou você pode arriscar e acreditar que ninguém vai tentar te atacar enquanto vo
 Nesta quarta-feira (23), o VideoLAN respondeu ao incidente por meio de um [tuíte](https://twitter.com/videolan/status/1153963312981389312), dizendo que o VLC pode não estar tão vulnerável quanto parecia inicialmente. O VideoLAN diz que o “problema de segurança” no VLC foi causado por uma biblioteca de terceiros chamada Libebml, que foi corrigida há 16 meses, e que as acusações eram baseadas em uma versão anterior (e desatualizada) do VLC.
 
 Via: [Gizmodo](https://gizmodo.uol.com.br/falha-seguranca-vlc-hackers/)
-
-

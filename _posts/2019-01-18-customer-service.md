@@ -4,6 +4,7 @@ title:  "Cientistas mostram que pinguins tentam matar 'talaricos'"
 author: jane
 categories: [ News ]
 image: assets/images/cats.jpg
+tags: [featured]
 ---
  Um estudo publicado na Biology Letters mostram que os pinguins são monogâmicos não só durante a época de acasalamento, mas tendem a permanecer fiéis ao parceiro ou parceira mesmo quando o macho vai viajar, e acabam tendo um relacionamento à distância.
 

@@ -4,7 +4,7 @@ title:  "Alcance ilimitado, sem salvaguardas': Snowden avisa sobre maior control
 author: sal
 categories: [ News ]
 image: assets/images/745525.jpg
-tags: [artigos]
+tags: [featured]
 ---
 O governo dos EUA tem tendência de se apropriar das inovações revolucionárias e torná-las em armas, disse Edward Snowden. Ele notou que o desejo humano natural de comunicar com os outros está sendo utilizado em uma escala sem precedentes.
 

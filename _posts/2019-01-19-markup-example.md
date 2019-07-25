@@ -4,7 +4,7 @@ title:  "Unicamp faz 1ª cirurgia de crânio com titânio impresso em 3D do Bras
 author: jane
 categories: [ News ]
 image: assets/images/cranio4.jpg
-tags: artigos
+tags: [featured]
 ---
 Procedimento da paciente contemplada foi acompanhado em Campinas.
 Placa de titânio usada para reconstrução facial foi feita em impressora 3D.

@@ -4,6 +4,7 @@ title:  "Habilidades, não diplomas, definem hoje os melhores talentos, diz CEO 
 author: sal
 categories: [ News ]
 image: assets/images/gettyimages-490834208.jpg
+tags: [featured]
 ---
 Em processos seletivos, é comum que recrutadores levem em consideração a universidade onde se formaram os candidatos — sobretudo para dar preferência aos que frequentaram as instituições mais renomadas. Para Jeff Weiner, CEO do LinkedIn, tal prática não faz o menor sentido. Durante uma palestra na ASU GSV Summit, o executivo defendeu o que acredita ser importante analisar na hora de contratar alguém. Segundo ele, o LinkedIn quer alguém com paixão pelo que faz, ética, perseverança, lealdade e mentalidade de crescimento (o "Growth Mindset" sobre o qual tem se falado tanto no mundo corporativo recentemente).
 

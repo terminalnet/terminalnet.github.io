@@ -4,7 +4,7 @@ title:  "App brasileiro que traduz Português para Libras ganha prêmio do Googl
 author: jane
 categories: [ News ]
 image: assets/images/hand_talk.jpg
-tags: [artigos]
+tags: [featured]
 ---
 O App brasileiro Hand Talk, já mostrado aqui no SóNotíciaBoa, acaba de ser premiado pelo Google. O aplicativo traduz mensagens em Português para Libras, a Língua Brasileira de Sinais.
 

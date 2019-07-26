@@ -13,13 +13,13 @@ Segundo a equipe da [ESCuderia Mileage](http://www3.eesc.usp.br/mileage/), forma
 
 No momento em que é construído, segue os moldes das competições, o que justifica seu formato monocoque, uma estrutura única que integra o piloto, resultando no alcance de maior velocidade e eficiência energética. Assim, é capaz de rodar durante uma hora e meia com uma velocidade média de 40 km/h. Para recarregá-lo, basta encontrar uma tomada 110 ou 220 volts. Prático, não?
 
-![Escuderia](assets/images/usp2.jpg)
+![Escuderia](/assets/images/usp2.jpg)
 
 Vale na sua vida
 
 Sabia que os carros elétricos são movidos a bateria de níquel? A Vale é a maior produtora do minério, que é um dos metais mais versáteis do mundo. Boa parte da produção é destinada para galvanização e baterias. Com aumento da produção de veículos movidos a energia, o níquel é cada vez mais procurado e se torna uma peça essencial ao redor do mundo.
 
-![Escuderia](assets/images/usp3.jpg)
+![Escuderia](/assets/images/usp3.jpg)
 
 Via: [Razões Para Acreditar](https://razoesparaacreditar.com/design/alunos-usp-carro-eletrico/)
 

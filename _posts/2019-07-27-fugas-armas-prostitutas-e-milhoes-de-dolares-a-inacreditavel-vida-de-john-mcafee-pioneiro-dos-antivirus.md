@@ -2,7 +2,7 @@
 layout: post
 title: "Fugas, armas, prostitutas e milhões de dólares: a inacreditável vida de John McAfee, pioneiro dos antivírus"
 categories: [ News ]
-image: 'assets/images/mcafee.jpg'
+image: 'assets/images/mcafee2.jpg'
 ---
 
 De lenda da tecnologia a fugitivo em Belize. De um rancho rural no Tennessee à candidatura à Casa Branca. De "profeta dos bitcoins" a procurado pela CIA. De "exilado" nas Bahamas a uma nova candidatura à presidência dos EUA... mas com uma campanha sediada em Cuba.

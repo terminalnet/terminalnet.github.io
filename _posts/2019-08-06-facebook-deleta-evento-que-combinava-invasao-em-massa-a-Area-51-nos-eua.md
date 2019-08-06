@@ -2,7 +2,7 @@
 layout: post
 title: "Facebook deleta evento que combinava invasão em massa à Área 51 nos EUA"
 categories: [ News ]
-image: 'assets/images/area51'
+image: 'assets/images/area51.jpg'
 ---
 
 Um evento criado em tom de zoeira no Facebook, em julho, chegou a acumular mais de 2 milhões de pessoas, entre confirmados e interessados, para invadirem a misteriosa Área 51 nos Estados Unidos. Até mesmo atores famosos entraram no hype e compartilharam fotos em suas redes sociais apoiando a ideia, e a polêmica rendeu tanto que, agora, o Facebook deletou o evento da plataforma, supostamente por violar os Padrões da Comunidade.

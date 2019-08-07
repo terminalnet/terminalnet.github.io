@@ -23,6 +23,8 @@ Enquanto Patrick disse que o suspeito de ser o autor da tragédia de El Paso fez
 
 Em seu discurso, Trump também discutiu como a Internet tem fomentado a disseminação de crenças violentas e perigosas. "Devemos reconhecer que a internet fornece um caminho perigoso para a radicalização de mentes perturbadas", disse ele, em referência ao manifesto que o suspeito do tiroteiro em El Paso teria publicado em um fórum online.
 
+![Donald Trump](/assets/images/trump3.jpg)
+
 O presidente dos EUA também usou a ocasião para delinear os próximos passos legislativos e prioridades para enfrentar de forma mais eficiente a crise de violência e tiroteios em todo o país. Trump prometeu agir com "determinação urgente" para combater os disparos em massa, que aumentaram nos últimos meses, e criticou a supremacia branca, bem como o terrorismo doméstico.
 
 O republicano prometeu às vítimas das tragédias recentes maior apoio governamental e investigação do FBI (Departamento Federal de Investigação dos EUA) para punir os autores dos crimes. Ele pretende ainda melhorar o trabalho das agências norte-americanas e empresas de mídia social na detecção de sinais precoces de intolerância e violência. Para concluir, Trump pediu uma reforma das políticas de saúde e tratamento mental no país e expressou interesse em criar uma lei de pena de morte para os assassinos em massa.

@@ -15,6 +15,8 @@ Em menos de 24 horas, dois massacres assolaram os EUA. O primeiro aconteceu no s
 
 Os comentários de Trump sobre a relação entre tiroteios e videogames continuam uma tendência de posicionamento entre os principais líderes republicanos, que também colocam parte da culpa das tragédias no teor violento de alguns jogos eletrônicos. O deputado republicano e Líder da Minoria da Câmara do governo norte-americano, Kevin McCarthy, e o governador do Texas, Dan Patrick, também mencionaram os videogames como um fator que contribuí para tiroteios em massa.
 
+![Donald Trump](/assets/images/trump2.jpg)
+
 Enquanto Patrick disse que o suspeito de ser o autor da tragédia de El Paso fez referência ao jogo de guerra Call of Duty em seu manifesto – um texto racista com discursos de ódio em que o criminoso "justifica" sua atitude –, McCarthy pressionou o governo para que fizesse algo sobre a indústria de videogames.
 
 "Por quanto tempo vamos deixar, por exemplo, e ignorar [a culpa dos videogames], principalmente a nível federal, onde eles podem fazer algo sobre a indústria de videogames?", Disse McCarthy à Fox News neste final de semana. Embora estudos mostrem que não há relação entre violência da vida real e jogos eletrônicos mais agressivos, os videogames rotineiramente são apontados como grandes culpados em situações trágicas.

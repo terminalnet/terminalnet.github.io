@@ -12,6 +12,18 @@ O ponto é que, após o fechamento do mercado nos Estados Unidos, o bitcoin volt
 
 O motivo seria a alta busca pela moeda, quando investidores apostaram na manutenção da alta do bitcoin. O aumento da demanda derrubou o preço, sendo que sites como Coinbase anunciaram que caíram por um período curto de tempo diante de tamanha procura.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Apesar da grande queda, a moeda ainda segue em alta no ano, segurando a marca acima dos US$ 10 mil. Nesta sexta-feira (28), as negociações giram em torno de US$ 11 mil.
 
 O bitcoin não alcançava o patamar de US$ 13 mil desde janeiro de 2018. Aliás, aquele foi o ano de decadência da moeda, que viu uma amarga variação de US$ 20 mil para perto de US$ 5 mil no final do ano.
@@ -23,6 +35,18 @@ O Cambridge Bitcoin Electricity Consumption Index (Índice de Consumo de Eletric
 Atualmente, a CBECI diz que a rede global do bitcoin está consumindo mais de 7 gigawatts de eletricidade. Ao longo de um ano, isso equivale a cerca de 64 terawatt-hora de consumo de energia. Isso significa que o bitcoin é responsável por aproximadamente 0,25% de todo o consumo de eletricidade do mundo.
 
 Está bem claro que o bitcoin requer uma enorme quantidade de energia, já que é usado por mineradores de todo o mundo que executam o hardware necessário para manter a rede e validar os pagamentos. Mas também vale lembrar que esses números são uma estimativa.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Em um post no blog anunciando o novo índice, o Cambridge Center for Alternative Finance, que supervisionou o trabalho, fez a mesma observação: "Estimativas confiáveis ​​do uso de eletricidade do bitcoin são raras: na maioria dos casos, elas fornecem apenas um instantâneo único e os números geralmente mostram discrepâncias substanciais de um modelo para outro".
 

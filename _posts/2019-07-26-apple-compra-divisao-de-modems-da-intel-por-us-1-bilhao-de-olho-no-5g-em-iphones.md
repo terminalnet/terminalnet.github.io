@@ -13,6 +13,18 @@ Importante lembrar que este movimento deve auxiliar a companhia a se livrar da d
 
 Em abril, Apple e Qualcomm chegaram a um acordo após uma briga judicial iniciada em 2017. Em resumo, a Apple acusava a Qualcomm de cobrar altas taxas de licenciamento de patentes de tecnologia. A situação entre as empresas foi resolvida depois de firmarem um acordo de licenciamento com validade de seis anos. Logo depois do anúncio, a Intel, que trabalhava desenvolvendo modems para iPhones, anunciou que não fabricaria mais modems 5G para smartphones.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Como nota o ArsTechnica, a Intel entrou no ramo de modems após ter comprado uma empresa chamada Infineon há dez anos. A ideia era tentar competir com a Qualcomm, mas nunca conseguiram bater de frente com a companhia no ramo de smartphones. Prova disso é que quase todos os iPhones tinham chip de internet móvel da Qualcomm. Apenas nos últimos anos que a Apple passou a diversificar e contar com telefones com chips das duas empresas, com a opção Intel oferecendo performance menor.
 
 Apesar de ter vendido a divisão de modems para smartphone, o acordo entre Apple e Intel permite que a líder de processadores para PCs desenvolva tecnologias de modem para computadores, veículos autônomos e dispositivos de IoT (Internet das Coisas).

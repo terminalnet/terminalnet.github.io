@@ -9,6 +9,18 @@ image: 'assets/images/bolsonaro.jpg'
 
 O Ministério da Justiça e Segurança Pública informou em nota, nesta manhã (25/07), que os telefones celulares do Presidente Jair Bolsonaro também foram alvo dos hackers presos na “Operação Spoofing” da Polícia Federal.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Segundo o comunicado, "O Ministério da Justiça e Segurança Pública foi, por questão de segurança nacional, informado pela Polícia Federal de que aparelhos celulares utilizados pelo Presidente da República, Jair Bolsonaro, foram alvos de ataques pelo grupo de hackers preso na última terça feira (23). Por questão de segurança nacional, o fato foi devidamente comunicado ao Presidente da República".
 
 Os quatro suspeitos, que foram detidos em 23 de Julho, invadiram os celulares do Ministro Sérgio Moro e de Deltan Dallagnol, coordenador da Lava-Jato no Paraná. Segundo investigadores, há 'fortes indicativos' de que o celular do Ministro da Economia, Paulo Guedes, também foi atacado.

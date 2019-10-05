@@ -10,6 +10,18 @@ Uma banana com textura parecida com sorvete, sabor de baunilha e cor azulada? Po
 
 A banana azul, também conhecida como Ney Mannan ou Krie, só existe em alguns países de clima tropical. Foto: Sociedade Internacional da Banana/reprodução.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Essa variedade de banana chama a atenção pela aparência, com a planta em si alcançando até seis metros de altura, os frutos um pouco maiores que o habitual, e a forma de consumo – quanto menos madura, melhor. É ainda nova que ela mantém a cor azul, depois a banana fica com uma tonalidade mais pálida, com a polpa cremosa branca.
 
 Não se sabe exatamente como essa variedade surgiu, mas, segundo a Sociedade Internacional da Banana, a Musa acuminata × balbisiana Blue Java teve seus primeiros registros de cultivo na Índia, e curiosamente foi levada para outros países. Menos para o Brasil, segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa).
@@ -21,6 +33,18 @@ A consultora e chef curitibana Taissa Schuartz conheceu a banana azul há quatro
 Taissa conta que achou a banana azul muito curiosa, mas com um sabor característico e uma textura que lembra muito a massa usada para o preparo de salgados fritos.
 
 “Achei bem interessante que essa banana só é azul enquanto ainda está nova, depois vai perdendo a coloração. Aí elas me ensinaram uma receita em que a gente cozinha a banana e vai amassando e batendo até virar uma massa. Ao fim, essa pasta fica com uma consistência que parece a massa da coxinha, e recheia com queijo, carne, o que quiser, empana e frita”, explica a chef.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Ela diz que a banana tem um sabor que realmente remete à baunilha, mas que, dependendo do preparo, pode perder um pouco do dulçor. Registros da Sociedade Internacional da Banana apontam que ela pode ser consumida tanto ainda nova, na tonalidade azul, como mais madura.
 Rissole de banana azul

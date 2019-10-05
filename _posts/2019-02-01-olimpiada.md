@@ -19,6 +19,18 @@ Vinícius Figueira Armelin, de 17 anos, de São Bernardo do Campo, levou também
 
 Orisvaldo Salviano, vencedor do bronze, já havia tentado uma vitória na Olimpíada antes. Ele conta que persistiu nos estudos até até a conquista. "Estudei, estudei, estudei, tentei vir pra [Olimpíada] Internacional a primeira vez e não consegui. Tentei de novo e na segunda eu consegui e estou aqui."
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 76 países
 
 Participaram da competição 304 estudantes de 76 países, organizados em times de quatro. Eles foram avaliados por meio de provas prática e teórica individuais, cada uma com duração de 5h30min.

@@ -15,7 +15,7 @@ Em 1980, um ano antes da palestra de Hawking, o cosmólogo Alan Guth percebeu qu
 
 A inflação rapidamente se tornou a principal teoria de nossas origens cósmicas. No entanto, a questão das condições iniciais permaneceu: qual é a fonte do minúsculo fragmento que supostamente insuflou e se tornou nosso cosmo? E qual a fonte da energia potencial que o inflava?
 
-### [200~Hawking e o “nada”
+### Hawking e o “nada”
 
 Hawking, em seu brilhantismo, viu uma maneira de acabar com o interminável debate: ele propôs que não há fim nem começo. “Deve haver algo muito especial sobre as condições de contorno do universo, e o que pode ser mais especial do que a condição de que não há fronteira?”, disse.
 
@@ -26,6 +26,18 @@ A “proposta sem fronteiras”, que Hawking e seu colega James Hartle formulara
 Hartle e Hawking derivaram uma fórmula descrevendo toda a peteca – a chamada “função de onda do universo” que engloba todo o passado, presente e futuro de uma vez, sem necessidade de sementes da criação, um criador ou qualquer transição de tempo.
 
 “Perguntar o que veio antes do Big Bang não tem sentido, de acordo com a proposta sem fronteira, porque não há noção de tempo disponível para se referir”, disse Hawking em outra palestra em 2016, um ano e meio antes de sua morte. “Seria como perguntar o que está ao sul do Polo Sul”.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### O universo sem fronteira
 
@@ -41,6 +53,18 @@ A proposta representa um primeiro palpite para a descrição quântica do cosmos
 
 No entanto, há dois anos, um artigo de Turok, com colaboração de Job Feldbrugge, também do Instituto Perimeter, e Jean-Luc Lehners, do Instituto Max Planck de Física (Alemanha), questionou a proposta de Hartle e Hawking.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### A refutação
 
 O trio crê que a proposta só é viável se um universo que se curva a partir de um ponto adimensional no modo como Hartle e Hawking imaginam naturalmente cresce em um universo como o nosso.
@@ -52,6 +76,18 @@ Hawking e Hartle argumentaram que, de fato, universos sem fronteiras tenderão a
 “Descobrimos que [a teoria] simplesmente falha miseravelmente”, explicou Turok. “Não é possível, quântico mecanicamente, para um universo começar da maneira que eles imaginavam”.
 
 O artigo reacendeu o debate. Outros especialistas montaram uma defesa vigorosa da ideia de não-fronteira e uma refutação do raciocínio de Turok e seus colegas. “Nós discordamos de seus argumentos técnicos”, disse Thomas Hertog, físico da Universidade Católica de Leuven (Bélgica), que colaborou estreitamente com Hawking nos últimos 20 anos de sua vida. “Mas, mais fundamentalmente, discordamos também de sua definição, sua estrutura, sua escolha de princípios. E essa é a discussão mais interessante”.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Os princípios 
 
@@ -68,6 +104,18 @@ As soluções rivais são as duas histórias de expansão “clássicas” que u
 Uma das duas soluções clássicas se assemelha ao nosso universo. Em escalas grandes, é suave e aleatoriamente salpicado de energia, devido a flutuações quânticas durante a inflação. Como no universo real, as diferenças de densidade entre as regiões formam uma curva. Se esta possível solução de fato dominar a função de onda, torna-se plausível imaginar que uma versão muito mais detalhada e exata da função de onda possa servir como um modelo cosmológico viável do universo real.
 
 A outra forma de universo potencialmente dominante não é nada como a realidade. À medida que se alarga, a energia que a infunde varia cada vez mais, criando enormes diferenças de densidade de um lugar para o outro, que a gravidade piora constantemente. As variações de densidade formam uma curva de sino invertido, onde as diferenças entre as regiões não se aproximam de zero, mas de infinito. Se este é o termo dominante na função de onda, então a proposta de Hartle-Hawking parece estar errada.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Questão de escolha
 
@@ -88,6 +136,18 @@ O físico do Imperial College London (Reino Unido) Jonathan Halliwell analisou e
 Hawking raramente mencionou sua formulação integral da função de onda em seus últimos anos de vida, em parte por causa da ambiguidade em torno da escolha do contorno. Ele considerou a história de expansão normalizável como a solução para uma equação mais fundamental sobre o universo apresentada na década de 1960 pelos físicos John Wheeler e Bryce DeWitt.
 
 Wheeler e DeWitt argumentaram que a função de onda do universo, seja ela qual for, não pode depender do tempo, já que não há relógio externo para medi-lo. E assim a quantidade de energia no universo, quando você soma as contribuições positivas e negativas da matéria e da gravidade, deve permanecer zero para sempre. A função de onda satisfaz a equação de Wheeler-DeWitt para o “mini super espaço”.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Muito pela frente
 

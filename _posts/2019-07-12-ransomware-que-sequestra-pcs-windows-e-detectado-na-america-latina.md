@@ -15,6 +15,18 @@ Segundo pesquisadores da empresa, o ransomware obtém privilégios de administra
 
 Os invasores que usaram o Sodin não precisaram de tal ajuda. Eles só tiveram que encontrar um servidor vulnerável para, então, enviar um comando com ordem para baixar o arquivo malicioso chamado "radm.exe" e executá-lo.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Como evitar estes ataques?
 
 A Kaspersky nota que ataques com ransomware têm mudado de cara nos últimos anos. Apesar de uma redução no número total de ataques, os cibercriminosos têm escolhido melhor seus alvos, levando em conta o potencial de retorno do golpe. Assim, menos infecções são registradas, mas os danos causados têm sido maiores, já que os hackers miram grandes instituições e empresas que possam pagar o resgate exigido para desbloquear o dispositivo infectado.

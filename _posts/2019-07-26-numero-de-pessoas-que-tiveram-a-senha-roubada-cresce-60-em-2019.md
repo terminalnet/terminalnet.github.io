@@ -8,6 +8,18 @@ Cuidado com os sites que você acessa na internet, pois há uma boa chance de te
 
 O mecanismo para roubo de senha (também conhecido pela sigla PSW) é uma das principais armas de cibercriminosos para roubar os dados pessoais dos internautas, pois esse tipo de ferramenta obtém dados direto dos navegadores de suas vítimas e utilizam vários métodos de ataque, podendo roubar senhas para acesso de serviços na internet (como o Facebook ou o Gmail), bem como senhas de acesso a bancos. Além disso, os malwares deste tipo também costumam ser projetados para outros fins além do roubo de senhas, como roubar arquivos de algum lugar específico do computador de suas vítimas.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Nos últimos seis meses, a Kaspersky identificou um aumento nas atividades desses softwares maliciosos ligados a cibercriminosos na Europa e na Ásia, e as principais vítimas desses programas foram os usuários da Rússia, da Índia, do Brasil, da Alemanha e dos Estados Unidos. Um dos malwares mais difundidos é Azorult, que foi detectado em mais de 25% dos computadores que a Kaspersky identificou como infectados por um vírus de roubo de senhas.
 
 Para evitar se tornar vítima desses ataques, o mais recomendável é não compartilhar suas senhas com ninguém através de e-mail ou em mensagens de redes sociais, manter sempre todos os seus programas atualizados (já que as atualizações sempre fecham possíveis brechas que poderiam ser usadas por um vírus para infectar o computador) e usar sempre um gerenciador de senhas confiável para manter suas senhas salvas na máquina sem o perigo de que elas sejam roubadas por algum vírus.

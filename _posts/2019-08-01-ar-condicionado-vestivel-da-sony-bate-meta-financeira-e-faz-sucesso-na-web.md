@@ -11,9 +11,33 @@ O Reon Pocket promete resfriar ou aquecer o corpo do usuário em dias frios ou d
 
 O dispositivo é capaz de resfriar a temperatura corporal em até 13º C, em dias quentes, ou aquecer em até 8º C, em dias mais frios. O aparelho pode regular a temperatura automaticamente e o usuário pode configurá-lo para operar de acordo com seu gosto, através de seu smartphone.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Para utilizá-lo, é necessário uma camisa especial, que também está inclusa no projeto. Ela apresenta um bolso interno nas costas, pouco abaixo do pescoço, onde o wearable é inserido. Por esse motivo, provavelmente o rosto do usuário não deve ser atingido pelo resfriamento.
 
 A Sony destaca que o dispositivo alivia a sensação de calor e de umidade no corpo. Não há previsão de lançamento no Brasil.
 
 Via: [First Flight](https://first-flight.sony.com/pj/reonpocket), [Gizmodo](https://gizmodo.com/sony-s-wearable-air-conditioner-should-be-ready-for-nex-1836691714) e [Digital Trends](https://www.digitaltrends.com/cool-tech/sonys-reon-pocket-is-a-smartphone-controlled-wearable-air-conditioner/)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 

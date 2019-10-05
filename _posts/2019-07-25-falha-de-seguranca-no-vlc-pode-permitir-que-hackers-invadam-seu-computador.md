@@ -11,6 +11,18 @@ Descoberta pela agência de segurança alemã CERT-Bund (via [WinFuture](https:/
 
 A vulnerabilidade permite uma RCE (execução remota de código), que potencialmente autoriza agentes mal-intencionados a instalarem, modificarem ou executarem um software sem autorização, e também pode ser utilizado para divulgar arquivos no sistema host. Tradução: A falha de segurança do VLC pode permitir que hackers invadam seu computador e vejam seus arquivos.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Felizmente, parece que ninguém tirou proveito da falha ainda, mas com o WinFuture relatando que as versões Windows, Linux e Unix do VLC foram todas afetadas (mas não a versão do macOS), há um grande número de sistemas potencialmente vulneráveis ​​por aí.
 
 O VideoLAN também está ciente do problema e está atualmente [trabalhando em uma série](https://trac.videolan.org/vlc/ticket/22474) de mudanças, embora, neste momento, elas pareçam estar apenas 60% completas. Infelizmente, isso significa que enquanto as pessoas estão esperando por uma solução, seu único recurso para se proteger da falha é desinstalar o VLC e mudar para uma alternativa como o KMPlayer ou o Media Player Classic.

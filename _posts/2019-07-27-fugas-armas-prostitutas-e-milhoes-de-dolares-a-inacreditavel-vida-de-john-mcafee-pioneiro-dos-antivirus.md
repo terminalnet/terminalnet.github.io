@@ -21,6 +21,18 @@ Ele então viajou para Cuba, onde, de acordo com seus tweets, esperava que o gov
 
 Em meio às sanções de Donald Trump contra a ilha, McAfee ancorou seu iate na exclusiva marina Hemingway, de onde, dia após dia, publicava fotos, vídeos e comentários sobre charutos, restaurantes, bebidas caras e festas.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Em Havana, ele voltou às manchetes ao anunciar que estabeleceria, ali mesmo, seu comitê para as eleições de 2020. Esta seria sua segunda tentativa de chegar à Casa Branca - dessa vez, com plataformas baseadas nas criptomoedas e no livre comércio.
 
 "Como sou um perseguido político, a sede da minha campanha agora está localizada em Havana, Cuba. Eu ainda estou lutando", escreveu ele no Twitter, onde afirmou candidato a 1,2 milhão de seguidores.
@@ -34,6 +46,18 @@ No entanto, jornalistas cubanos consultados pela BBC Mundo, o serviço em espanh
 Em meados de julho, ele postou uma foto em seu iate com a atual esposa, ambos carregando armas pesadas. Ele escreveu que a CIA "estava tentando alcançá-los" e que "eles estavam no mar".
 
 Poucos depois, ele foi preso com armas e mais de 80 mil dólares na República Dominicana. Libertado quatro dias depois, McAfee tinha destino desconhecido até esta sexta-feira, quando anunciou que estava em Londres.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Vida em Fuga
 
@@ -51,6 +75,18 @@ Eles se casaram pouco depois e foram morar em uma fazenda no Tennessee, de onde 
 
 ![McAfee Putas](/assets/images/mcafee.jpg)
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Apesar do sotaque do sul dos EUA, o empresário loiro e de cavanhaque nasceu em uma base militar dos EUA na Inglaterra - ele é filho de uma mulher britânica que conheceu um soldado americano durante a Segunda Guerra Mundial.
 
 Quando jovem, mudou-se para o estado da Virgínia, onde teve uma infância conturbada: seu pai era alcoólatra e cometeu suicídio quando a McAfee tinha 15 anos de idade.
@@ -62,6 +98,18 @@ A Universidade Estadual de Louisiana o expulsou de um doutorado em matemática q
 Enquanto continuava preso aos vícios, McAfee começou a trabalhar com algumas das maiores organizações de tecnologia da época, como a NASA, a General Electric, a Siemens, a Univac e a Xerox. As coisas chegaram a um ponto crítico na década de 1980, quando sua esposa foi demitida e a dependência por drogas e prostitutas forçaram o milionário a procurar ajuda.
 
 No ano passado, ele afirmou que tem 47 filhos.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Guru digital
 
@@ -86,3 +134,15 @@ Desde 1995, quando fez 50 anos, McAfee começou a investir em outros projetos di
 Hoje, aos 73 anos, ele continua a viver uma vida repleta de mudanças abruptas, episódios truculentos, aventuras e excentricidades de todos os tipos.
 
 Fonte: *https://www.bbc.com/portuguese/49088281*
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>

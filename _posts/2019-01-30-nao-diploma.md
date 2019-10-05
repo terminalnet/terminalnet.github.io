@@ -12,6 +12,18 @@ Em processos seletivos, é comum que recrutadores levem em consideração a univ
 
 "Cada vez mais eu ouço esse mantra: habilidades, não diplomas. Não são habilidades que dispensam diplomas. Trata-se apenas de expandir nossa perspectiva para ir além dos diplomas." Ou seja, três palavras que podem fazer toda a diferença no processo de contratação: habilidades, não diplomas. E faz todo o sentido.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 + Por que há executivos pagando tão caro para aprender soft skills?
 
 "Nós nos orgulhávamos de no recrutamento ter uma lista incrivelmente curta de universidades, e muitas empresas do Vale do Silício costumavam fazer o mesmo", disse Weiner. "Certamente não estamos sozinhos. Recentemente, demos uma olhada no perfis do LinkedIn e constatamos que, entre os trabalhadores do setor de tecnologia dentro do Vale, apenas 5% deles tiveram formações não tradicionais".

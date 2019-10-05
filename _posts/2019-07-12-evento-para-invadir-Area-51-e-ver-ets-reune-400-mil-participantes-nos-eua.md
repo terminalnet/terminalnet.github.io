@@ -11,6 +11,18 @@ A entrada na área protegida, e alvo de inúmeras teorias da conspiração, est�
 
 "Todos nos encontraremos na atração turística Área 51 Alien Center e coordenaremos nossa entrada. Se corrermos igual o Naruto, podemos nos mover mais rápido que as balas. Vamos ver alienígenas", diz a descrição do evento.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 O grupo é uma grande brincadeira que chamou a atenção de milhares de norte-americanos por conta do mistério entorno da Rede de Testes e Treinamento de Nevada, afiliada à Base Aérea de Nellis em Las Vegas Valley, mais conhecida como Área 51.
 i
 ## Base para estudos alienígenas

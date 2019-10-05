@@ -11,6 +11,18 @@ O protótipo saiu das mãos de uma oficina que há 10 anos pesquisa e constrói 
 
 Segundo a equipe da [ESCuderia Mileage](http://www3.eesc.usp.br/mileage/), formada por 34 estudantes da Escola de Engenharia de São Carlos (EESC), em sua maioria, o novo modelo elétrico de 24 kg poderia cruzar de Norte a Sul do Brasil com pouquíssimo recurso e consegue ser adaptado para uso nas ruas das cidades, seguindo as normas de trânsito.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 No momento em que é construído, segue os moldes das competições, o que justifica seu formato monocoque, uma estrutura única que integra o piloto, resultando no alcance de maior velocidade e eficiência energética. Assim, é capaz de rodar durante uma hora e meia com uma velocidade média de 40 km/h. Para recarregá-lo, basta encontrar uma tomada 110 ou 220 volts. Prático, não?
 
 ![Escuderia](/assets/images/usp2.jpg)

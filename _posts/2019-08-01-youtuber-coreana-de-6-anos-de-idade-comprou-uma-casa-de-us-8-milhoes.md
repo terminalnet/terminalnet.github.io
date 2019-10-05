@@ -13,6 +13,18 @@ A tecnologia abriu um caminho menos tradicional para ganhar dinheiro e novas opo
 
 Antes da publicação desta notícia, Boram tinha um total de 13.707.107 inscritos em seu canal. Ela posta vídeos do seu dia a dia, de viagens, faz review de brinquedos e cozinha. Tudo com uma ótima produção.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 No entanto, apesar do sucesso financeiro, existem muitas controvérsias envolvidas em casos de Youtubers crianças. Alguns acreditam que é uma forma de abuso dos pais e que não é certo os expor assim nessa idade. A ONG Save the Children, inclusive, recebeu algumas denúncias sobre o caso de Boram.
 
 O Youtube enfrenta grandes polêmicas em relação ao conteúdo que exibe para crianças e ao conteúdo produzido por crianças. A plataforma já proibiu comentários nesses vídeos e criou o Youtube Kids, mas a situação ainda não está resolvida. Uma pesquisa recente mostrou que vídeos com menores de 13 anos ganham em média o triplo de visualizações em comparação a conteúdos postados por adultos.
@@ -20,3 +32,15 @@ O Youtube enfrenta grandes polêmicas em relação ao conteúdo que exibe para c
 Dito isso, a ideia de uma estrela infantil do YouTube não é exatamente novidade hoje em dia. Em 2018, um YouTuber de 7 anos de idade com o nome de Ryan conseguiu chegar ao topo a lista da Forbes dos YouTubers mais bem pagos. Segundo a revista, ele ganhou até 11 milhões de dólares com seu canal.
 
 Via: [Ubergizmo](https://www.ubergizmo.com/2019/07/6-yo-korean-youtuber-8m-home/?utm_source=mainrss)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>

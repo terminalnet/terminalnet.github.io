@@ -15,6 +15,18 @@ Em menos de 24 horas, dois massacres assolaram os EUA. O primeiro aconteceu no s
 
 Os comentários de Trump sobre a relação entre tiroteios e videogames continuam uma tendência de posicionamento entre os principais líderes republicanos, que também colocam parte da culpa das tragédias no teor violento de alguns jogos eletrônicos. O deputado republicano e Líder da Minoria da Câmara do governo norte-americano, Kevin McCarthy, e o governador do Texas, Dan Patrick, também mencionaram os videogames como um fator que contribuí para tiroteios em massa.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ![Donald Trump](/assets/images/trump2.jpg)
 
 Enquanto Patrick disse que o suspeito de ser o autor da tragédia de El Paso fez referência ao jogo de guerra Call of Duty em seu manifesto – um texto racista com discursos de ódio em que o criminoso "justifica" sua atitude –, McCarthy pressionou o governo para que fizesse algo sobre a indústria de videogames.
@@ -30,4 +42,16 @@ O presidente dos EUA também usou a ocasião para delinear os próximos passos l
 O republicano prometeu às vítimas das tragédias recentes maior apoio governamental e investigação do FBI (Departamento Federal de Investigação dos EUA) para punir os autores dos crimes. Ele pretende ainda melhorar o trabalho das agências norte-americanas e empresas de mídia social na detecção de sinais precoces de intolerância e violência. Para concluir, Trump pediu uma reforma das políticas de saúde e tratamento mental no país e expressou interesse em criar uma lei de pena de morte para os assassinos em massa.
 
 Via [Polygon](https://www.polygon.com/2019/8/5/20754784/el-paso-dayton-mass-shootings-trump-video-games)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Informat -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="2327980059"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 

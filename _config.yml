@@ -1,5 +1,5 @@
 # Site
-name: 'Terminal Net'
+name: 'News Terminal Root'
 description: 'A reunião das melhores publicações da internet estão aqui.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
@@ -9,7 +9,7 @@ email: 'terminalroottv@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
-permalink: /:year/:month/:title.html
+permalink: /:title.html
 
 # Plugins
 plugins: 
@@ -20,20 +20,20 @@ plugins:
   
 authors:
     sal:
-      name:           Editorial
-      site:           https://terminalnet.github.io
-      avatar:         assets/images/favicon.png
-      bio:            "Blogger, fashionista, adoro explorar novas ideias e escrever no meu café da manhã!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/Jane
+      name:           Marcos
+      site:           news.terminalroot.com.br
+      avatar:         assets/images/avatar.png
+      bio:            "Redator"
+      email:          contato@terminalroot.com.br
+      twitter:        https://twitter.com/TerminalRootTV
 
     jane:
-      name:           Editorial
-      site:           https://terminalnet.github.io
-      avatar:         assets/images/favicon.png
-      bio:            "Blogger, fashionista, adoro explorar novas ideias e escrever no meu café da manhã!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/Jane
+      name:           Marcos
+      site:           news.terminalroot.com.br
+      avatar:         assets/images/avatar.png
+      bio:            "Redator"
+      email:          contato@terminalroot.com.br
+      twitter:        https://twitter.com/TerminalRootTV
  
 # Defaults
 defaults:
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: jane
-      avatar: assets/images/avatar2.jpg
+      avatar: assets/images/avatar.png
       
   # all pages
   - scope:

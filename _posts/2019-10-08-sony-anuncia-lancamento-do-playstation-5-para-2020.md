@@ -13,8 +13,4 @@ Além das mudanças nos gatilhos, a Sony promete um novo controle para o PlaySta
 
 Por enquanto, essas são as principais informações divulgadas pela Sony. De acordo com Ryan, mais detalhes sobre o PlayStation 5 serão divulgados nos próximos meses.
 
-<sub>
-
 Via: [Exame](https://exame.abril.com.br/tecnologia/sony-anuncia-lancamento-do-playstation-5-para-2020/)
-
-</sub>

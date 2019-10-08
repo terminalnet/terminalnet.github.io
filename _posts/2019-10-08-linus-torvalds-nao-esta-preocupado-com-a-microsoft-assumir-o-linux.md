@@ -81,3 +81,5 @@ Além disso, a Microsoft é uma empresa Linux agora. Kroah-Hartman continuou: "M
 Heck, você pode até argumentar, graças ao Windows Subsystem para Linux 2.0, uma distribuição Linux que roda no Windows 10, que a Microsoft pode ser o maior distribuidor de Linux.
 
 Nenhum desses líderes do Linux, ou qualquer outra pessoa com quem conversei na Plumbers, estava nem um pouco preocupado com a Microsoft assumir o Linux. É o contrário. O Linux agora é a força motriz de quase todas as empresas de tecnologia - e isso inclui a Microsoft.
+
+Via: [ZDNET](https://www.zdnet.com/article/linus-torvalds-isnt-worried-about-microsoft-taking-over-linux/)

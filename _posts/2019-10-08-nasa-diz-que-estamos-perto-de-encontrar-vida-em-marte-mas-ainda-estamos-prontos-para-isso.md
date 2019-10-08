@@ -2,7 +2,7 @@
 layout: post
 title: "NASA diz que estamos perto de encontrar vida em Marte. Mas ainda estamos prontos para isso"
 categories: [ News ]
-image: 'assets/images/'
+image: 'assets/images/curiosity.jpg'
 ---
 
 > Existe vida em Marte? De acordo com um dos cientistas-chefe da Nasa, estamos muito perto desta resposta e em breve deveremos absorver as novas descobertas. Mas será que o mundo atual está preparado para isso?

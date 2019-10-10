@@ -38,3 +38,4 @@ A desigualdade tornou-se uma questão política polêmica: os 0,1% mais ricos do
 Gates, 63 anos, também tem apoiado impostos de renda mais altos sobre os mais ricos dos EUA e fez um apelo por maior transparência. "Defendo mais transparência financeira. Não gosto que você possa ter trusts onde ninguém sabe quem é o dono."
 
 Embora Gates continue otimista em relação aos EUA e à economia global, ele duvida que o desempenho de que desfrutou no passado persista. "Há razões para pensar que retornos absolutos para a próxima década serão menores do que foram nas últimas décadas."
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

@@ -35,3 +35,4 @@ Links:
 + <https://9to5mac.com/2018/10/01/iphone-xs-lte-performance-tests/>
 + <https://www.apple.com/newsroom/2019/07/apple-to-acquire-the-majority-of-intels-smartphone-modem-business/>
 + <https://gizmodo.uol.com.br/apple-compra-modem-intel-5g/>
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

@@ -34,3 +34,4 @@ A surpresa é que o casal planeje dar “apenas” US$ 10 milhões para cada um 
 
 ‪Quando um dos homens mais ricos do mundo, com um patrimônio de 95 bilhões de dólares, espera na fila de um lanche de rua, vestido com toda simplicidade, é sinal que temos muito que aprender sobre sucesso. Bill Gates mostrando que luxo de verdade não tem nada a ver com ostentação.
 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

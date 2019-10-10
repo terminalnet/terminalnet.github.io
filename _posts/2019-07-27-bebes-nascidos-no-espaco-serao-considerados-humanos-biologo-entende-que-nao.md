@@ -44,3 +44,4 @@ Um dos pontos enfatizados por Solomon é que o ambiente de baixa gravidade do es
 Certo, a raça humana nascida no espaço sideral seria cabeçuda, mas o tamanho exorbitante da cabeça não é a única mudança evolucionária prevista pelo biólogo evolucionista. De acordo com as teorias de Scott, essa nova geração pode desenvolver "novos tipos de pigmentos da pele, como a melanina, que protege nossa pele da luz solar ultravioleta na Terra". Solomon ainda completa: "Isso pode significar que as gerações futuras que vivem além da Terra evoluirão para ter cores de pele diferentes".
 
 Fonte: *https://www.businessinsider.com/humans-gave-birth-space-earth-giant-alien-heads-2019-7*
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

@@ -38,3 +38,4 @@ Participaram da competição 304 estudantes de 76 países, organizados em times 
 O teste prático contou com três exercícios - síntese de composto orgânico; análise química de água mineralizada característica da região e uma questão de cinética química. A prova teórica contou com oito exercícios enunciados em uma brochura que continha 57 páginas.
 
 “A Olimpíada de Química tem sido uma ferramenta altamente eficiente para cativar o interesse científico de jovens brasileiros, que, medalhistas, tornam-se uma referência positiva para todos os demais estudantes. Estamos muito orgulhos de nossa equipe e dessa conquista grandiosa para o país”, afirma o Reitor da Universidade Federal do Piauí, José de Arimatéia Lopes, líder da equipe brasileira. 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

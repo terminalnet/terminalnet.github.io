@@ -32,3 +32,4 @@ A Sony anunciou oficialmente que seu próximo console se chamará PlayStation 5 
 Ainda foi revelado que o controle do PS5 terá suporte para feedback háptico e feedback tátil, tecnologias que servem para substituir o motor de vibração Rumble das gerações anteriores.
 
 Via: [Tweak Town](https://www.tweaktown.com/news/68015/playstation-5-confirmed-8c-16t-zen-2-cpu-amd/index.html)
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

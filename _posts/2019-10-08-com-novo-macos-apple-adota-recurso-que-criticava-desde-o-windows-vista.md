@@ -40,3 +40,4 @@ O resultado dos novos pop-ups do MacOS tem dividido opiniões nas redes sociais.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Via: [Olhar Digital](https://olhardigital.com.br/fique_seguro/noticia/com-novo-macos-apple-adota-recurso-que-criticava-desde-o-windows-vista/91319)
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

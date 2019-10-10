@@ -31,3 +31,4 @@ Em processos seletivos, é comum que recrutadores levem em consideração a univ
 Nos últimos anos, no entanto, empresas têm percebido que existe muito talento escondido — e que muitas pessoas inteligentes e apaixonadas estão desprezando o ensino superior tradicional. 
 
 "Estamos tentando nos afastar dessa ideia de que todos na equipe de engenharia, e todos no geral, devem ter vindo de uma escola específica ou ter que ter um grau diploma", disse Weiner. "Sim, diplomas de [ciência da computação] de escolas específicas podem te levar a encontrar um talento incrível. Mas há tanto talento para ser encontrando se as pessoas estiverem abertas buscá-los em lugares diferentes." 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

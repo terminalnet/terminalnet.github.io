@@ -146,3 +146,4 @@ Fonte: *https://www.bbc.com/portuguese/49088281*
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

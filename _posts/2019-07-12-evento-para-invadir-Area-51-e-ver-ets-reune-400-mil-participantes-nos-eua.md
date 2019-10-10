@@ -34,3 +34,4 @@ O que é certo é a alta proteção que a Área 51 recebe. Além de ser rodeada 
 É melhor que as 400 mil pessoas interessadas no evento pensem duas vezes antes de tentarem usar as habilidades de Naruto para se proteger das armas de última geração dos guardas. Você encararia uma missão dessas?
 
 Fonte: *https://nypost.com/2019/07/11/300k-people-are-signed-up-to-storm-area-51-and-see-them-aliens/*
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

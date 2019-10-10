@@ -57,3 +57,4 @@ Para se ter ideia, a Digiconomist fez uma análise e atrelou o consumo anual da 
 Independentemente dos números exatos, o uso de energia do bitcoin é certamente espantoso, com uma volatilidade fora do comum. Por vezes, o consumo aumenta rapidamente, chegando a duplicar em menos de seis meses. Isso, claro, causa danos ambientais que não podem ser ignorados, com uma boa quantidade de carbono sendo liberada. No entanto, novamente, as estimativas exatas desse impacto ambiental variam significativamente devido à dificuldade de determinar como a eletricidade usada para alimentar o hardware de mineração do bitcoin é gerada.
 
 Fonte: https://www.theverge.com/2019/7/4/20682109/bitcoin-energy-consumption-annual-calculation-cambridge-index-cbeci-country-comparison
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

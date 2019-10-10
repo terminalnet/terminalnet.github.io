@@ -29,3 +29,4 @@ A Brasil Game Show teve sua primeira edição em 2009 e, neste ano, a feira acon
 
 Via: [IG](https://tecnologia.ig.com.br/2019-10-09/shota-nakama-artista-que-virou-meme-vem-ao-brasil-tocar-musica-de-game.html)
 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

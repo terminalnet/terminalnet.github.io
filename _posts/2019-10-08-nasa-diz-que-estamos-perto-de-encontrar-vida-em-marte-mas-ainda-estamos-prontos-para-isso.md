@@ -50,3 +50,4 @@ A missão ExoMars, da ESA, ainda não definiu seu local de pouso, mas anunciou n
 
 Via: [Apolo11](https://www.apolo11.com/noticias.php?t=Estamos_perto_de_encontrar_vida_em_Marte._Mas_estamos_prontos_para_isso_&id=20191002-140501)
 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

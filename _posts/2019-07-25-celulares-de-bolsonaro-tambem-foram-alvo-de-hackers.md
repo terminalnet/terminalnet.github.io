@@ -27,3 +27,4 @@ Os quatro suspeitos, que foram detidos em 23 de Julho, invadiram os celulares do
 
 Fonte: [UOL](https://noticias.uol.com.br/politica/ultimas-noticias/2019/07/25/ministerio-da-justica-diz-que-celulares-de-bolsonaro-foram-alvo-de-ataque.htm)
 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

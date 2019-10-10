@@ -55,3 +55,4 @@ A chef Taissa aprendeu a fazer o rissole de banana azul a partir de uma receita 
 
 Ela finaliza contando que o salgado fica com um leve aroma de baunilha e pouco gosto de banana. Depois disso, Taissa nunca mais encontrou a banana azul para repetir o preparo, mas a lembrança ficou na memória. “Aquilo ficou tão bom”, completa.
 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

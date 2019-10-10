@@ -39,3 +39,4 @@ Você conhece o VOAA? VOAA significa vaquinha online com amor e afeto. E é do R
 
 Fonte: Gazeta do Povo/Foto: Arquivo pessoal 
 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

@@ -42,3 +42,4 @@ Apesar de já terem sido levantados alguns rumores, não é confirmado que o Sur
 Acha que o Surface Duo deveria executar o mesmo sistema operativo do Surface Neo, o Windows 10 X? Ou, tendo em conta que é um smartphone, a escolha do Android com uma UI personalizada foi a melhor decisão? Deixe a sua opinião nos comentários!
 
 Via: *https://pplware.sapo.pt/smartphones-tablets/fas-peticao-microsoft-windows-10-x-surface-duo-android/*
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

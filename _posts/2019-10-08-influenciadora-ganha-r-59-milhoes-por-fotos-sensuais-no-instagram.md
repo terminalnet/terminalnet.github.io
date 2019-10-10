@@ -28,3 +28,4 @@ Ela aproveita o espaço online para promover uma agência que abriu em 2014 com 
 Hoje, Andrea estima conseguir em torno de R$ 19 mil por postagem feita. "Nos últimos dias precisei postar fotos e vídeos mais comedidos porque acredito que o Instagram discrimina mulheres curvilíneas como eu", declarou.
 
 A conta, que necessita de autorização da dona para ser seguida, não é o único espaço que a influenciadora utiliza para lucrar: ela também gerencia um site no qual o usuário precisa realizar um cadastro para acompanhar as postagens.
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

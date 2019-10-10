@@ -76,3 +76,4 @@ A própria FSF ainda não declarou o que fará no futuro. O que parece claro ago
 Via: [ZDNET](https://www.zdnet.com/article/gnu-project-developers-object-to-richard-m-stallmans-continued-leadership/)
    
 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

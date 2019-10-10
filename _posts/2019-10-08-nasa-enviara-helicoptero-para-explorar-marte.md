@@ -33,3 +33,4 @@ Em relação ao seu funcionamento, a agência espacial aponta que ele subirá co
 
 Via: [Europa Press](https://www.europapress.es/ciencia/misiones-espaciales/noticia-nasa-enviara-primera-vez-helicoptero-explorar-marte-20190830173707.html)   
 
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Desenvolvedores do GNU querem Richard Stallman for do Projeto"
+title: "Desenvolvedores do GNU querem Richard Stallman do Projeto"
 categories: [ News ]
 image: 'assets/images/rms.jpg'
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Google Maps libera novo recurso para deficientes visuais"
 categories: [ News ]
-image: 'assets/images/maps.png'
+image: 'assets/images/maps.jpg'
 ---
 
 O Google Maps está ganhando mais uma funcionalidade, que promete ajudar as pessoas com deficiência visual a chegarem a seus destinos a pé com mais segurança e facilidade. 

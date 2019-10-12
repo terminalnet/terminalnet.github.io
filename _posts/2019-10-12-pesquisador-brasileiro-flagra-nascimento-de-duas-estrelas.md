@@ -2,7 +2,7 @@
 layout: post
 title: "Pesquisador brasileiro flagra nascimento de duas estrelas"
 categories: [ News ]
-image: 'assets/images/'
+image: 'assets/images/nascimento-de-duas-estrelas-flagrado-por-pesquisador-brasileiro.jpg'
 ---
 
 O nascimento de duas estrelas foi flagrado em alta resolução por um grupo de pesquisadores coordenados pelo astrofísico mineiro Felipe Alves. O registro foi feito a partir do telescópio Alma, localizado no Deserto do Atacama, no Chile. Na imagem, considerada inédita, as duas estrelas jovens aparecem crescendo em meio a dois discos, alimentadas por uma complexa rede de filamentos de gás e poeira, em formato semelhante ao de um "pretzel".

@@ -29,7 +29,8 @@ Publicando na [lista de discussão da sociedade](https://inbox.vuxu.org/tuhs/87b
 
 Senha de Ken - um gênio absoluto
 
-Seis dias depois, um membro do fórum chamado Nigel Williams alcançou o sucesso e escreveu “Ken is done” no fórum junto com a senha em texto sem formatação de Ken Thompson - `p / q2-q4!` .
+Seis dias depois, um membro do fórum chamado Nigel Williams alcançou o sucesso e escreveu “Ken is done” no fórum junto com a senha em texto sem formatação de Ken Thompson:
+ `p/q2-q4!` .
 
 Depois que a senha foi quebrada, os membros do fórum apontaram que a senha é uma notação descritiva de uma jogada de abertura comum no Xadrez. Ken contribuiu para o desenvolvimento do xadrez de computador, e isso explica a genialidade de Ken.
 

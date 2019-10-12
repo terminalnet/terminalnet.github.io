@@ -2,7 +2,7 @@
 layout: post
 title: "Conheça a Linguagem de Programação ideal para crianças"
 categories: [ News ]
-image: 'assets/images/scratux.jpg'
+image: 'assets/images/scratux.png'
 ---
 
 > Se você pensou que era [Python]() ou [Javascript]() se enganou! :)

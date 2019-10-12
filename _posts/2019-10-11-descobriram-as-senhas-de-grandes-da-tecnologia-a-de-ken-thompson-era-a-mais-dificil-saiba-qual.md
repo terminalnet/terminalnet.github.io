@@ -5,7 +5,7 @@ categories: [ News ]
 image: 'assets/images/bandeau.-large.jpg'
 ---
 
-Thompson, co-fundador do sistema operacional Unix, juntamente com Dennis Ritchie, continua sendo uma figura reverenciada no campo da ciência da computação. Em 2014, a famosa desenvolvedora de código aberto Leah Neukirchen colocou um arquivo em [/etc/password(https://github.com/dspinellis/unix-history-repo/blob/BSD-3-Snapshot-Development/etc/passwd) em uma árvore de código-fonte do BSD3. Continha senhas com hash de alguns grandes nomes como Dennis Ritchie, Steve Bourne, Ken Thompson, Brian W. Kernighan no campo da ciência da computação.
+Thompson, co-fundador do sistema operacional Unix, juntamente com Dennis Ritchie, continua sendo uma figura reverenciada no campo da ciência da computação. Em 2014, a famosa desenvolvedora de código aberto Leah Neukirchen colocou um arquivo em [/etc/password](https://github.com/dspinellis/unix-history-repo/blob/BSD-3-Snapshot-Development/etc/passwd) em uma árvore de código-fonte do BSD3. Continha senhas com hash de alguns grandes nomes como Dennis Ritchie, Steve Bourne, Ken Thompson, Brian W. Kernighan no campo da ciência da computação.
 
 Neukirchen tentou decifrar as senhas por curiosidade, pois as senhas foram seladas com um algoritmo crypt(3) baseado em DES, que agora é considerado fácil de decifrar.
 

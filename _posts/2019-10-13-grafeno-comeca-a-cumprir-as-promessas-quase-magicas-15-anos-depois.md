@@ -44,3 +44,5 @@ A questão da energia é uma das mais importantes para os pesquisadores de grafe
 O Graphene Flagship aponta que é no médio prazo, no entanto, que os impactos mais profundos do grafeno poderão ser sentidos. O material deve ser chave para o setor energético; em 2020, será instalado uma central fotovoltaica para geração de energia solar utilizando o grafeno, que pretende servir como demonstração a eficiência do material nesse quesito, contribuindo para a questão da sustentabilidade, que é uma bandeira assumida pela União Europeia nos últimos anos.
 
 Em um futuro um pouco mais distante, daqui a uns 10 ou 15 anos, a organização espera que os saltos sejam ainda mais drásticos e sentidos no que tange à optoeletrônica, proporcionando ganhos de desempenho em magnitudes muito maiores do que vemos atualmente.
+
+Via: [Olhar Digital](https://olhardigital.com.br/noticia/apos-15-anos-grafeno-comeca-a-cumprir-as-promessas-quase-magicas/91252)

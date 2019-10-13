@@ -2,7 +2,7 @@
 layout: post
 title: "Google comemora Haloween com cemitério cheio de seus produtos 'mortos'"
 categories: [ News ]
-image: 'assets/images/halloween.jpg'
+image: 'assets/images/haloween.jpg'
 ---
 
 O [Google](https://www.google.com.br/) já está no clima do Dia das Bruxas e resolveu iniciar as brincadeiras para uma das datas mais legais do calendário. Em comemoração ao Haloween, a empresa criou um cemitério repleto de seus produtos extintos, descontinuados, ou, para ser mais claro, mortos. Ele foi "instalado" bem em frente à sala principal no campus da empresa, em Seattle.

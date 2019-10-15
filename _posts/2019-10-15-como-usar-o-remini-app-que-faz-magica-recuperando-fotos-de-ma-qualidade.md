@@ -25,7 +25,7 @@ Mas isso quer dizer que eles cuidam direitinho de nossas fotos? Até o momento, 
 
 Se privacidade não é uma preocupação para você, deveria ser, como já dissemos em outros apps e recursos da moda. Mas se ainda assim você quiser curtir a brincadeira por sua conta e risco, confira abaixo como utilizar o aplicativo Remini:
 
-[Remini](/assets/images/remini2.jpg)
+![Remini](/assets/images/remini2.jpg)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->
@@ -47,7 +47,7 @@ Se privacidade não é uma preocupação para você, deveria ser, como já disse
 
 Espere uns segundos enquanto o app processa a foto. Pressione "Hold to view "Before", para ver a diferença entre a foto antiga e a melhorada.
 
-[Remini](/assets/images/remini3.jpg)
+![Remini](/assets/images/remini3.jpg)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <ins class="adsbygoogle"
@@ -62,7 +62,7 @@ Espere uns segundos enquanto o app processa a foto. Pressione "Hold to view "Bef
 
 4) Salve a foto no celular tocando no canto direito da tela, onde está a seta azul direcionada para baixo. Caso queira compartilhar no Facebook, vá em "Share to Facebook".
 
-[Remini](/assets/images/remini4.jpg)
+![Remini](/assets/images/remini4.jpg)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -89,7 +89,7 @@ Veja abaixo um exemplo em que pegamos mais pesado. Considerando que a original e
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-[Remini](/assets/images/remini5.png)
+![Remini](/assets/images/remini5.png)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"

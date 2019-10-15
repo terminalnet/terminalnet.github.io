@@ -12,11 +12,11 @@ Aqueles acostumados com as linhas de comando do [Linux](https://terminalroot.com
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="2327980059"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+style="display:block"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="2327980059"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>    
@@ -36,9 +36,9 @@ data-ad-slot="8549252987"></ins>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:280px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:280px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -47,12 +47,12 @@ Os desenvolvedores da Linux identificaram e corrigiram o problema. Para os usuá
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="9652691879"></ins>
+style="display:block"
+data-ad-format="autorelaxed"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="9652691879"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 Via: [Engadget](https://www.engadget.com/2019/10/14/linux-unix-sudo-command-security-flaw/)
@@ -60,9 +60,9 @@ Via: [Engadget](https://www.engadget.com/2019/10/14/linux-unix-sudo-command-secu
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:50px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:50px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>

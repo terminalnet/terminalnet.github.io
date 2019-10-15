@@ -30,11 +30,11 @@ Se privacidade não é uma preocupação para você, deveria ser, como já disse
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="2327980059"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+style="display:block"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="2327980059"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -50,14 +50,14 @@ Espere uns segundos enquanto o app processa a foto. Pressione "Hold to view "Bef
 ![Remini](/assets/images/remini3.jpg)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <ins class="adsbygoogle"
-    style="display:block; text-align:center;"
-    data-ad-layout="in-article"
-    data-ad-format="fluid"
-    data-ad-client="ca-pub-2838251107855362"
-    data-ad-slot="8549252987"></ins>
+<ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="8549252987"></ins>
 <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 4) Salve a foto no celular tocando no canto direito da tela, onde está a seta azul direcionada para baixo. Caso queira compartilhar no Facebook, vá em "Share to Facebook".
@@ -82,9 +82,9 @@ Veja abaixo um exemplo em que pegamos mais pesado. Considerando que a original e
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:50px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:50px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -93,12 +93,12 @@ Veja abaixo um exemplo em que pegamos mais pesado. Considerando que a original e
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="9652691879"></ins>
+style="display:block"
+data-ad-format="autorelaxed"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="9652691879"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 Via: [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/14/como-usar-o-remini-app-que-faz-magica-recuperando-fotos-de-ma-qualidade.htm)

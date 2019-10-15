@@ -14,11 +14,11 @@ Não se sabe muito ainda sobre o sistema, mas obviamente deve estar a altura de 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="2327980059"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+style="display:block"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="2327980059"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -26,23 +26,23 @@ Não se sabe muito ainda sobre o sistema, mas obviamente deve estar a altura de 
 Ainda existe a possibilidade de que o embargo existente possa até bloquear o uso do Android pela marca chinesa em seus aparelhos, um risco que nenhuma empresa de telefonia celular pode correr. Então é natural que a Huawei passe a desenvolver o próprio sistema operacional, um sistema que ironicamente nasceu pelo embargo e pode se tornar uma ameaça a empresas americanas. O HarmonyOS terá seus próprios aplicativos, lojas e serviços, assim como todos sistemas de hoje. Se baseia no Android Open Source Project, então a empresa chinesa já teve uma bela vantagem de sistema base.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <ins class="adsbygoogle"
-    style="display:block; text-align:center;"
-    data-ad-layout="in-article"
-    data-ad-format="fluid"
-    data-ad-client="ca-pub-2838251107855362"
-    data-ad-slot="8549252987"></ins>
+<ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="8549252987"></ins>
 <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 No momento, o sistema só está pronto e adaptado para a televisão da Huawei, porém a expansão gradual para outros dispositivos não devem tardar. Já nos smartphones, o atual CEO, Ren Zhengfe, revelou que em 3 anos estará a competir de forma igual com o iOS ou o Android.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:280px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:280px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -51,12 +51,12 @@ Outro ponto que Ren Zhengfe referiu foi as perdas esperadas pela ausência da Go
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="9652691879"></ins>
+style="display:block"
+data-ad-format="autorelaxed"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="9652691879"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 Via: [Oficina da Net](https://www.oficinadanet.com.br/huawei/28072-huawei-cria-o-harmonyos-sistema-operacional-proprio-contra-embargo-estadunidense)
@@ -64,9 +64,9 @@ Via: [Oficina da Net](https://www.oficinadanet.com.br/huawei/28072-huawei-cria-o
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:50px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:50px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>

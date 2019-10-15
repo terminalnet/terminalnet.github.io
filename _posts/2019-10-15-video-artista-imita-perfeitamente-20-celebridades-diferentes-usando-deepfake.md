@@ -14,11 +14,11 @@ O que ilustra muito bem os tempos sombrios em que estamos vivendo: tudo indica q
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="2327980059"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+style="display:block"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="2327980059"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>    
@@ -32,23 +32,23 @@ Novos softwares têm tornado tais manipulações mais acessíveis, e praticament
 O vídeo de Meskimen é apenas um exemplo “inocente”. Na filmagem, ele recita o texto “Pity the Poor Impressionist” (em tradução literal, “Tenha Pena do Pobre Impressionista”) emprestando o rosto de 20 celebridades diferentes: John Malkovich, Colin Firth, Robert De Niro, Tommy Lee Jones, Nick Offerman, George Clooney, Christopher Walken, Anthony Hopkins, Dr. Phil, Nicholas Cage, Arnold Schwarzenegger, Morgan Freeman, Bryan Cranston, Christoph Waltz, Joe Pesci, Jack Nicholson, George W. Bush, Ian McKellen, Ron Howard e Robin Williams.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <ins class="adsbygoogle"
-    style="display:block; text-align:center;"
-    data-ad-layout="in-article"
-    data-ad-format="fluid"
-    data-ad-client="ca-pub-2838251107855362"
-    data-ad-slot="8549252987"></ins>
+<ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="8549252987"></ins>
 <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/5rPKeUXjEvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:280px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:280px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -59,12 +59,12 @@ O problema é que essa tecnologia de inteligência artificial já foi usada para
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="9652691879"></ins>
+style="display:block"
+data-ad-format="autorelaxed"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="9652691879"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 ## Debate ético
@@ -83,9 +83,9 @@ Infelizmente, alguma coisa sempre acaba escapando. A sociedade do futuro (e esta
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:50px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:50px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>

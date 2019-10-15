@@ -13,11 +13,11 @@ Sempre que a Apple, Samsung ou qualquer outra grande marca lança um novo telefo
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="2327980059"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+style="display:block"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="2327980059"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>    
@@ -37,14 +37,14 @@ Porém, de acordo com especialistas, a qualidade das imagens não funciona segun
 O "segredo desagradável" por trás dessa forma de classificar a câmera de um celular "é que (se basear) apenas (n)o número de megapixels é uma maneira ruim de prever o desempenho fotográfico", diz a revista americana Scientific American. 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <ins class="adsbygoogle"
-    style="display:block; text-align:center;"
-    data-ad-layout="in-article"
-    data-ad-format="fluid"
-    data-ad-client="ca-pub-2838251107855362"
-    data-ad-slot="8549252987"></ins>
+<ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="8549252987"></ins>
 <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
  Para entender isso, devemos ter em mente que o número de megapixels se refere à resolução da câmera. A resolução afeta o tamanho da imagem e não a qualidade.
@@ -57,9 +57,9 @@ Por outro lado, a maioria das fotos tiradas com telefones celulares acaba public
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:280px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:280px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -90,12 +90,12 @@ Portanto, da próxima vez que você quiser saber o quão boa é a câmera do cel
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-2838251107855362"
-     data-ad-slot="9652691879"></ins>
+style="display:block"
+data-ad-format="autorelaxed"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="9652691879"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 Via: [Terra](https://www.terra.com.br/noticias/tecnologia/por-que-celular-com-camera-de-mais-megapixels-nao-significa-fotos-melhores,e38688152fa9d7fa72cd226fa5616878gj4bshxj.html)
@@ -103,9 +103,9 @@ Via: [Terra](https://www.terra.com.br/noticias/tecnologia/por-que-celular-com-ca
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->
 <ins class="adsbygoogle"
-	 style="display:inline-block;width:336px;height:50px"
-	 data-ad-client="ca-pub-2838251107855362"
-	 data-ad-slot="5351066970"></ins>
+style="display:inline-block;width:336px;height:50px"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>

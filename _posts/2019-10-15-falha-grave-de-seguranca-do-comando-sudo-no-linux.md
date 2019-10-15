@@ -5,7 +5,7 @@ categories: [ News ]
 image: 'assets/images/sudo.jpg'
 ---
 
-> Falha ocorreu no comando "sudo" do programa, que permite dar aos usuários privilégios de outro usuário para executar tarefas dentro do sistema, de maneira segura e controlável pelo administrador.
+> Falha ocorreu no comando [sudo](https://www.sudo.ws/) do programa, que permite dar aos usuários privilégios de outro usuário para executar tarefas dentro do sistema, de maneira segura e controlável pelo administrador.
 
 Aqueles acostumados com as linhas de comando do [Linux](https://terminalroot.com.br/linux) ou com alguma plataforma [Unix](http://cse.google.com.br/cse?cx=004473188612396442360:qs2ekmnkweq&q=UNIX), como o [macOS](http://cse.google.com.br/cse?cx=004473188612396442360:qs2ekmnkweq&q=macOS), devem estar familiarizados com o comando `sudo`, que permite executar tarefas com permissões diferentes daquelas que você teria em outro local. Apesar de importante, o comando foi comprometido com uma falha de segurança que permitia o acesso até o nível raiz, possibilitando que invasores executem ações no sudo em qualquer máquina.
 
@@ -54,6 +54,8 @@ data-ad-slot="9652691879"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+sudo: <https://www.sudo.ws/>
 
 Via: [Engadget](https://www.engadget.com/2019/10/14/linux-unix-sudo-command-security-flaw/)
 

@@ -24,14 +24,14 @@ Aqueles acostumados com as linhas de comando do [Linux](https://terminalroot.com
 A vulnerabilidade girou em torno do tratamento do ID dos usuários no sudo. Se digitassem um ID de -1, ou seu equivalente não assinado 4294967295, o comando trataria você como se tivesse acesso à raiz, mesmo registrando o real ID do usuário. Já que estas identidades não existem no banco de dados de senhas, não era exigido nenhum código para logar.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <ins class="adsbygoogle"
-    style="display:block; text-align:center;"
-    data-ad-layout="in-article"
-    data-ad-format="fluid"
-    data-ad-client="ca-pub-2838251107855362"
-    data-ad-slot="8549252987"></ins>
+<ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="8549252987"></ins>
 <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

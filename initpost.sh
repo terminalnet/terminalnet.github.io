@@ -44,9 +44,47 @@ _skell(){
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>    
 
-<br><hr>
 
-<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+    style="display:block; text-align:center;"
+    data-ad-layout="in-article"
+    data-ad-format="fluid"
+    data-ad-client="ca-pub-2838251107855362"
+    data-ad-slot="8549252987"></ins>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+	 style="display:inline-block;width:336px;height:280px"
+	 data-ad-client="ca-pub-2838251107855362"
+	 data-ad-slot="5351066970"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-2838251107855362"
+     data-ad-slot="9652691879"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Games Root -->
+<ins class="adsbygoogle"
+	 style="display:inline-block;width:336px;height:50px"
+	 data-ad-client="ca-pub-2838251107855362"
+	 data-ad-slot="5351066970"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 '
 }

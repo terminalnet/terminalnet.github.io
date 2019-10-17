@@ -9,6 +9,17 @@ image: 'assets/images/helicoidal_motor.jpg'
 
 Um engenheiro da Nasa propõs um design para um novo tipo de propulsor espacial que, em teoria, poderia chegar a 99% da velocidade da luz. Com isso seria possível ir à Lua em menos de 1 segundo, a Marte em 12 minutos ou à Netuno em 4 horas.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-2838251107855362"
+data-ad-slot="8549252987"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 [Proposto por David Burns](https://ntrs.nasa.gov/search.jsp?R=20190029657), do Marshall Space Flight Center no Alabama, o Helical Drive (Propulsor Helicoidal), se aproveita do fato de que a massa de um objeto aumenta de acordo com sua velocidade. Simplificando bastante a idéia, imagine um “tubo” longo e fechado, com um objeto dentro que se move constantemente de uma ponta para a outra. Quando o objeto atinge uma das pontas do tubo, gera uma força de aceleração no sentido do movimento. Mas ao atingir o outro lado, o objeto gera uma aceleração igual no sentido contrário. As forças se cancelam, e o tubo permanece parado.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

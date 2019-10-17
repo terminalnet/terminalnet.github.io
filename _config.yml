@@ -21,7 +21,7 @@ plugins:
 authors:
     sal:
       name:           Marcos
-      site:           news.terminalroot.com.br
+      site:           https://www.youtube.com/TerminalRootTV?sub_confirmation=1
       avatar:         assets/images/avatar.png
       bio:            https://youtube.com/TerminalRootTV
       email:          contato@terminalroot.com.br
@@ -29,7 +29,7 @@ authors:
 
     jane:
       name:           Marcos
-      site:           news.terminalroot.com.br
+      site:           https://www.youtube.com/TerminalRootTV?sub_confirmation=1
       avatar:         assets/images/avatar.png
       bio:            https://youtube.com/TerminalRootTV
       email:          contato@terminalroot.com.br

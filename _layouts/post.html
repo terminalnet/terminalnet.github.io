@@ -122,7 +122,7 @@ layout: default
                         {% endif %} 
 					</div>
 					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Escrito por {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Siga-me</a></span>{% endif %}</h5>
+                        <h5 class="font-weight-bold">{{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Siga-me</a></span>{% endif %}</h5>
 						<a href="{{ author.site }}"><strong>{{ author.bio }}</strong></a>					
 					</div>
 				</div>				

@@ -23,7 +23,7 @@ authors:
       name:           Marcos
       site:           news.terminalroot.com.br
       avatar:         assets/images/avatar.png
-      bio:            "Redator"
+      bio:            <https://youtube.com/TerminalRootTV>
       email:          contato@terminalroot.com.br
       twitter:        https://twitter.com/TerminalRootTV
 
@@ -31,7 +31,7 @@ authors:
       name:           Marcos
       site:           news.terminalroot.com.br
       avatar:         assets/images/avatar.png
-      bio:            "Redator"
+      bio:            <https://youtube.com/TerminalRootTV>
       email:          contato@terminalroot.com.br
       twitter:        https://twitter.com/TerminalRootTV
  

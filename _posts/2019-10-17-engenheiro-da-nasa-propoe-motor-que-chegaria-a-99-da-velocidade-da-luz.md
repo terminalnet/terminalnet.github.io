@@ -43,18 +43,6 @@ Além disso, o conceito é extremamente ineficiente: seriam necessários 165 Meg
 
 Burns trabalhou na idéia de forma privada e sem qualquer subsídio da Nasa, ou seja, o propulsor helicoidal não é um projeto oficial da agência espacial norte-americana. O cientista sabe que a idéia é controversa, mas afirma: “você tem que estar preparado para ser envergonhado. É muito difícil inventar algo completamente novo e que realmente funciona”.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-style="display:block"
-data-ad-format="autorelaxed"
-data-ad-client="ca-pub-2838251107855362"
-data-ad-slot="9652691879"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-Via: [New Cientist](https://www.newscientist.com/article/2218685-nasa-engineers-helical-engine-may-violate-the-laws-of-physics/)
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->
 <ins class="adsbygoogle"
@@ -64,5 +52,7 @@ data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Via: [New Cientist](https://www.newscientist.com/article/2218685-nasa-engineers-helical-engine-may-violate-the-laws-of-physics/)
 
 

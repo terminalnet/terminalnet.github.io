@@ -5,7 +5,7 @@ categories: [ News ]
 image: 'assets/images/mark-ubuntu.jpg'
 ---
 
-> A Canonical acaba de lançar o Ubuntu Linux 19.10, Eoan Ermine. Como a maioria das distribuições modernas de Linux, ele vem com muitas melhorias destinadas a fornecer serviços corporativos para a nuvem e a orquestração de contêineres Kubernetes. Mas o Ubuntu não deu as costas para o desktop no Linux.
+> A Canonical acaba de lançar o **Ubuntu Linux 19.10 - Eoan Ermine**. Como a maioria das distribuições modernas de Linux, ele vem com muitas melhorias destinadas a fornecer serviços corporativos para a nuvem e a orquestração de contêineres Kubernetes. Mas o Ubuntu não deu as costas para o desktop no Linux.
 
 Em uma entrevista, o CEO e fundador da Canonical, Mark Shuttleworth, explicou: "Nós nunca colocamos o desktop no espaço do consumidor. Ainda estamos felizes em oferecer aos desenvolvedores e administradores de sistema uma plataforma. Ainda somos apaixonados pelo desktop Linux".
 

@@ -32,7 +32,7 @@ Quanto à versão mais recente e melhor do Ubuntu, a Canonical afirmou que, com 
 
 Fazendo uma análise, no meu antigo Gateway 2008 DX4710 - com seu processador Intel Core 2 Quad de 2,5 GHz, 6 GB de RAM e gráficos Intel GMA 3100 - ele "deu conta do recado". Embora eu não possa recomendar que você use um desktop de 10 anos para o seu trabalho diário, meu empoeirado Gateway estava animado com o novo Ubuntu rodando nele.
 
-Os gamers também ficarão encantados com os drivers NVIDIA embutidos no Ubuntu 19.10. A Canonical também concordou recentemente em continuar a oferecer suporte às bibliotecas de 32 bits que os jogadores precisam para jogar jogos no Steam.
+Os gamers também ficarão encantados com os drivers NVIDIA embutidos no Ubuntu 19.10. A Canonical também concordou recentemente em continuar a oferecer suporte às bibliotecas de 32 bits que os gamers precisam para jogar na Steam.
 
 <!-- RETANGULO LARGO 2 -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

@@ -2,10 +2,8 @@
 layout: post
 title: "Caso Bolsonaro: dá para um interfone transferir chamada para celular?"
 categories: [ News ]
-image: 'assets/images/'
+image: 'assets/images/casa-bolsonaro.jpg'
 ---
-
-
 
 O presidente Jair Bolsonaro (PSL) foi citado na investigação sobre a morte da vereadora Marielle Franco (PSOL-RJ) e do motorista Anderson Gomes, segundo reportagem do Jornal Nacional exibida na terça-feira (29). Mas um detalhe do caso vem levantando discussão: a possível capacidade do interfone do presidente se comunicar com o celular da sua residência. O assunto está entre os [mais comentados na internet](https://twitter.com/i/trends) até a tarde desta quarta-feira (30).
 

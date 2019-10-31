@@ -1,0 +1,524 @@
+<meta charset="utf-8">
+<p>Selecionei as linguagens mais utilizadas no mercado com dados que podem lhe fazer estudar/conhecer melhor para fazer sua escolha, seja para o mercado de trabalho ou para construção de projetos pessoais ou de negócios:</p>
+<ul>
+<li>Uma breve descrição e/ou curiosidade de cada uma;</li>
+<li>a extensão que cada uma usa;</li>
+<li>um <strong>Olá, Mundo!</strong>;</li>
+<li>como rodar, compilar e/ou interpretar;</li>
+<li>dependências;</li>
+<li>link com exemplo;</li>
+</ul>
+<p>Segue:</p>
+<hr>
+<h2 id="-assembly-assets-img-dev-langs-assembly-png-"><img src="/assets/img/dev/langs/assembly.png" alt="Assembly"></h2>
+<h3 id="01-assembly">01. Assembly</h3>
+<p><a href="https://curlie.org/Computers/Programming/Languages/Assembly/">https://curlie.org/Computers/Programming/Languages/Assembly/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.asm</code></p>
+</blockquote>
+<p>Assembly ou linguagem de montagem é uma notação legível por humanos para o código de máquina que uma arquitetura de computador específica usa, utilizada para programar códigos entendidos por dispositivos computacionais, como microprocessadores e microcontroladores. 
+{% highlight asm %}
+section     .text
+global      _start</p>
+<p>_start:</p>
+<pre><code><span class="hljs-keyword">mov</span>     <span class="hljs-built_in">edx</span>,len
+<span class="hljs-keyword">mov</span>     <span class="hljs-built_in">ecx</span>,msg
+<span class="hljs-keyword">mov</span>     <span class="hljs-built_in">ebx</span>,<span class="hljs-number">1</span>
+<span class="hljs-keyword">mov</span>     <span class="hljs-built_in">eax</span>,<span class="hljs-number">4</span>
+<span class="hljs-keyword">int</span>     <span class="hljs-number">0x80</span>
+
+<span class="hljs-keyword">mov</span>     <span class="hljs-built_in">eax</span>,<span class="hljs-number">1</span>
+<span class="hljs-keyword">int</span>     <span class="hljs-number">0x80</span>
+</code></pre><p>section     .data</p>
+<p>msg     db  &#39;Olá, Mundo!&#39;,0xa 
+len     equ $ - msg
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir um compilador e um linker: <a href="https://www.nasm.us/">nasm</a> e <a href="https://www.gnu.org/software/binutils/">ld</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>nasm -f elf64 -o hello-world.o hello-world.asm &amp;&amp; ld hello-world.o -o hello-world &amp;&amp; ./hello-world</code></p>
+<p>Exemplo: <a href="http://asm.sourceforge.net/intro/hello.html">http://asm.sourceforge.net/intro/hello.html</a></p>
+<hr>
+<h2 id="-c-assets-img-dev-langs-c-png-"><img src="/assets/img/dev/langs/c.png" alt="C"></h2>
+<h3 id="02-c">02. C</h3>
+<p><a href="https://www.iso.org/standard/74528.html">https://www.iso.org/standard/74528.html</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.c</code></p>
+</blockquote>
+<p>C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada por Organização Internacional para Padronização (ISO), criada em 1972 por Dennis Ritchie na empresa AT&amp;T Bell Labs para desenvolvimento do sistema operacional Unix (originalmente escrito em Assembly).</p>
+<p>{% highlight c %}</p>
+<p>#include <stdio.h>
+int main() {
+ printf(&quot;Olá, Mundo!\n&quot;);
+ return 0;
+}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir um compilador instalado, ex.: <a href="https://gcc.gnu.org/">gcc</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>gcc hello-world.c -o hello-world.o &amp;&amp; ./hello-world.o</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://terminalroot.com.br/2011/10/ola-mundo.html">https://terminalroot.com.br/2011/10/ola-mundo.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-c-assets-img-dev-langs-cpp-png-"><img src="/assets/img/dev/langs/cpp.png" alt="C++"></h2>
+<h3 id="03-c-">03. C++</h3>
+<p><a href="https://isocpp.org/">https://isocpp.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.cpp</code>, <code>vim hello-world.c++</code> ou <code>vim hello-world.cc</code></p>
+</blockquote>
+<p>C++ (em português: lê-se &quot;cê mais mais&quot;, em inglês lê-se see plus plus) é uma linguagem de programação compilada multi-paradigma (seu suporte inclui linguagem imperativa, orientada a objetos e genérica) e de uso geral. 
+{% highlight cpp %}</p>
+<p>#include <iostream>
+int main() {
+std::cout &lt;&lt; &quot;Olá, Mundo!&quot; &lt;&lt; std::endl;
+return 0;
+}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir um compilador instalado, ex.: <a href="https://gcc.gnu.org/">gcc</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>g++ hello-world.cpp -o hello-world.o &amp;&amp; ./hello-world.o</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://en.cppreference.com/book/intro/hello_world">https://en.cppreference.com/book/intro/hello_world</a></p>
+</blockquote>
+<hr>
+<h2 id="-go-assets-img-dev-langs-go-png-"><img src="/assets/img/dev/langs/go.png" alt="Go"></h2>
+<h3 id="04-go">04. Go</h3>
+<p><a href="https://golang.org/">https://golang.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.go</code></p>
+</blockquote>
+<p>Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada .
+{% highlight go %}
+package main</p>
+<p>import &quot;fmt&quot;</p>
+<p>func main() {
+    fmt.Printf(&quot;Olá, Mundo!\n&quot;)
+}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir o go instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>go build hello-world.go &amp;&amp; ./hello-world</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://tour.golang.org/welcome/1">https://tour.golang.org/welcome/1</a></p>
+</blockquote>
+<hr>
+<h2 id="-bash-assets-img-dev-langs-bash-png-"><img src="/assets/img/dev/langs/bash.png" alt="Bash"></h2>
+<h3 id="05-bash">05. Bash</h3>
+<p><a href="https://www.gnu.org/software/bash/">https://www.gnu.org/software/bash/</a>
+Arquivo: <code>vim hello-world.sh</code> ou <code>vim hello-world.bash</code></p>
+<p>O bash é uma linguagem de script ou interpretador de comandos, um entre os diversos tradutores.
+{% highlight bash %}</p>
+<p>#!/bin/bash
+echo &#39;Olá, Mundo!&#39;
+{% endhighlight %}</p>
+<p>Rodar: <code>bash hello-world.sh</code> , <code>sh hello-world.sh</code> , <code>source hello-world.sh</code> , <code>chmod +x ./hello-world.sh &amp;&amp; ./hello-world.sh</code></p>
+<blockquote>
+<p>Exemplo: <a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-2.html">http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-2.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-awk-assets-img-dev-langs-awk-png-"><img src="/assets/img/dev/langs/awk.png" alt="Awk"></h2>
+<h3 id="06-awk">06. Awk</h3>
+<p><a href="https://www.gnu.org/software/gawk/">https://www.gnu.org/software/gawk/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.awk</code></p>
+</blockquote>
+<p>A linguagem de programação AWK foi criada em 1977 pelos cientistas Alfred Aho, Peter J. Weinberger e Brian Kernighan no laboratório Bell Labs.
+{% highlight awk %}</p>
+<p>#!/usr/bin/env awk
+BEGIN {print &quot;Olá, Mundo!&quot;}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Existem diversas variantes do Awk: <a href="https://terminalroot.com.br/2014/12/tutorial-basico-de-awk.html">Saiba mais aqui</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>awk -f hello-world.awk</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://www.gnu.org/software/gawk/manual/gawk.html#BEGIN_002fEND">https://www.gnu.org/software/gawk/manual/gawk.html#BEGIN_002fEND</a></p>
+</blockquote>
+<hr>
+<h2 id="-vim-assets-img-dev-langs-vim-png-"><img src="/assets/img/dev/langs/vim.png" alt="Vim"></h2>
+<h3 id="07-vimscript">07. VimScript</h3>
+<p><a href="https://www.vim.org/">https://www.vim.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.vim</code></p>
+</blockquote>
+<p>A linguagem de script do Vim, conhecida como Vimscript, é uma linguagem imperativa dinâmica típica que oferece a maioria dos recursos de linguagem comuns.
+{% highlight vim %}
+:echo &quot;Olá. Mundo!&quot;
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir <a href="https://www.vim.org/">vim</a> instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>vim -u hello-world.vim +qall</code></p>
+<blockquote>
+<p>Curso de Vim e VimScript: <a href="https://terminalroot.com.br/vim">https://terminalroot.com.br/vim</a></p>
+</blockquote>
+<hr>
+<h2 id="-sql-assets-img-dev-langs-sql-png-"><img src="/assets/img/dev/langs/sql.png" alt="SQL"></h2>
+<h3 id="08-sql">08. SQL</h3>
+<p><a href="https://sigmod.org/#standards">https://sigmod.org/#standards</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.sql</code></p>
+</blockquote>
+<p>Structured Query Language, ou Linguagem de Consulta Estruturada ou SQL, é a linguagem de pesquisa declarativa padrão para banco de dados relacional (base de dados relacional).
+{% highlight sql %}
+SELECT &quot;Olá, Mundo!&quot;
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir o MySQL para esse exemplo: <a href="https://www.mysql.com">MySQL</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>mysql -u root -p &lt; hello-world.sql</code> ou diretamente: <code>mysql -u root -p -e &quot;SELECT &#39;Olá, Mundo&#39;&quot;</code></p>
+<blockquote>
+<p>Usos: <a href="https://terminalroot.com.br/2011/10/curso-certificacao-linux-lpi-102.html">https://terminalroot.com.br/2011/10/curso-certificacao-linux-lpi-102.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-lua-assets-img-dev-langs-lua-png-"><img src="/assets/img/dev/langs/lua.png" alt="Lua"></h2>
+<h3 id="09-lua">09. Lua</h3>
+<p><a href="https://www.lua.org/">https://www.lua.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.lua</code></p>
+</blockquote>
+<p>Lua é uma linguagem de script de multiparadigma, pequena, reflexiva e leve, projetada para expandir aplicações em geral, por ser uma linguagem extensível (que une partes de um programa feitas em mais de uma linguagem), para prototipagem e para ser embarcada em softwares complexos, como jogos. Assemelha-se com Python, Ruby e entre outras.
+{% highlight lua %}</p>
+<p>#!/usr/bin/env lua
+print &quot;Olá, Mundo!&quot;
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir Lua instalada.</em></p>
+</blockquote>
+<p>Rodar: <code>lua hello-world.lua</code> ou <code>chmod +x hello-world.lua &amp;&amp; ./hello-world.lua</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://terminalroot.com.br/2016/11/blog-linux-lua.html">https://terminalroot.com.br/2016/11/blog-linux-lua.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-perl-assets-img-dev-langs-perl-png-"><img src="/assets/img/dev/langs/perl.png" alt="Perl"></h2>
+<h3 id="10-perl">10. Perl</h3>
+<p><a href="https://www.perl.org/">https://www.perl.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.pl</code></p>
+</blockquote>
+<p>Perl é uma família de duas linguagens de programação multiplataforma, Perl 5 e Perl 6.
+{% highlight perl %}</p>
+<p>#!/usr/bin/env perl
+print &quot;Olá, Mundo!\n&quot;;
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir Perl instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>perl hello-world.pl</code> ou <code>chmod +x hello-world.pl &amp;&amp; ./hello-world.pl</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://metacpan.org/pod/Perl::Tutorial::HelloWorld">https://metacpan.org/pod/Perl::Tutorial::HelloWorld</a></p>
+</blockquote>
+<hr>
+<h2 id="-php-assets-img-dev-langs-php-png-"><img src="/assets/img/dev/langs/php.png" alt="PHP"></h2>
+<h3 id="11-php">11. PHP</h3>
+<p><a href="https://www.php.net/">https://www.php.net/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.php</code></p>
+</blockquote>
+<p>PHP (um acrônimo recursivo para &quot;PHP: Hypertext Preprocessor&quot;, originalmente Personal Home Page) é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web.
+{% highlight php %}</p>
+<p>#!/usr/bin/env php
+&lt;?=&quot;Olá, Mundo!\n&quot;?&gt;
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir PHP instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>php hello-world.php</code> ou <code>chmod +x hello-world.php &amp;&amp; ./hello-world.php</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://terminalroot.com.br/2011/12/como-criar-chat-com-sockets-em-php-no.html">https://terminalroot.com.br/2011/12/como-criar-chat-com-sockets-em-php-no.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-python-assets-img-dev-langs-python-png-"><img src="/assets/img/dev/langs/python.png" alt="Python"></h2>
+<h3 id="12-python">12. Python</h3>
+<p><a href="https://www.python.org/">https://www.python.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.py</code></p>
+</blockquote>
+<p>Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+{% highlight python %}</p>
+<p>#!/usr/bin/env python
+print(&quot;Olá, Mundo!&quot;)
+{% endhighlight %}</p>
+<blockquote>
+<p><em>É possível rodar Python diretamente no prompt: <code>python</code>.</em></p>
+</blockquote>
+<p>Rodar: <code>python hello-world.py</code> ou <code>chmod +x hello-world.py &amp;&amp; ./hello-world.py</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://terminalroot.com.br/2016/12/script-basico-de-python-para-aprendizado.html">https://terminalroot.com.br/2016/12/script-basico-de-python-para-aprendizado.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-javascript-assets-img-dev-langs-javascript-png-"><img src="/assets/img/dev/langs/javascript.png" alt="JavaScript"></h2>
+<h3 id="13-javascript">13. JavaScript</h3>
+<p><a href="http://www.ecma-international.org/publications/standards/Ecma-262.htm">http://www.ecma-international.org/publications/standards/Ecma-262.htm</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.js</code></p>
+</blockquote>
+<p>JavaScript, frequentemente abreviado como JS, é uma linguagem de programação interpretada de alto nível, caracterizada também, como dinâmica, fracamente tipificada, prototype-based e multi-paradigma.
+{% highlight javascript %}
+console.log(&quot;Olá, Mundo!&quot;);
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir o JDK instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>node hello-world.js</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://terminalroot.com.br/2011/11/alguns-codigos-simples-de-javascript.html">https://terminalroot.com.br/2011/11/alguns-codigos-simples-de-javascript.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-java-assets-img-dev-langs-java-png-"><img src="/assets/img/dev/langs/java.png" alt="Java"></h2>
+<h3 id="14-java">14. Java</h3>
+<p><a href="https://www.java.com/">https://www.java.com/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.java</code></p>
+</blockquote>
+<p>Java é uma linguagem de programação desenvolvida por engenheiros da Sun Microsystems. É uma linguagem orientada a objetos e projetada para rodar em várias plataformas sem a necessidade de recompilar o código em cada uma delas.</p>
+<ul>
+<li><strong>JDK</strong> - <strong>J</strong>ava <strong>D</strong>evelopment <strong>K</strong>it é necessário para desenvolver aplicativos java.
+O JRE é menor que o JDK, portanto, ele necessita de menos espaço em disco.</li>
+</ul>
+<p>OpenJDK é uma implementação livre e gratuita da plataforma Java, Edição Standard. 
+{% highlight java %}
+class OlaMundo {
+    public static void main(String args[]) {
+        System.out.println(&quot;Olá, Mundo!&quot;);
+    }
+}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir um compilador e um linker: <a href="https://www.nasm.us/">nasm</a> e <a href="https://www.gnu.org/software/binutils/">ld</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>javac hello-world.java &amp;&amp; java OlaMundo</code> , o <strong>javac</strong> cria um arquivo com o nome da <em>classe</em>(dentro do mesmo diretório onde você o rodou), nesse caso <strong>OlaMundo</strong> com a extensão <strong>.class</strong>(<code>OlaMundo.class</code>) , mas pra rodar não informa o <em>.class</em> .</p>
+<blockquote>
+<p>OpenJDK: <a href="https://openjdk.java.net/">https://openjdk.java.net/</a></p>
+</blockquote>
+<hr>
+<h2 id="-rust-assets-img-dev-langs-rust-png-"><img src="/assets/img/dev/langs/rust.png" alt="Rust"></h2>
+<h3 id="15-rust">15. Rust</h3>
+<p><a href="https://www.rust-lang.org">https://www.rust-lang.org</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.rs</code></p>
+</blockquote>
+<p>Rust é uma linguagem de programação multiparadigma compilada desenvolvida pela Mozilla Research. É projetada para ser &quot;segura, concorrente e prática&quot;, suportando os estilos puramente funcional, procedural, e orientado a objetos. Possui suporte nativo ao WebAssembly.
+{% highlight rust %}
+fn main() {
+    println!(&quot;Olá Mundo!&quot;);
+}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir o compilador: <a href="https://doc.rust-lang.org/rustc/index.html">rustc</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>rustc hello-world.rs &amp;&amp; ./hello-world</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://doc.rust-lang.org/stable/rust-by-example/hello.html">https://doc.rust-lang.org/stable/rust-by-example/hello.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-swift-assets-img-dev-langs-swift-png-"><img src="/assets/img/dev/langs/swift.png" alt="Swift"></h2>
+<h3 id="16-swift">16. Swift</h3>
+<p><a href="https://swift.org/">https://swift.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.swift</code></p>
+</blockquote>
+<p>Swift é uma linguagem de programação desenvolvida pela Apple para desenvolvimento no iOS, macOS, watchOS, tvOS e Linux.
+{% highlight swift %}
+print(&quot;Olá, Mundo!&quot;)
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir o <a href="https://github.com/apple/swift">swift</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>swift build &amp;&amp; .build/debug/hello-world</code> , isso dentro de um diretório com Sources</p>
+<blockquote>
+<p>Exemplo: <a href="https://swift.org/getting-started/#installing-swift">https://swift.org/getting-started/#installing-swift</a></p>
+</blockquote>
+<hr>
+<h2 id="-dart-assets-img-dev-langs-dart-png-"><img src="/assets/img/dev/langs/dart.png" alt="Dart"></h2>
+<h3 id="17-dart">17. Dart</h3>
+<p><a href="https://dart.dev/">https://dart.dev/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.dart</code></p>
+</blockquote>
+<p>Dart (originalmente denominada Dash) é uma linguagem de script voltada à web desenvolvida pela Google.
+{% highlight dart %}
+main() {
+  print(&#39;Olá, Mundo!&#39;);
+}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa de <a href="https://dart.dev/tutorials/server/get-started">dependências</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>dart hello-world.dart</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://dart.dev/#try-dart">https://dart.dev/#try-dart</a></p>
+</blockquote>
+<hr>
+<h2 id="-kotlin-assets-img-dev-langs-kotlin-png-"><img src="/assets/img/dev/langs/kotlin.png" alt="Kotlin"></h2>
+<h3 id="18-kotlin">18. Kotlin</h3>
+<p><a href="https://kotlinlang.org/">https://kotlinlang.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.kt</code></p>
+</blockquote>
+<p><a href="https://github.com/andrewoma/kotlin-script">Kotlin</a> é uma Linguagem de programação multiplataforma que compila para a Máquina virtual Java e que também pode ser traduzida para JavaScript e compilada para código nativo.
+{% highlight kotlin %}</p>
+<p>#!/usr/bin/env kotlins
+package hello</p>
+<p>fun main() {
+    println(&quot;Olá, Mundo!&quot;)
+}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir <a href="https://kotlinlang.org/docs/tutorials/command-line.html">dependências</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>kotlinc hello-world.kt -include-runtime -d hello-world.jar &amp;&amp; java -jar hello-world.jar</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://kotlinlang.org/docs/tutorials/kotlin-for-py/compiling-and-running.html">https://kotlinlang.org/docs/tutorials/kotlin-for-py/compiling-and-running.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-r-assets-img-dev-langs-r-png-"><img src="/assets/img/dev/langs/r.png" alt="R"></h2>
+<h3 id="19-r">19. R</h3>
+<p><a href="https://www.r-project.org/">https://www.r-project.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.r</code></p>
+</blockquote>
+<p>R é um ambiente computacional e uma linguagem de programação que vem progressivamente se especializando em manipulação, análise e visualização gráfica de dados.
+{% highlight r %}</p>
+<p>#!/usr/bin/env Rscript
+OlaMundo &lt;- function(){
+   print(&#39;Olá, Mundo!&#39;)
+}</p>
+<p>OlaMundo()
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir <a href="https://cran.r-project.org/mirrors.html">R</a> instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>Rscript hello-world.r</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://cran.r-project.org/doc/manuals/r-release/R-intro.html">https://cran.r-project.org/doc/manuals/r-release/R-intro.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-julia-assets-img-dev-langs-julia-png-"><img src="/assets/img/dev/langs/julia.png" alt="Julia"></h2>
+<h3 id="20-julia">20. Julia</h3>
+<p><a href="https://julialang.org/">https://julialang.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.jl</code></p>
+</blockquote>
+<p>Julia é uma linguagem de programação dinâmica de alto nível projetada para atender os requisitos da computação de alto desempenho numérico e científico, sendo também eficaz para a programação de propósito geral.
+{% highlight julia %}</p>
+<p>#!/usr/bin/env julia
+println(&quot;Olá, Mundo!&quot;)
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Para usar a forma compilada precisa do compilador <a href="https://www.gnu.org/software/lightning/">JIT</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>julia hello-world.jl</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://docs.julialang.org/en/v1/manual/getting-started/">https://docs.julialang.org/en/v1/manual/getting-started/</a></p>
+</blockquote>
+<hr>
+<h2 id="-ruby-assets-img-dev-langs-ruby-png-"><img src="/assets/img/dev/langs/ruby.png" alt="Ruby"></h2>
+<h3 id="21-ruby">21. Ruby</h3>
+<p><a href="https://www.ruby-lang.org/">https://www.ruby-lang.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.rb</code></p>
+</blockquote>
+<p>Ruby é uma linguagem de programação interpretada multiparadigma, de tipagem dinâmica e forte, com gerenciamento de memória automático, originalmente planejada e desenvolvida no Japão em 1995, por Yukihiro &quot;Matz&quot; Matsumoto, para ser usada como linguagem de script.
+{% highlight ruby %}</p>
+<p>#!/usr/bin/env ruby
+puts &quot;Olá, Mundo!&quot;
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir o Ruby instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>ruby hello-world.rb</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://www.ruby-lang.org/pt/documentation/">https://www.ruby-lang.org/pt/documentation/</a></p>
+</blockquote>
+<hr>
+<h2 id="-elixir-assets-img-dev-langs-elixir-png-"><img src="/assets/img/dev/langs/elixir.png" alt="Elixir"></h2>
+<h3 id="22-elixir">22. Elixir</h3>
+<p><a href="https://elixir-lang.org/">https://elixir-lang.org/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.exs</code></p>
+</blockquote>
+<p>Elixir é uma linguagem de programação funcional, concorrente, de propósito geral que executa na máquina virtual Erlang (BEAM).
+{% highlight elixir %}
+IO.puts &quot;Hello world from Elixir&quot;
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir Elixir instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>elixir hello-world.exs</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://elixir-lang.org/getting-started/introduction.html">https://elixir-lang.org/getting-started/introduction.html</a></p>
+</blockquote>
+<hr>
+<h2 id="-vala-assets-img-dev-langs-vala-png-"><img src="/assets/img/dev/langs/vala.png" alt="Vala"></h2>
+<h3 id="23-vala">23. Vala</h3>
+<p><a href="https://wiki.gnome.org/Projects/Vala">https://wiki.gnome.org/Projects/Vala</a></p>
+<blockquote>
+<p>Extensão: <code>vim hello-world.vala</code></p>
+</blockquote>
+<p>Vala é uma linguagem de programação orientada a objetos, com sintaxe <a href="https://wiki.gnome.org/Projects/Vala/ValaForCSharpProgrammers">inspirada em C#</a>.
+{% highlight c %}
+class Sample : Object {
+    static void main (string[] args) {
+        stdout.printf (&quot;Olá, Mundo!\n&quot;);
+    }
+}
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir o Vala instalado.</em></p>
+</blockquote>
+<p>Rodar: <code>valac hello-world.vala -o hello-world</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://www.vala-project.org/doc/vala/Overview.html#Getting_started">https://www.vala-project.org/doc/vala/Overview.html#Getting_started</a></p>
+</blockquote>
+<hr>
+<h2 id="-c-assets-img-dev-langs-csharp-png-"><img src="/assets/img/dev/langs/csharp.png" alt="C#"></h2>
+<h3 id="24-c">24. C</h3>
+<p><a href="http://msdn.microsoft.com/pt-br/vcsharp/default.aspx">http://msdn.microsoft.com/pt-br/vcsharp/default.aspx</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.cs</code></p>
+</blockquote>
+<p>C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. 
+{% highlight c %}
+using System; 
+namespace HelloWorldApp { 
+    class Geeks { 
+        static void Main(string[] args) {
+           Console.WriteLine(&quot;Olá, Mundo!&quot;); 
+           Console.ReadKey(); 
+        } 
+    } 
+} 
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir o <a href="https://visualstudio.microsoft.com/pt-br/">dotnet</a>, ex. no <a href="">Gentoo</a>: <code>layman dotnet &amp;&amp; emerge mono monodevelop</code>.</em></p>
+<ul>
+<li><a href="https://github.com/gentoo/dotnet">https://github.com/gentoo/dotnet</a></li>
+<li><a href="https://wiki.gentoo.org/wiki/Project:Dotnet">https://wiki.gentoo.org/wiki/Project:Dotnet</a></li>
+<li><a href="http://en.terminalroot.com.br/how-to-install-programs-via-layman-in-gentoo/">http://en.terminalroot.com.br/how-to-install-programs-via-layman-in-gentoo/</a></li>
+</ul>
+<p>Exemplo: <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">https://docs.microsoft.com/pt-br/dotnet/csharp/</a></p>
+</blockquote>
+<hr>
+<h2 id="-gambas-assets-img-dev-langs-gambas-png-"><img src="/assets/img/dev/langs/gambas.png" alt="Gambas"></h2>
+<h3 id="25-gambas-visual-basic-para-linux-">25. Gambas (Visual Basic para Linux)</h3>
+<p><a href="http://gambas.sourceforge.net/">http://gambas.sourceforge.net/</a></p>
+<blockquote>
+<p>Arquivo: <code>vim hello-world.gambas</code></p>
+</blockquote>
+<p>Gambas é um ambiente de desenvolvimento integrado (IDE) para Linux uma alternativa Open Source ao Visual Basic do Microsoft Windows.
+{% highlight vb %}
+Message.Info(&quot;Olá, Mundo!&quot;)
+{% endhighlight %}</p>
+<blockquote>
+<p><em>Precisa possuir Gambas, ex.: <code>sudo apt install gambas3</code> <a href="https://www.youtube.com/watch?v=xezNqM2zrbY">https://www.youtube.com/watch?v=xezNqM2zrbY</a>.</em></p>
+</blockquote>
+<p>Rodar: <code>gambas hello-world.gambas</code></p>
+<blockquote>
+<p>Exemplo: <a href="https://terminalroot.com.br/2016/10/gambas-o-visual-basic-open-source-para.html">https://terminalroot.com.br/2016/10/gambas-o-visual-basic-open-source-para.html</a></p>
+</blockquote>
+<hr>
+

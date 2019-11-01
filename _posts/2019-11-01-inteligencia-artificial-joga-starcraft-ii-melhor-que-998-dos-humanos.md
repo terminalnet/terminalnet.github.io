@@ -24,7 +24,7 @@ data-full-width-responsive="true"></ins>
 
 Obviamente, isso é um grande problema para a comunidade de StarCraft II, mas a proficiência do sistema representa uma conquista importante para os pesquisadores de IA, pois abordagens semelhantes podem ser aplicadas no mundo real para resolver problemas complicados ou expandir o escopo da inteligência de máquina.
 
-![StarCraft ||](/assets/images/sc2.jpg)
+![StarCraft II](/assets/images/sc2.jpg)
 
 <!-- RETANGULO LARGO 2 -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

@@ -82,7 +82,7 @@ data-ad-slot="9652691879"></ins>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->
 <ins class="adsbygoogle"
-style="display:inline-block;width:336px;height:50px"
+style="display:inline-block;width:730px;height:95px"
 data-ad-client="ca-pub-2838251107855362"
 data-ad-slot="5351066970"></ins>
 <script>

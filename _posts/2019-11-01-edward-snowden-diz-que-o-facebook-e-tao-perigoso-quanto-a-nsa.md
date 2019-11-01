@@ -1,4 +1,4 @@
-    ---
+---
 layout: post
 title: "Edward Snowden diz que o Facebook é tão perigoso quanto a NSA"
 categories: [ News ]

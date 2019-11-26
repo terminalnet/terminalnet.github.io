@@ -122,7 +122,7 @@ Allwood também sugere não usar esse modelo como uma pequena casa, mas como um 
 
 No lado mais caro, a Amazon vende esta cabine Timberline. Por US$ 34.900, esta casa tem 354 pés quadrados e é mais personalizável, o que facilita muito a alteração da planta da casa.
 
-A Amazon vende outros kits domésticos de montagem você mesmo por US$ 46.900 e US$ 64.650. No entanto, essas casas são muito maiores que o máximo de 400 pés quadrados, na definição de "casa minúscula".
+A Amazon vende outros kits domésticos de montagem você mesmo por US$ 46.900 e US$ 64.650. No entanto, essas casas são muito maiores que o máximo de 400 pés quadrados, na [definição de "casa minúscula"](https://www.realtor.com/advice/buy/what-is-a-tiny-house/).
 
 ![Amazon casa de verdade de montar](/assets/images/amazonhouse7.jpg)
 

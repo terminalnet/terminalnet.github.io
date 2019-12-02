@@ -2,7 +2,7 @@
 layout: post
 title: " Os hackers que ganham milhões (legalmente)"
 categories: [ News ]
-image: 'assets/images/'
+image: 'assets/images/hacker-pago.jpg'
 ---
 
 Alguns dos especialistas em encontrar falhas na segurança de grandes empresas como o Facebook podem ganhar mais de R$ 1,5 milhão por ano.

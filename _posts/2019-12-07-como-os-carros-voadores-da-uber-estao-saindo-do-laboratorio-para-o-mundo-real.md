@@ -107,4 +107,4 @@ Para piorar sua situação, a Uber ainda perdeu mais de US$ 1 bilhão em valor d
 
 Para sair do mau momento, a companhia provavelmente vai precisar de algo ainda mais revolucionário do que os “carros voadores”.
 
-Via: InfoMoney
+Via: InfoMoney  

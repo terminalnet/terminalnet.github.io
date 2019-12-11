@@ -88,7 +88,7 @@ Talvez houvesse uma maneira mais rápida? A Marinha ficou intrigada com o potenc
 
 ## A mariposa que fez história
 
-![Aiken teve dificuldade em aceitar uma mulher em sua equipe.](/assets/images/_93532728_hi037223281.jpg)
+![Aiken teve dificuldade em aceitar uma mulher em sua equipe](/assets/images/marinha.jpg)
 
 Aiken não gostava de ser enviado a uma mulher para se juntar à sua equipe, mas pouco depois Hopper o impressionou tanto que ele pediu que ele escrevesse o manual de operações. Saber o que esse manual deveria dizer envolveu muita experimentação. Na maioria das vezes, o Mark 1 parava depois de começar e não havia nenhuma mensagem de erro, como é o caso agora.
 

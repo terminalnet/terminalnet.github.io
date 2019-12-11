@@ -61,7 +61,7 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-## Marinha e femininsmo
+## Marinha e feminismo
 
 Hoje há muita discussão sobre como fazer com que mais mulheres façam carreira em tecnologia. Em 1906, quando Grace Hopper nasceu em Nova York, Estados Unidos, poucos se preocupavam com a igualdade de gênero no mercado de trabalho. Felizmente para ela, entre os poucos estava o pai, um executivo de seguro de vida que não entendia por que as filhas deveriam receber menos educação do que o filho.
 

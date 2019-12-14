@@ -107,7 +107,7 @@ Muitas das tecnologias integradas do sistema viram melhorias para melhor seguran
 
 Todas as edições do Zorin OS 15.1 estão disponíveis para download imediatamente na página de download do site.
 
-<button type="button" class="btn btn-primary btn-lg">Download</button>
+<a href="https://zorinos.com/download/" target="_blank"><button type="button" class="btn btn-primary btn-lg">Download</button></a>
 
 Todos os usuários do Zorin OS 15 podem atualizar para o Zorin OS 15.1 instalando as atualizações mais recentes do Atualizador de Software.
 

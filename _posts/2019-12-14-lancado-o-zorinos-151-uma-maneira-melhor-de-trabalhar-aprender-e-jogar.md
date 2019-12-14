@@ -19,7 +19,7 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Há pouco mais de 6 meses, foi lançado o Zorin OS 15, nosso sistema operacional mais avançado e refinado de todos os tempos. Desde então, ele foi baixado mais de 550.000 vezes em todo o mundo. Mais de 65% desses downloads foram provenientes do Windows e do macOS, refletindo nossa missão de levar o poder do Linux para pessoas que nunca tiveram acesso a ele antes.
+Há pouco mais de 6 meses, foi lançado o Zorin OS 15. Desde então, ele foi baixado mais de 550.000 vezes em todo o mundo. Mais de 65% desses downloads foram provenientes do Windows e do macOS, refletindo nossa missão de levar o poder do Linux para pessoas que nunca tiveram acesso a ele antes.
 
 O foco é tornar a área de trabalho ainda mais familiar e fácil de usar para novos usuários, especialmente aqueles que estão se afastando do Windows 7 que leva ao fim de seu suporte em um mês.
 

@@ -55,9 +55,9 @@ O mais estranho de tudo é que existem usuários que dizem que podem acessar os 
 
 No momento, os afetados têm apenas uma opção: usar outro navegador. Aguardando uma declaração oficial ou uma solução, recomendamos o uso do [Firefox](https://terminalroot.com.br/2014/09/complementos-uteis-para-firefox.html).
 
-## Veja também: [Lista com 28 Navegadores para Linux](https://terminalroot.com.br/2016/04/lista-com-28-navegadores-para-linux.html)
-## Veja também: [16 Complementos úteis para Firefox](https://terminalroot.com.br/2014/09/complementos-uteis-para-firefox.html)
-## Veja também: [Limpe suas URLs dos Parâmetros das Redes Sociais e Outros](https://terminalroot.com.br/2019/09/limpe-sua-url.html)
+### → Veja também: [Lista com 28 Navegadores para Linux](https://terminalroot.com.br/2016/04/lista-com-28-navegadores-para-linux.html)
+### → Veja também: [16 Complementos úteis para Firefox](https://terminalroot.com.br/2014/09/complementos-uteis-para-firefox.html)
+### → Veja também: [Limpe suas URLs dos Parâmetros das Redes Sociais e Outros](https://terminalroot.com.br/2019/09/limpe-sua-url.html)
 
 <!-- RETANGULO LARGO -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

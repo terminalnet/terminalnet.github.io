@@ -5,6 +5,7 @@ categories: [ News ]
 image: 'assets/images/Sericios-de-Google-no-funcionan-en-Linux-830x380.png'
 ---
 
+
 A maioria dos usuários da Apple pode viver perfeitamente com os serviços do Cupertino, mas o restante é necessário contar com outras empresas para gerenciar nossos dados e usar a nuvem. De fato, entre os usuários da Apple, também existem muitos que preferem os serviços do Google, o que deixa claro que a empresa de mecanismos de pesquisa é sempre uma das melhores opções (para aqueles que não se preocupam com a privacidade). E isso se aplica a qualquer empresa, é que os serviços podem parar de funcionar a qualquer momento.
 
 <!-- QUADRADO -->

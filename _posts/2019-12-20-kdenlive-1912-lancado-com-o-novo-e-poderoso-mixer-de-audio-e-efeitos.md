@@ -9,8 +9,6 @@ O editor de vídeo favorito de muitos no Linux tem uma nova versão, e oferece a
 
 Os destaques incluem enormes melhorias de desempenho, resultando em uma linha do tempo mais rápida e suave, um novo mixer de áudio, efeitos principais (áudio/vídeo) e uma melhor forma de onda de áudio, para citar alguns”, diz Farid Abdelnour, gerente de lançamento do aplicativo.
 
-Se você se inscrever no omg! Ubuntu! No canal do YouTube, você saberá que o áudio é minha maior fonte de frustração (apesar de, desde a mudança do meu microfone Blue Yeti para um microfone diferente, as pessoas dizem que ele melhorou 💁🏻‍♂️). Naturalmente, qualquer melhoria na frente do som é - prepare-se para gemer - música para meus ouvidos.
-
 
 <!-- QUADRADO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

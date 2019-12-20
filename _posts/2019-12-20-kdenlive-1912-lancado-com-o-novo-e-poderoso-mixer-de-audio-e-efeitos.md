@@ -43,7 +43,7 @@ data-ad-slot="5351066970"></ins>
 - 🎬️  Redesign do monitor do compartimento;
 - 🎬️  Principais melhorias de desempenho;
 - 🎬️  Efeitos principais;
-- 🎬️  Lavagem de clipes;
+- 🎬️  Clip scrubbing;
 - 🎬️  Filtros personalizados funcionam novamente;
 - 🎬️  Correção da comparação do efeito de divisão.
 

@@ -56,11 +56,11 @@ data-ad-slot="8549252987"></ins>
 
 ## Dê seus primeiros passos com o C#
 
-Nesse curso, a Microsoft oferece a oportunidade para que seus usuários possam aprender a linguagem de programação. A ideia é apresentar a sintaxe básica e os processos de pensamento necessários para criar aplicativos simples usando o C#. Para acessar o curso e entender todos os seus requisitos, basta [clicar aqui](https://docs.microsoft.com/pt-br/learn/paths/csharp-first-steps/).
+Nesse curso, a Microsoft oferece a oportunidade para que seus usuários possam aprender a linguagem de programação. A ideia é apresentar a sintaxe básica e os processos de pensamento necessários para criar aplicativos simples usando o C#. Para acessar o curso e entender todos os seus requisitos, basta [**clicar aqui**](https://docs.microsoft.com/pt-br/learn/paths/csharp-first-steps/).
 
 ## Criar um site simples usando HTML, CSS e JavaScript
 
-Esse curso oferece a base para criação de sites. Os usuários aprendem a trabalhar com ferramentas como HTML, CSS e JavaScript para criar páginas na web. Eles também exploram o uso de ferramentas de desenvolvedor para aprimorar as criações e para detectar e consertar problemas de programação. Para ter acesso ao módulo, [clique aqui](https://docs.microsoft.com/pt-br/learn/modules/build-simple-website/).
+Esse curso oferece a base para criação de sites. Os usuários aprendem a trabalhar com ferramentas como HTML, CSS e JavaScript para criar páginas na web. Eles também exploram o uso de ferramentas de desenvolvedor para aprimorar as criações e para detectar e consertar problemas de programação. Para ter acesso ao módulo, [**clique aqui**](https://docs.microsoft.com/pt-br/learn/modules/build-simple-website/).
 
 <!-- RETANGULO LARGO -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -79,6 +79,6 @@ data-full-width-responsive="true"></ins>
 
 Com esse curso, o usuário vai aprender a criar aplicativos usando estruturas de desenvolvimento populares da plataforma Windows. Será possível aprender a desenvolver softwares usando as estruturas UWP, WPF e Windows Forms. O acesso pode ser feito por aqui.
 
-Esses são apenas alguns dos cursos oferecidos pela Microsoft. Ao todo, são mais de 900 cursos em diversas áreas de tecnologia para que os usuários possam escolher quais se adequam mais às suas áreas de atuação. Para ver a lista completa dos módulos oferecidos, os interessados podem [visitar o site oficial dos cursos](https://docs.microsoft.com/pt-br/learn/browse/).
+Esses são apenas alguns dos cursos oferecidos pela Microsoft. Ao todo, são mais de 900 cursos em diversas áreas de tecnologia para que os usuários possam escolher quais se adequam mais às suas áreas de atuação. Para ver a lista completa dos módulos oferecidos, os interessados podem [**visitar o site oficial dos cursos**](https://docs.microsoft.com/pt-br/learn/browse/).
 
 Via: *Microsoft*

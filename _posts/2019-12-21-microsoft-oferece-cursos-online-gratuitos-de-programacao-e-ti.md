@@ -36,7 +36,7 @@ data-ad-slot="5351066970"></ins>
 
 O curso oferece a base para que o usuário possa escrever código básico do Python. De acordo com sua descrição, será possível explorar as opções disponíveis para executar aplicativos do Python e aprender a declarar variáveis. Ao final dos módulos, com os conhecimentos adquiridos, o usuário será desafiado a criar um aplicativo simples, para demonstrar o que aprendeu. Para iniciar o curso, basta clicar aqui.
 C
-## hamar métodos da Biblioteca de Classes do .NET usando C#
+## Chamar métodos da Biblioteca de Classes do .NET usando C#
 
 A descrição geral do curso informa: "Use a funcionalidade na Biblioteca de Classes do .NET chamando métodos que retornam valores, aceitam parâmetros de entrada e mais".
 

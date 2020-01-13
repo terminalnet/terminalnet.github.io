@@ -64,3 +64,5 @@ data-full-width-responsive="true"></ins>
 A Huawei tem planos ambiciosos para o EulerOS, não apenas sendo um projeto feito para entusiastas de computadores, mas quer transformá-lo em uma verdadeira solução corporativa no nível de serviços, segurança e contêineres, com a computação em nuvem em mente.
 
 Vamos ver o que o futuro EulerOS reserva, mas vendo a imprevisibilidade do atual presidente dos Estados Unidos, tudo indica que a Huawei impulsionará seriamente essa distribuição GNU/Linux como um meio de continuar ganhando independência tecnológica.
+
+Via: [Muy Linux](https://www.muylinux.com/2020/01/09/euleros-distribucion-centos-huawei/)

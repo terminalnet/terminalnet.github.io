@@ -8,7 +8,7 @@
 _usage(){
   cat <<EOF
 usage: ${0##*/} options [title]
-  
+
   Options:
     -c [title]    Show channel title
     -h            Print this help message
@@ -28,7 +28,7 @@ _skell(){
     echo "layout: post"
     echo "title: \"${1}\""
     echo "categories: [ News ]"
-    echo "image: 'assets/images/'"
+    echo "image: 'assets/images/news/'"
     echo "---"
     echo
     echo '
@@ -102,7 +102,7 @@ _initpost(){
 }
 
 while getopts c:vh PARAM
-do 
+do
 	case "$PARAM" in
 		c) _initpost "$OPTARG" ;;
 		h) _usage && exit 0   ;;

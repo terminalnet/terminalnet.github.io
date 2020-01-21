@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O Ubuntu 20.04 LTS finalmente irá descartar o App da Amazon"
+title: 'O Ubuntu 20.04 LTS finalmente irá descartar o App da Amazon'
 categories: [ News ]
 image: 'assets/images/news/ubuntu-amazon-web-app-goodbye.jpg'
 ---

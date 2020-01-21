@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9 motivos para aprender Python em 2020"
+title: '9 motivos para aprender Python em 2020'
 categories: [ News ]
 image: 'assets/images/news/python.png'
 ---

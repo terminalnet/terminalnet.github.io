@@ -5,6 +5,7 @@ categories: [ News ]
 image: 'assets/images/news/ubuntu-amazon-web-app-goodbye.jpg'
 ---
 
+
 > O aplicativo da web da Amazon também dificulta o uso do Ubuntu?
 
 Se sim, é hora de torcer por você, pois o tão aguardado Ubuntu 20.04 "Focal Fossa" finalmente removeu o lançador da web Amazon pré-instalado.
@@ -78,4 +79,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Foss Bytes](https://fossbytes.com/ubuntu-20-04-lts-drops-amazon-web-app/)
+Via [Foss Bytes](https://fossbytes.com/ubuntu-20-04-lts-drops-amazon-web-app/)

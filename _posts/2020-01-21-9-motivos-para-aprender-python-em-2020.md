@@ -5,6 +5,7 @@ categories: [ News ]
 image: 'assets/images/news/python.png'
 ---
 
+
 > Conheça boas razões para apostar nessa linguagem de programação
 
 Analogias para referir-se ao Python não faltam: novo Excel, simples com o inglês, canivete suíço, soja da TI. Todo esse descritivo está muito ligado à sua natureza versátil e à grande variedade de projetos a que a linguagem de programação tem sido aplicada e, sim, com bons resultados.
@@ -61,4 +62,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: *ComputerWorld*
+Via *ComputerWorld*

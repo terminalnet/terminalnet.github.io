@@ -2,7 +2,7 @@
 layout: post
 title: "9 motivos para aprender Python em 2020"
 categories: [ News ]
-image: 'assets/images/news/'
+image: 'assets/images/news/python.png'
 ---
 
 > Conheça boas razões para apostar nessa linguagem de programação

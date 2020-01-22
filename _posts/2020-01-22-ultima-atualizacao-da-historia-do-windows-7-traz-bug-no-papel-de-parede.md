@@ -65,4 +65,4 @@ data-full-width-responsive="true"></ins>
 
 Até o momento, a Microsoft não disse se tem algum plano de corrigir esse bug, já que o Windows 7 chegou ao fim de seu ciclo de suporte. Em teoria, não deveria mais haver nenhuma atualização grátis para os usuários comuns nunca mais, mas nada impede que a companhia lance uma correção por “boa vontade”.
 
-Via: [Olhar Digital](https://olhardigital.com.br/noticia/-ltima-atualizacao-da-historia-do-windows-7-traz-bug-no-papel-de-parede/95712)
+Via [Olhar Digital](https://olhardigital.com.br/noticia/-ltima-atualizacao-da-historia-do-windows-7-traz-bug-no-papel-de-parede/95712)

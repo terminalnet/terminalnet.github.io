@@ -101,4 +101,4 @@ Além disso, segundo os relatores especiais da ONU, a invasão do celular de Bez
 
 A mesma Callamard foi quem, em junho de 2019, liderou a investigação da ONU em Istambul que concluiu que a morte de Khashoggi havia sido premeditada e que o príncipe MBS deveria ser investigado pelo caso.
 
-Via *UOL*
+Via UOL

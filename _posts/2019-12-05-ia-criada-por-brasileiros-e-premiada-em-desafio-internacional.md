@@ -63,4 +63,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [ComputerWorld](https://computerworld.com.br/2019/12/03/ia-criada-por-brasileiros-e-premiada-em-desafio-internacional/)
+Via [ComputerWorld](https://computerworld.com.br/2019/12/03/ia-criada-por-brasileiros-e-premiada-em-desafio-internacional/)

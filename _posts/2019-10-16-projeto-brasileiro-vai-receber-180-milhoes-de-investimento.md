@@ -18,4 +18,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/video/projeto-brasileiro-vai-receber-180-milhoes-de-investimento/91633)
+Via [Olhar Digital](https://olhardigital.com.br/video/projeto-brasileiro-vai-receber-180-milhoes-de-investimento/91633)

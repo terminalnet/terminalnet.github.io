@@ -50,4 +50,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Nasa](https://www.nasa.gov/press-release/new-nasa-ebook-reveals-insights-of-earth-seen-at-night-from-space)
+Via [Nasa](https://www.nasa.gov/press-release/new-nasa-ebook-reveals-insights-of-earth-seen-at-night-from-space)

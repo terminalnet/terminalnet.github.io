@@ -69,4 +69,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/noticia/projeto-de-lei-tenta-prorrogar-em-2-anos-data-de-entrada-da-lgpd/92360)
+Via [Olhar Digital](https://olhardigital.com.br/noticia/projeto-de-lei-tenta-prorrogar-em-2-anos-data-de-entrada-da-lgpd/92360)

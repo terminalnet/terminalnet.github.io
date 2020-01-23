@@ -146,4 +146,4 @@ Atualmente, muitos OEMs começaram a enviar PCs pré-carregados com o Ubuntu ou 
 
 Portanto, estas são algumas etapas que você pode executar após o fim da vida útil do Windows 7. No entanto, você decide se deseja comprar um novo PC, trocar seu sistema operacional ou continuar usando o Windows 7. Mas lembre-se das desvantagens de segurança envolvidas.
 
-Via: [Foss Bytes](https://fossbytes.com/windows-7-end-of-life-what-to-do-next/)
+Via [Foss Bytes](https://fossbytes.com/windows-7-end-of-life-what-to-do-next/)

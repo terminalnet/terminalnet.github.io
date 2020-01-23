@@ -61,4 +61,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [CIO](https://cio.com.br/numero-de-empresas-que-pagam-resgate-em-casos-de-ransomware-aumenta-conclui-estudo/)
+Via [CIO](https://cio.com.br/numero-de-empresas-que-pagam-resgate-em-casos-de-ransomware-aumenta-conclui-estudo/)

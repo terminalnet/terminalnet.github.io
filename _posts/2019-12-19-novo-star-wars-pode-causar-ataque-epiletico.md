@@ -61,4 +61,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Super Interessante](https://super.abril.com.br/blog/bruno-garattoni/novo-star-wars-pode-causar-ataque-epiletico/)
+Via [Super Interessante](https://super.abril.com.br/blog/bruno-garattoni/novo-star-wars-pode-causar-ataque-epiletico/)

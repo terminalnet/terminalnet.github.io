@@ -33,6 +33,6 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/14/google-pixel-4-o-que-sabemos-do-novo-celular-android.htm)
+Via [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/14/google-pixel-4-o-que-sabemos-do-novo-celular-android.htm)
 
 

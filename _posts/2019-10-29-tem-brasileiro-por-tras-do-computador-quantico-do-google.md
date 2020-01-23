@@ -93,4 +93,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/27/conheca-o-brasileiro-que-ajudou-o-google-a-atingir-a-supremacia-quantica.htm)
+Via [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/27/conheca-o-brasileiro-que-ajudou-o-google-a-atingir-a-supremacia-quantica.htm)

@@ -48,4 +48,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [The Verge](https://www.theverge.com/2019/10/29/20937108/poop-database-ai-training-photo-upload-first-mit)
+Via [The Verge](https://www.theverge.com/2019/10/29/20937108/poop-database-ai-training-photo-upload-first-mit)

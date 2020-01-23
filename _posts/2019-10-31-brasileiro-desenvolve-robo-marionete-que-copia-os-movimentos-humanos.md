@@ -54,4 +54,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/noticia/brasileiro-desenvolve-robo-marionete-que-copia-os-movimentos-humanos/92307)
+Via [Olhar Digital](https://olhardigital.com.br/noticia/brasileiro-desenvolve-robo-marionete-que-copia-os-movimentos-humanos/92307)

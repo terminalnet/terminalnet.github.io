@@ -58,4 +58,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [pegn](https://revistapegn.globo.com/Tecnologia/noticia/2017/11/empresa-de-criptomoedas-desaparece-com-r-12-milhao-de-investidores.html)
+Via [pegn](https://revistapegn.globo.com/Tecnologia/noticia/2017/11/empresa-de-criptomoedas-desaparece-com-r-12-milhao-de-investidores.html)

@@ -54,4 +54,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Gizmodo](https://gizmodo.uol.com.br/homem-preso-carro-rio-salvo-siri/)
+Via [Gizmodo](https://gizmodo.uol.com.br/homem-preso-carro-rio-salvo-siri/)

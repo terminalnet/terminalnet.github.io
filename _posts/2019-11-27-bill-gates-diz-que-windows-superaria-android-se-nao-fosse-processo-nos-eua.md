@@ -56,4 +56,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: The Verge
+Via The Verge

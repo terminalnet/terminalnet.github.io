@@ -104,4 +104,4 @@ data-full-width-responsive="true"></ins>
 </script>
 
 
-Via: [Oficina da Net](https://www.oficinadanet.com.br/fotografia/28582-7-dicas-para-fazer-fotografia-macro-com-lentes-em-um-smartphone)
+Via [Oficina da Net](https://www.oficinadanet.com.br/fotografia/28582-7-dicas-para-fazer-fotografia-macro-com-lentes-em-um-smartphone)

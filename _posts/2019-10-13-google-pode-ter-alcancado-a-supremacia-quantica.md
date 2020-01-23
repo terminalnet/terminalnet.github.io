@@ -43,4 +43,4 @@ Os processadores quânticos devem revolucionar completamento áreas como a cript
 
 Enquanto os elementos binários dos computadores clássicos, os bits,  representam 0 ou 1, os bits quânticos ou qubits podem representar os dois valores simultaneamente, de acordo com princípios da mecânica quântica. Ao agrupar os qubits, o número de estados que eles podem representar aumenta exponencialmente, possibilitando calcular milhões ou bilhões de possibilidades instantaneamente. No entanto, alguns pesquisadores alertaram contra os exageros, argumentando que isso não sugere que as máquinas quânticas ultrapassem rapidamente os computadores tradicionais.
 
-Via: [Sociedade Científica](https://socientifica.com.br/2019/09/25/google-pode-ter-alcancado-a-supremacia-quantica/)
+Via [Sociedade Científica](https://socientifica.com.br/2019/09/25/google-pode-ter-alcancado-a-supremacia-quantica/)

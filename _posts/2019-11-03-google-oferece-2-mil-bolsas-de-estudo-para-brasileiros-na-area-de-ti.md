@@ -73,4 +73,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [TechTudo](https://www.infomoney.com.br/consumo/google-oferece-2-mil-bolsas-de-estudo-para-brasileiros-na-area-de-ti/)
+Via [TechTudo](https://www.infomoney.com.br/consumo/google-oferece-2-mil-bolsas-de-estudo-para-brasileiros-na-area-de-ti/)

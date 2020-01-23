@@ -46,4 +46,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Computer World](https://computerworld.com.br/2019/12/06/demanda-por-programadores/)
+Via [Computer World](https://computerworld.com.br/2019/12/06/demanda-por-programadores/)

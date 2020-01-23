@@ -63,4 +63,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Click Petróleo e Gás](https://clickpetroleoegas.com.br/portugal-abre-portas-para-profissionais-brasileiros-de-ti/)
+Via [Click Petróleo e Gás](https://clickpetroleoegas.com.br/portugal-abre-portas-para-profissionais-brasileiros-de-ti/)

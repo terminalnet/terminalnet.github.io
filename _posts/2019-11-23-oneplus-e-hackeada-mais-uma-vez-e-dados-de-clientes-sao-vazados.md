@@ -52,4 +52,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [WCCF Tech](https://wccftech.com/oneplus-customers-personal-information-exposed-in-latest-security-breach/)
+Via [WCCF Tech](https://wccftech.com/oneplus-customers-personal-information-exposed-in-latest-security-breach/)

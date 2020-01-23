@@ -33,5 +33,5 @@ Se essa piadinha não foi clara o suficiente: é quase certo que não foram alie
 
 É raríssimo que detritos espaciais causem quaisquer tipos danos no solo, eles se chocam contra o mar ou áreas remotas. Já ocorreram relatos ocasionais de propulsores de foguetes causando alguma destruição danos após seus lançamentos na China, mas até o momento não ocorreram relatos de fatalidades ou ferimentos graves por conta de lixo espacial.
 
-Via: [C|CNET](https://www.cnet.com/news/mysterious-fireball-that-crashed-and-burned-wasnt-a-meteor/)
+Via [C|CNET](https://www.cnet.com/news/mysterious-fireball-that-crashed-and-burned-wasnt-a-meteor/)
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

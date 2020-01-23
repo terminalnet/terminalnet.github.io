@@ -52,4 +52,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Digital Foundry](https://www.digitalfoundry.net/2019-11-21-google-stadia-review-4k-image-quality-analysis-latency-tests-is-this-really-the-future-of-gaming)
+Via [Digital Foundry](https://www.digitalfoundry.net/2019-11-21-google-stadia-review-4k-image-quality-analysis-latency-tests-is-this-really-the-future-of-gaming)

@@ -69,4 +69,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Plural](https://www.plural.jor.br/colunas/caixa-zero/deputados-votam-fim-da-lei-do-software-livre-que-economizou-bilhoes/)
+Via [Plural](https://www.plural.jor.br/colunas/caixa-zero/deputados-votam-fim-da-lei-do-software-livre-que-economizou-bilhoes/)

@@ -54,7 +54,7 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [FOSSbytes](https://fossbytes.com/linux-to-get-microsoft-defender-atp-antivirus-2020/)
+Via [FOSSbytes](https://fossbytes.com/linux-to-get-microsoft-defender-atp-antivirus-2020/)
 
 
 

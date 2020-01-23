@@ -114,4 +114,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [CIO](https://cio.com.br/tres-modos-de-impedir-que-o-provedor-de-acesso-monitore-a-sua-navegacao/)
+Via [CIO](https://cio.com.br/tres-modos-de-impedir-que-o-provedor-de-acesso-monitore-a-sua-navegacao/)

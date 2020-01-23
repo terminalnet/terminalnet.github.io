@@ -102,4 +102,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Canaltech](https://canaltech.com.br/smartphone/confira-dicas-para-identificar-um-celular-xiaomi-falso/)
+Via [Canaltech](https://canaltech.com.br/smartphone/confira-dicas-para-identificar-um-celular-xiaomi-falso/)

@@ -81,4 +81,4 @@ Com esse curso, o usuário vai aprender a criar aplicativos usando estruturas de
 
 Esses são apenas alguns dos cursos oferecidos pela Microsoft. Ao todo, são mais de 900 cursos em diversas áreas de tecnologia para que os usuários possam escolher quais se adequam mais às suas áreas de atuação. Para ver a lista completa dos módulos oferecidos, os interessados podem [**visitar o site oficial dos cursos**](https://docs.microsoft.com/pt-br/learn/browse/).
 
-Via: *Microsoft*
+Via *Microsoft*

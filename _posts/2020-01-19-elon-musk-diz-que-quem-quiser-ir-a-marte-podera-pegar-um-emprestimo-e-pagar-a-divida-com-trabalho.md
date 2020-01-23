@@ -73,4 +73,4 @@ Apenas sente-se, relaxe e lembre-se: uma nova vida espera por você nas colônia
 
 The post Elon Musk diz que quem quiser ir à Marte poderá pegar um empréstimo e pagar a dívida com trabalho.
 
-Via: Gizmodo
+Via Gizmodo

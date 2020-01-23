@@ -29,5 +29,5 @@ Outra dúvida que surge é esta: essa previsão de comandos funcionará para tod
 
 Em todo caso, teremos vislumbres se isso tudo vai dar certo ou se vai ficar apenas na promessa quando o Stadia for lançado em novembro. A partir desse mês, em até dois anos a tal "latência negativa" deve entrar em ação. Estaremos de olho!
 
-Via: [PC Games N](https://www.pcgamesn.com/stadia/negative-latency-prediction)
+Via [PC Games N](https://www.pcgamesn.com/stadia/negative-latency-prediction)
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

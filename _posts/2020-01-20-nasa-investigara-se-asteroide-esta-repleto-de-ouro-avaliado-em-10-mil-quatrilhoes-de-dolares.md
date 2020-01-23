@@ -71,4 +71,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Engenharia É](https://engenhariae.com.br/editorial/ciencia/nasa-investigara-se-asteroide-esta-repleto-de-ouro-avaliado-em-10-mil-quatrilhoes-de-dolares)
+Via [Engenharia É](https://engenhariae.com.br/editorial/ciencia/nasa-investigara-se-asteroide-esta-repleto-de-ouro-avaliado-em-10-mil-quatrilhoes-de-dolares)

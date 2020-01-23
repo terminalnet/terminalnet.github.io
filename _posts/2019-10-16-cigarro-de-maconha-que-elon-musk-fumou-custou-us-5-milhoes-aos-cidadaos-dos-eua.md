@@ -55,4 +55,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Politico](https://www.politico.com/news/2019/10/16/nasa-musk-weed-048099)
+Via [Politico](https://www.politico.com/news/2019/10/16/nasa-musk-weed-048099)

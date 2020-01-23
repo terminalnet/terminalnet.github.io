@@ -43,4 +43,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/video/china-vai-abandonar-o-windows-ate-2022/94134)
+Via [Olhar Digital](https://olhardigital.com.br/video/china-vai-abandonar-o-windows-ate-2022/94134)

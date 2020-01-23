@@ -100,4 +100,4 @@ Simona Musilová alerta que “os usuários devem ter cuidado ao visitar o site 
 
 Caso o usuário acredite que o seu roteador esteja infectado, ele deve fazer o login na interface administrativa web do próprio dispositivo, onde poderá alterar as credenciais de login.
 
-Via: [Avast](https://decoded.avast.io/simonamusilova/ghostdns-exploit-kit-strikes-back/)
+Via [Avast](https://decoded.avast.io/simonamusilova/ghostdns-exploit-kit-strikes-back/)

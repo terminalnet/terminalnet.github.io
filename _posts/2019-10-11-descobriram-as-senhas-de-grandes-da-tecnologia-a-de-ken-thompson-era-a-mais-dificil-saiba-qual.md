@@ -57,6 +57,6 @@ Brian W. Kernighan, co-autor do primeiro livro sobre programação C com Dennis 
 
 Você pode ver as senhas [aqui](https://inbox.vuxu.org/tuhs/87bluxpqy0.fsf@vuxu.org/).
 
-Via: [FossBytes](https://fossbytes.com/unix-co-founder-ken-thompsons-bsd-password-cracked/)   
+Via [FossBytes](https://fossbytes.com/unix-co-founder-ken-thompsons-bsd-password-cracked/)   
 
 

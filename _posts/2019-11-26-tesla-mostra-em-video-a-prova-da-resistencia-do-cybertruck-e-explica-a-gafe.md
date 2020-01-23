@@ -73,4 +73,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Business Insider](https://www.businessinsider.com/elon-musk-shares-video-cybertruck-armored-glass-working-2019-11)
+Via [Business Insider](https://www.businessinsider.com/elon-musk-shares-video-cybertruck-armored-glass-working-2019-11)

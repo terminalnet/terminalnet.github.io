@@ -54,4 +54,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [CSIRO](https://www.csiro.au/en/News/News-releases/2019/Genetic-clock-predicts-lifespan-in-animals)
+Via [CSIRO](https://www.csiro.au/en/News/News-releases/2019/Genetic-clock-predicts-lifespan-in-animals)

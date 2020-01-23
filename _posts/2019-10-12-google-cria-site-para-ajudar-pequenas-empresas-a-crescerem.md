@@ -29,6 +29,6 @@ Em cada recomendação, ela aponta um serviço que pode ajudar a empresa. Isso v
 
 O site conta ainda com informações sobre treinamentos presenciais e à distância, além de dicas sobre o Primer, um aplicativo que oferece vídeos gratuitos com dicas sobre marketing digital e negócios.
 
-Via: [Tecnoblog](https://tecnoblog.net/310650/google-cria-site-pequenas-medias-empresas/)
+Via [Tecnoblog](https://tecnoblog.net/310650/google-cria-site-pequenas-medias-empresas/)
   
 

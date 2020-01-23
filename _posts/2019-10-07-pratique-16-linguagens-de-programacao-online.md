@@ -31,5 +31,5 @@ Acesse o site:
 
 # [MyCompiler](https://www.mycompiler.io/)
 
-Via: [CBSI](https://www.cbsi.net.br/2019/10/como-praticar-com-16-linguagens-de.html)
+Via [CBSI](https://www.cbsi.net.br/2019/10/como-praticar-com-16-linguagens-de.html)
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

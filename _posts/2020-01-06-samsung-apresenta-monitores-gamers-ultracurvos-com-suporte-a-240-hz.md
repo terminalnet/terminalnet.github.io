@@ -63,4 +63,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/noticia/samsung-apresenta-monitores-gamers-ultracurvos-com-suporte-a-240-hz/94949)
+Via [Olhar Digital](https://olhardigital.com.br/noticia/samsung-apresenta-monitores-gamers-ultracurvos-com-suporte-a-240-hz/94949)

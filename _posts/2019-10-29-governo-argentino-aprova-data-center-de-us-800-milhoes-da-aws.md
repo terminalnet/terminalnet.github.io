@@ -27,4 +27,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [computerworld](https://computerworld.com.br/2019/10/28/governo-argentino-aprova-data-center-de-us-800-milhoes-da-aws/)
+Via [computerworld](https://computerworld.com.br/2019/10/28/governo-argentino-aprova-data-center-de-us-800-milhoes-da-aws/)

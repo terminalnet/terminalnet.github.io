@@ -54,4 +54,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Tilt](https://www.uol.com.br/tilt/noticias/reuters/2019/10/18/coleta-de-dados-permite-que-gigantes-da-tecnologia-prejudiquem-concorrentes-diz-ftc.htm)
+Via [Tilt](https://www.uol.com.br/tilt/noticias/reuters/2019/10/18/coleta-de-dados-permite-que-gigantes-da-tecnologia-prejudiquem-concorrentes-diz-ftc.htm)

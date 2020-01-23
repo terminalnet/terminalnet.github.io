@@ -54,4 +54,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Le Parisien](http://www.leparisien.fr/paris-75/paris-il-seme-la-panique-au-grand-rex-pendant-la-projection-du-film-joker-28-10-2019-8181642.php)
+Via [Le Parisien](http://www.leparisien.fr/paris-75/paris-il-seme-la-panique-au-grand-rex-pendant-la-projection-du-film-joker-28-10-2019-8181642.php)

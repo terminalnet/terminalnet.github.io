@@ -54,7 +54,7 @@ data-ad-slot="9652691879"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [The Next Web](https://thenextweb.com/facebook/2019/10/15/facebook-is-reportedly-locking-users-out-for-reporting-fake-accounts/)
+Via [The Next Web](https://thenextweb.com/facebook/2019/10/15/facebook-is-reportedly-locking-users-out-for-reporting-fake-accounts/)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->

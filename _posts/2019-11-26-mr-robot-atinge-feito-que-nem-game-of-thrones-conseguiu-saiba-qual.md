@@ -73,4 +73,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [UOL](https://noticiasdatv.uol.com.br/noticia/series/mr-robot-atinge-feito-que-nem-game-thrones-conseguiu-saiba-qual-31111)
+Via [UOL](https://noticiasdatv.uol.com.br/noticia/series/mr-robot-atinge-feito-que-nem-game-thrones-conseguiu-saiba-qual-31111)

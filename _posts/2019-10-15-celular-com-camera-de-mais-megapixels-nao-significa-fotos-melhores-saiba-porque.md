@@ -98,7 +98,7 @@ data-ad-slot="9652691879"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Terra](https://www.terra.com.br/noticias/tecnologia/por-que-celular-com-camera-de-mais-megapixels-nao-significa-fotos-melhores,e38688152fa9d7fa72cd226fa5616878gj4bshxj.html)
+Via [Terra](https://www.terra.com.br/noticias/tecnologia/por-que-celular-com-camera-de-mais-megapixels-nao-significa-fotos-melhores,e38688152fa9d7fa72cd226fa5616878gj4bshxj.html)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->

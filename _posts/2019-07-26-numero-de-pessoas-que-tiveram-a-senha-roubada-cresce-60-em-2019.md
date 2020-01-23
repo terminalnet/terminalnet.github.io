@@ -24,5 +24,5 @@ Nos últimos seis meses, a Kaspersky identificou um aumento nas atividades desse
 
 Para evitar se tornar vítima desses ataques, o mais recomendável é não compartilhar suas senhas com ninguém através de e-mail ou em mensagens de redes sociais, manter sempre todos os seus programas atualizados (já que as atualizações sempre fecham possíveis brechas que poderiam ser usadas por um vírus para infectar o computador) e usar sempre um gerenciador de senhas confiável para manter suas senhas salvas na máquina sem o perigo de que elas sejam roubadas por algum vírus.
 
-Via: *https://canaltech.com.br/seguranca/numero-de-pessoas-que-tiveram-a-senha-roubada-cresce-60-em-2019-144993/*
+Via *https://canaltech.com.br/seguranca/numero-de-pessoas-que-tiveram-a-senha-roubada-cresce-60-em-2019-144993/*
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

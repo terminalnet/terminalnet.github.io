@@ -39,6 +39,6 @@ data-ad-slot="5351066970"></ins>
 
 Vale ressaltar, porém, que os avanços da Microsoft no mercado móvel com o Android não significam o fim dos investimentos para levar o Windows a mais aparelhos. No mesmo evento em que apresentou seu celular de duas telas com o SO da Google, a empresa também revelou que está trabalhando no Surface Neo, um dispositivo dobrável que vai rodar o novo Windows 10X.
 
-Via: [Phone Area](https://www.phonearena.com/news/Microsoft-Android-best-mobile-OS_id119778)
+Via [Phone Area](https://www.phonearena.com/news/Microsoft-Android-best-mobile-OS_id119778)
 
 

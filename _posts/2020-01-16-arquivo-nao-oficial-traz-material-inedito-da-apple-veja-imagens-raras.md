@@ -94,4 +94,4 @@ Foi interessante descobrir como a Apple decidiu criar uma versão moderna de um 
 
 Estes foram apenas alguns destaques do que eu vi no Apple Archive. Sempre existe a possibilidade de os advogados da Apple não gostarem do projeto, então recomendo que você [acesse o site](https://www.applearchive.org/) e confira a infinidade de conteúdo disponível enquanto ele ainda estiver no ar (espero que por muito tempo).
 
-Via: UOL
+Via UOL

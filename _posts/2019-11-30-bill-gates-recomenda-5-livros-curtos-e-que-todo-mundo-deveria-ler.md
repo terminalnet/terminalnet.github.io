@@ -67,4 +67,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [InfoMoney](https://www.infomoney.com.br/carreira/bill-gates-recomenda-5-livros-curtos-e-que-todo-mundo-deveria-ler/)
+Via [InfoMoney](https://www.infomoney.com.br/carreira/bill-gates-recomenda-5-livros-curtos-e-que-todo-mundo-deveria-ler/)

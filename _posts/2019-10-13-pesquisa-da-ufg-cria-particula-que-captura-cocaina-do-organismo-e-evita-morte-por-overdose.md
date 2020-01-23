@@ -32,4 +32,4 @@ Ela explicou ainda que a partícula ajudaria nas situações de resgates emergen
 “Podem ser feitas partículas para evitar outras intoxicações, não só por drogas, mas também por medicamento, seja em casos voluntários, como suicídio, ou acidentes, como crianças que tomaram muitos remédios sem saber”, disse.
 Agora, as pesquisadoras tentam despertar o interesse de outros setores para o trabalho. “A partir de agora, é preciso uma série de regulações e registros para novos testes, inclusive em seres humanos, que só as indústrias farmacêuticas podem fazer”, completou.
 
-Via: [G1](https://g1.globo.com/go/goias/noticia/2019/05/11/pesquisa-da-ufg-cria-particula-que-captura-cocaina-do-organismo-e-evita-morte-por-overdose.ghtml)
+Via [G1](https://g1.globo.com/go/goias/noticia/2019/05/11/pesquisa-da-ufg-cria-particula-que-captura-cocaina-do-organismo-e-evita-morte-por-overdose.ghtml)

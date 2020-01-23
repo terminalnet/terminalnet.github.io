@@ -108,4 +108,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [CIO](https://cio.com.br/esta-vendo-esse-mouse-custou-us-15-e-pode-se-infiltrar-na-sua-rede/)
+Via [CIO](https://cio.com.br/esta-vendo-esse-mouse-custou-us-15-e-pode-se-infiltrar-na-sua-rede/)

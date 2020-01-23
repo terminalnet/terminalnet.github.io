@@ -64,4 +64,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Tecmundo](https://www.tecmundo.com.br/software/147226-flutter-criar-apps-nativos-android-ios.htm)
+Via [Tecmundo](https://www.tecmundo.com.br/software/147226-flutter-criar-apps-nativos-android-ios.htm)

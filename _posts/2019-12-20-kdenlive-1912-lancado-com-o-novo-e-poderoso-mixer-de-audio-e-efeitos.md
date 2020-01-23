@@ -93,4 +93,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [OMG Ubuntu](https://www.omgubuntu.co.uk/2019/12/kdenlive-19-2-update)
+Via [OMG Ubuntu](https://www.omgubuntu.co.uk/2019/12/kdenlive-19-2-update)

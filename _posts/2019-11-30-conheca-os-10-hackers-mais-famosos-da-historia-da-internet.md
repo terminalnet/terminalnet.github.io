@@ -159,4 +159,4 @@ data-full-width-responsive="true"></ins>
 
 ![277427.524495-Kevin-Mitnick.png](/assets/images/277427.524495-Kevin-Mitnick.png)
 
-Via: [Canaltech](https://canaltech.com.br/hacker/conheca-os-10-hackers-mais-famosos-da-historia-da-internet-155459/)
+Via [Canaltech](https://canaltech.com.br/hacker/conheca-os-10-hackers-mais-famosos-da-historia-da-internet-155459/)

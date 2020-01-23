@@ -27,6 +27,6 @@ O mais engraçado é que tudo parece girar em torno do Google+, fracassada rede 
 
 Alguns internautas criaram um site que reuniu todos os produtos descontinuados pela Google em seus 21 anos de existência. São, ao todo, 163 serviços. Para conferir a lista, clique [aqui](https://gcemetery.co/).
 
-Via: [Android Police](https://www.androidpolice.com/2019/10/04/google-seattle-halloween-cemetery/)
+Via [Android Police](https://www.androidpolice.com/2019/10/04/google-seattle-halloween-cemetery/)
 
 

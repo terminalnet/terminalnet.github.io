@@ -69,4 +69,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Computer World](https://computerworld.com.br/2020/01/16/microsoft-e-nsa-confirmam-falha-grave-no-windows-10-o-que-voce-deve-fazer/)
+Via [Computer World](https://computerworld.com.br/2020/01/16/microsoft-e-nsa-confirmam-falha-grave-no-windows-10-o-que-voce-deve-fazer/)

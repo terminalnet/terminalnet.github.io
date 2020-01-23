@@ -82,5 +82,5 @@ Heck, você pode até argumentar, graças ao Windows Subsystem para Linux 2.0, u
 
 Nenhum desses líderes do Linux, ou qualquer outra pessoa com quem conversei na Plumbers, estava nem um pouco preocupado com a Microsoft assumir o Linux. É o contrário. O Linux agora é a força motriz de quase todas as empresas de tecnologia - e isso inclui a Microsoft.
 
-Via: [ZDNET](https://www.zdnet.com/article/linus-torvalds-isnt-worried-about-microsoft-taking-over-linux/)
+Via [ZDNET](https://www.zdnet.com/article/linus-torvalds-isnt-worried-about-microsoft-taking-over-linux/)
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

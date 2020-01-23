@@ -125,4 +125,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [TechTudo](https://www.techtudo.com.br/noticias/2017/11/escola-do-trabalhador-governo-oferece-cursos-gratis-de-excel-ingles-e-espanhol.ghtml)
+Via [TechTudo](https://www.techtudo.com.br/noticias/2017/11/escola-do-trabalhador-governo-oferece-cursos-gratis-de-excel-ingles-e-espanhol.ghtml)

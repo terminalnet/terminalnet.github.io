@@ -105,6 +105,6 @@ O asteroide famoso foi descoberto pelo Lincoln Observatory, em 20 de novembro de
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Via: [Hypeness](https://www.hypeness.com.br/2019/05/brasileira-vence-concurso-mundial-de-jovens-cientistas-e-vai-virar-nome-de-asteroide/)
+Via [Hypeness](https://www.hypeness.com.br/2019/05/brasileira-vence-concurso-mundial-de-jovens-cientistas-e-vai-virar-nome-de-asteroide/)
 
 

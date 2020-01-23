@@ -97,4 +97,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Forbes](https://www.forbes.com/sites/bernardmarr/2019/04/29/the-10-vital-skills-you-will-need-for-the-future-of-work/#174709403f5b)
+Via [Forbes](https://www.forbes.com/sites/bernardmarr/2019/04/29/the-10-vital-skills-you-will-need-for-the-future-of-work/#174709403f5b)

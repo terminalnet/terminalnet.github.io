@@ -44,4 +44,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Diário do Nordeste](http://blogs.diariodonordeste.com.br/narede/ciencia/pesquisador-brasileiro-lidera-projeto-para-capacitar-pessoas-com-mobilidade-reduzida-e-de-diagnostico-de-autismo/13130)/Imagens: Divulgação .
+Via [Diário do Nordeste](http://blogs.diariodonordeste.com.br/narede/ciencia/pesquisador-brasileiro-lidera-projeto-para-capacitar-pessoas-com-mobilidade-reduzida-e-de-diagnostico-de-autismo/13130)/Imagens: Divulgação .

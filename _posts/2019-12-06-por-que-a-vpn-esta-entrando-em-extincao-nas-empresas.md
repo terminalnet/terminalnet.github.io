@@ -83,4 +83,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [CW](https://computerworld.com.br/2019/12/06/por-que-a-vpn-esta-entrando-em-extincao-nas-empresas/)
+Via [CW](https://computerworld.com.br/2019/12/06/por-que-a-vpn-esta-entrando-em-extincao-nas-empresas/)

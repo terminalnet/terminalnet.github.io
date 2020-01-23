@@ -59,7 +59,7 @@ Laureado com o Nobel de Economia em 1994, John Nash contribuiu com pesquisas em 
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>    
 
-Via: [Ciencianautas](https://ciencianautas.com/4-filmes-incriveis-sobre-a-vida-de-grandes-cientistas/)
+Via [Ciencianautas](https://ciencianautas.com/4-filmes-incriveis-sobre-a-vida-de-grandes-cientistas/)
 
 
 

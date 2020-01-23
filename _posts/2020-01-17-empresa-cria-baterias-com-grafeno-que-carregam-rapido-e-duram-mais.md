@@ -69,4 +69,4 @@ data-full-width-responsive="true"></ins>
 
 "Começaremos a ver baterias de grafeno em dispositivos de grandes marcas dentro de um ano. Não em todos os aparelhos, mas começando nos topo de linha e se popularizando gradativamente”, diz o executivo.
 
-Via: [Digital Trends](https://www.digitaltrends.com/features/real-graphene-battery-interview-samuel-gong-ces-2020/)
+Via [Digital Trends](https://www.digitaltrends.com/features/real-graphene-battery-interview-samuel-gong-ces-2020/)

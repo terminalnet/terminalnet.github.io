@@ -78,4 +78,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [MeioBit](https://meiobit.com/413906/australia-propoe-reconhecimento-facial-para-acesso-a-sites-adultos/)
+Via [MeioBit](https://meiobit.com/413906/australia-propoe-reconhecimento-facial-para-acesso-a-sites-adultos/)

@@ -54,4 +54,4 @@ data-ad-slot="8549252987"></ins>
 
 
 
-Via: [FaywerWayer](https://www.fayerwayer.com/2019/12/amazon-casting-orcos-lotr/) e [Olhar Digital](https://olhardigital.com.br/cinema-e-streaming/noticia/amazon-procura-pessoas-feias-para-producao-de-o-senhor-dos-aneis/94589)
+Via [FaywerWayer](https://www.fayerwayer.com/2019/12/amazon-casting-orcos-lotr/) e [Olhar Digital](https://olhardigital.com.br/cinema-e-streaming/noticia/amazon-procura-pessoas-feias-para-producao-de-o-senhor-dos-aneis/94589)

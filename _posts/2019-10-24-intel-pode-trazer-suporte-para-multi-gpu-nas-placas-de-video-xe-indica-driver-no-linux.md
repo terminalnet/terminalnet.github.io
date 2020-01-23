@@ -64,4 +64,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Fudzilla](https://www.fudzilla.com/news/pc-hardware/49638-intel-serious-about-multi-gpu)
+Via [Fudzilla](https://www.fudzilla.com/news/pc-hardware/49638-intel-serious-about-multi-gpu)

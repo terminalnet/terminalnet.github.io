@@ -50,4 +50,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Gizmodo](https://gizmodo.uol.com.br/certidao-nascimento-internet-50-anos/)
+Via [Gizmodo](https://gizmodo.uol.com.br/certidao-nascimento-internet-50-anos/)

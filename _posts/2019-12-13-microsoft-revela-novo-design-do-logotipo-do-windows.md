@@ -69,4 +69,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: *The Verge*
+Via *The Verge*

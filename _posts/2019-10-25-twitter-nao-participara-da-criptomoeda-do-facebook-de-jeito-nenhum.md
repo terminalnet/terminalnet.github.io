@@ -54,4 +54,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/noticia/twitter-nao-participara-da-criptomoeda-do-facebook-de-jeito-nenhum/92065)
+Via [Olhar Digital](https://olhardigital.com.br/noticia/twitter-nao-participara-da-criptomoeda-do-facebook-de-jeito-nenhum/92065)

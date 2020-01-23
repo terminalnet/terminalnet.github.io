@@ -69,5 +69,5 @@ data-full-width-responsive="true"></ins>
 
 Por esse motivo, a Microsoft recomenda cautela na reutilização de senhas, já que, com esses dados em mãos, cibercriminosos podem tentar obter acesso a outras contas como Google, Facebook e Twitter.
 
-Via: [ZDNet](https://www.zdnet.com/article/44-million-microsoft-users-reused-passwords-in-the-first-three-months-of-2019/)
+Via [ZDNet](https://www.zdnet.com/article/44-million-microsoft-users-reused-passwords-in-the-first-three-months-of-2019/)
 

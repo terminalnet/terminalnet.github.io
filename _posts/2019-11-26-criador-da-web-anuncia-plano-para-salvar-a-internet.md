@@ -50,4 +50,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [CNBC](https://www.cnbc.com/2019/11/25/tim-berners-lee-launches-contract-for-the-web-to-fix-the-internet.html)
+Via [CNBC](https://www.cnbc.com/2019/11/25/tim-berners-lee-launches-contract-for-the-web-to-fix-the-internet.html)

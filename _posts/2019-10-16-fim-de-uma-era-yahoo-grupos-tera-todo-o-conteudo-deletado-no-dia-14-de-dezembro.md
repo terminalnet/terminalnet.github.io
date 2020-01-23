@@ -58,7 +58,7 @@ data-ad-slot="5351066970"></ins>
 </script>
 
 
-Via: [The Verge](https://www.theverge.com/2019/10/16/20917710/yahoo-groups-deleting-all-content-upload-message-boards-email-communities)
+Via [The Verge](https://www.theverge.com/2019/10/16/20917710/yahoo-groups-deleting-all-content-upload-message-boards-email-communities)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->

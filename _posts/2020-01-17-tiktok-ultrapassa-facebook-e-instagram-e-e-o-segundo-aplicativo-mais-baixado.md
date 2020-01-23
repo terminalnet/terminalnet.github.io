@@ -75,4 +75,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Terra](https://www.terra.com.br/noticias/tecnologia/tiktok-ultrapassa-facebook-e-instagram-e-e-o-segundo-aplicativo-mais-baixado,746cfaa6656ea3cb8f85a08a9984adddujhe1ifi.html)
+Via [Terra](https://www.terra.com.br/noticias/tecnologia/tiktok-ultrapassa-facebook-e-instagram-e-e-o-segundo-aplicativo-mais-baixado,746cfaa6656ea3cb8f85a08a9984adddujhe1ifi.html)

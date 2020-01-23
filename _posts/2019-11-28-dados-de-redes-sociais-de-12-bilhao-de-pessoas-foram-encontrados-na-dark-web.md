@@ -57,4 +57,4 @@ data-ad-slot="8549252987"></ins>
 
 
 
-Via: [ComputerWorld](https://computerworld.com.br/2019/11/27/dados-de-redes-sociais-de-12-bilhao-de-pessoas-foram-encontrados-na-dark-web/)
+Via [ComputerWorld](https://computerworld.com.br/2019/11/27/dados-de-redes-sociais-de-12-bilhao-de-pessoas-foram-encontrados-na-dark-web/)

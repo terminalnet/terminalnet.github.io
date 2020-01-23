@@ -52,4 +52,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [tt](https://www.techtudo.com.br/noticias/2019/10/death-stranding-game-de-hideo-kojima-ganha-trailer-de-lancamento.ghtml)
+Via [tt](https://www.techtudo.com.br/noticias/2019/10/death-stranding-game-de-hideo-kojima-ganha-trailer-de-lancamento.ghtml)

@@ -35,5 +35,5 @@ A Kaspersky nota que ataques com ransomware têm mudado de cara nos últimos ano
 
 A Kaspersky não revelou quais países da América Latina, América do Norte e Europa teriam sido atingidos. No total, 17,6% dos ataques foram detectados em Taiwan, 9,8% em Hong Kong e 8,8% na Coreia do Sul.
 
-Via: *https://olhardigital.com.br/fique_seguro/noticia/ransomware-que-sequestra-pcs-windows-e-detectado-na-america-latina/87910*
+Via *https://olhardigital.com.br/fique_seguro/noticia/ransomware-que-sequestra-pcs-windows-e-detectado-na-america-latina/87910*
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

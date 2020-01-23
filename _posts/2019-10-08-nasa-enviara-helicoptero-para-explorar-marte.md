@@ -31,6 +31,6 @@ A NASA diz que um de seus objetivos é fazer com que esses pequenos helicóptero
 
 Em relação ao seu funcionamento, a agência espacial aponta que ele subirá com a ajuda de pequenos foguetes e contará com a proteção necessária para que a poeira e as pedras marcianas não danifiquem seu mecanismo durante o voo.
 
-Via: [Europa Press](https://www.europapress.es/ciencia/misiones-espaciales/noticia-nasa-enviara-primera-vez-helicoptero-explorar-marte-20190830173707.html)   
+Via [Europa Press](https://www.europapress.es/ciencia/misiones-espaciales/noticia-nasa-enviara-primera-vez-helicoptero-explorar-marte-20190830173707.html)   
 
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

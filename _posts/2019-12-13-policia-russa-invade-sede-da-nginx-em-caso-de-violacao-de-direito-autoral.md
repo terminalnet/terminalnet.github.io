@@ -67,4 +67,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [ZDNet](https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/)
+Via [ZDNet](https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/)

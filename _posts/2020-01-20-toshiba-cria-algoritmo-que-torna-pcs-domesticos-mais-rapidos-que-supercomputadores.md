@@ -65,4 +65,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Tomshardware](https://www.tomshardware.com/news/toshiba-claims-new-algorithm-runs-faster-on-desktop-pcs-than-similar-algorithms-on-supercomputers)
+Via [Tomshardware](https://www.tomshardware.com/news/toshiba-claims-new-algorithm-runs-faster-on-desktop-pcs-than-similar-algorithms-on-supercomputers)

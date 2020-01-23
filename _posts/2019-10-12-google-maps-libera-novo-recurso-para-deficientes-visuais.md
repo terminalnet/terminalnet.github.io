@@ -25,6 +25,6 @@ O recurso já está disponível para usuários iOS e Android, porém apenas em i
 
 A orientação aprimorada pode ser ativada no menu de configurações do Google Maps. A gigante de buscas afirma que o suporte a mais idiomas e países deve chegar em breve.
 
-Via: [Olhar Digital](https://olhardigital.com.br/video/google-maps-libera-novo-recurso-para-deficientes-visuais/91508)
+Via [Olhar Digital](https://olhardigital.com.br/video/google-maps-libera-novo-recurso-para-deficientes-visuais/91508)
 
 

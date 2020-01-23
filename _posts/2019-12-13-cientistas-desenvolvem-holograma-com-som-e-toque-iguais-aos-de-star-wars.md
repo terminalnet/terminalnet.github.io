@@ -67,4 +67,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [ScienceMag](https://canaltech.com.br/ciencia/cientistas-desenvolvem-holograma-com-som-e-toque-iguais-aos-de-star-wars-157757/)
+Via [ScienceMag](https://canaltech.com.br/ciencia/cientistas-desenvolvem-holograma-com-som-e-toque-iguais-aos-de-star-wars-157757/)

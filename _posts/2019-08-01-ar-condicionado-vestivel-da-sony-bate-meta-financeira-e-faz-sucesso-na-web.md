@@ -27,7 +27,7 @@ Para utilizá-lo, é necessário uma camisa especial, que também está inclusa 
 
 A Sony destaca que o dispositivo alivia a sensação de calor e de umidade no corpo. Não há previsão de lançamento no Brasil.
 
-Via: [First Flight](https://first-flight.sony.com/pj/reonpocket), [Gizmodo](https://gizmodo.com/sony-s-wearable-air-conditioner-should-be-ready-for-nex-1836691714) e [Digital Trends](https://www.digitaltrends.com/cool-tech/sonys-reon-pocket-is-a-smartphone-controlled-wearable-air-conditioner/)
+Via [First Flight](https://first-flight.sony.com/pj/reonpocket), [Gizmodo](https://gizmodo.com/sony-s-wearable-air-conditioner-should-be-ready-for-nex-1836691714) e [Digital Trends](https://www.digitaltrends.com/cool-tech/sonys-reon-pocket-is-a-smartphone-controlled-wearable-air-conditioner/)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->

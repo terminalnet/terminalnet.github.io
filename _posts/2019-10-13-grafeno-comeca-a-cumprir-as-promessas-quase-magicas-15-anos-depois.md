@@ -45,4 +45,4 @@ O Graphene Flagship aponta que é no médio prazo, no entanto, que os impactos m
 
 Em um futuro um pouco mais distante, daqui a uns 10 ou 15 anos, a organização espera que os saltos sejam ainda mais drásticos e sentidos no que tange à optoeletrônica, proporcionando ganhos de desempenho em magnitudes muito maiores do que vemos atualmente.
 
-Via: [Olhar Digital](https://olhardigital.com.br/noticia/apos-15-anos-grafeno-comeca-a-cumprir-as-promessas-quase-magicas/91252)
+Via [Olhar Digital](https://olhardigital.com.br/noticia/apos-15-anos-grafeno-comeca-a-cumprir-as-promessas-quase-magicas/91252)

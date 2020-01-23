@@ -31,5 +31,5 @@ O Facebook relatou que recebeu 16 milhões de informações sobre exploração i
 
 "Devemos assumir que a Apple magicamente administrou plataformas livres de exploração infantil?" Rosen perguntou. "Ou será que as empresas com criptografia de ponta a ponta não conseguem ver atividades ilícitas prejudiciais que estavam ocorrendo nessas plataformas e optam por olhar para outro lado implantando a criptografia?"
 
-Via: *https://www.terra.com.br/noticias/tecnologia/diretor-do-fbi-alerta-que-facebook-pode-se-tornar-plataforma-de-pornografia-infantil,226c06f4d52b3a6136c4b0ef616f9184j19npoby.html*
+Via *https://www.terra.com.br/noticias/tecnologia/diretor-do-fbi-alerta-que-facebook-pode-se-tornar-plataforma-de-pornografia-infantil,226c06f4d52b3a6136c4b0ef616f9184j19npoby.html*
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

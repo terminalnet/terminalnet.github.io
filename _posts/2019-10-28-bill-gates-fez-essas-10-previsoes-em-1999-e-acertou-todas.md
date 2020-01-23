@@ -127,4 +127,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [PEGN](https://revistapegn.globo.com/Tecnologia/noticia/2019/03/bill-gates-fez-essas-10-previsoes-em-1999-e-acertou-todas.html)
+Via [PEGN](https://revistapegn.globo.com/Tecnologia/noticia/2019/03/bill-gates-fez-essas-10-previsoes-em-1999-e-acertou-todas.html)

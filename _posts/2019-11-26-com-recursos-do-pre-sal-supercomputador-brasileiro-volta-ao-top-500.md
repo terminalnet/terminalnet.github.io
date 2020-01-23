@@ -83,4 +83,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Exame](https://exame.abril.com.br/tecnologia/com-recursos-do-pre-sal-supercomputador-brasileiro-volta-ao-top-500/)
+Via [Exame](https://exame.abril.com.br/tecnologia/com-recursos-do-pre-sal-supercomputador-brasileiro-volta-ao-top-500/)

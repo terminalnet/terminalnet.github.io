@@ -77,4 +77,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [FossBytes](https://fossbytes.com/edward-snowden-facebook-equally-dangerous-as-nsa/)
+Via [FossBytes](https://fossbytes.com/edward-snowden-facebook-equally-dangerous-as-nsa/)

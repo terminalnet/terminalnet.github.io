@@ -60,4 +60,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [CCNET](https://www.cnet.com/news/obama-says-at-dreamforce-technology-is-splintering-society/)
+Via [CCNET](https://www.cnet.com/news/obama-says-at-dreamforce-technology-is-splintering-society/)

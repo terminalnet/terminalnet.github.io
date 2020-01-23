@@ -64,6 +64,6 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [New Cientist](https://www.newscientist.com/article/2218685-nasa-engineers-helical-engine-may-violate-the-laws-of-physics/)
+Via [New Cientist](https://www.newscientist.com/article/2218685-nasa-engineers-helical-engine-may-violate-the-laws-of-physics/)
 
 

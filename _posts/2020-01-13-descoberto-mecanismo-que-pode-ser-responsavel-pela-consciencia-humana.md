@@ -66,4 +66,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: The Next Web
+Via The Next Web

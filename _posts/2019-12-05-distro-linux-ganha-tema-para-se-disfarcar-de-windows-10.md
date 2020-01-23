@@ -70,4 +70,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [TechRadar](https://www.techradar.com/news/a-linux-distro-can-now-go-undercover-and-pretend-to-be-windows-10)
+Via [TechRadar](https://www.techradar.com/news/a-linux-distro-can-now-go-undercover-and-pretend-to-be-windows-10)

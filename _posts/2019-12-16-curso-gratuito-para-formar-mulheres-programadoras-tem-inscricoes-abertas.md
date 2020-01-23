@@ -57,4 +57,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Estadão](https://economia.estadao.com.br/blogs/radar-do-emprego/curso-gratuito-para-formar-mulheres-programadoras-tem-inscricoes-abertas/)
+Via [Estadão](https://economia.estadao.com.br/blogs/radar-do-emprego/curso-gratuito-para-formar-mulheres-programadoras-tem-inscricoes-abertas/)

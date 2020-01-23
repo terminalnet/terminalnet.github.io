@@ -71,4 +71,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Caviar](https://caviar.global/caviar-iphone-11/discovery/)
+Via [Caviar](https://caviar.global/caviar-iphone-11/discovery/)

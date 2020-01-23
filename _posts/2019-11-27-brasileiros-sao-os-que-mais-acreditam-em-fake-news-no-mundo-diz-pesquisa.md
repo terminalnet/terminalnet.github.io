@@ -56,4 +56,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Agência Câmara](https://www.camara.leg.br/noticias/618014-para-especialistas-mulheres-sao-as-principais-vitimas-na-divulgacao-de-informacoes-falsas-na-internet/)
+Via [Agência Câmara](https://www.camara.leg.br/noticias/618014-para-especialistas-mulheres-sao-as-principais-vitimas-na-divulgacao-de-informacoes-falsas-na-internet/)

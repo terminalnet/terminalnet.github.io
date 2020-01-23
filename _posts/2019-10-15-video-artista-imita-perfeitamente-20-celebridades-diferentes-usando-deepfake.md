@@ -90,4 +90,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Cnet](https://www.cnet.com/news/this-deepfake-shows-an-impressionist-take-on-20-celebrities-convincingly/)
+Via [Cnet](https://www.cnet.com/news/this-deepfake-shows-an-impressionist-take-on-20-celebrities-convincingly/)

@@ -27,6 +27,6 @@ Shota Nakama é um dos profissionais mais respeitados da produção musical para
 
 A Brasil Game Show teve sua primeira edição em 2009 e, neste ano, a feira acontece entre os dias 10 e 13 de outubro, em São Paulo. Pelo evento, devem passar nomes importantes da indústria de games , como o ator Ned Luke e o produtor Yoshinori Ono . Além dos convidados especiais, a BGS conta com competições, palestras e apresentações de cosplays.
 
-Via: [IG](https://tecnologia.ig.com.br/2019-10-09/shota-nakama-artista-que-virou-meme-vem-ao-brasil-tocar-musica-de-game.html)
+Via [IG](https://tecnologia.ig.com.br/2019-10-09/shota-nakama-artista-que-virou-meme-vem-ao-brasil-tocar-musica-de-game.html)
 
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

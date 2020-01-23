@@ -49,4 +49,4 @@ data-ad-slot="5351066970"></ins>
 </script>
 
 
-Via: [Abril](https://exame.abril.com.br/tecnologia/ameaca-a-netflix-the-pirate-bay-comeca-a-testar-servico-de-streaming/)
+Via [Abril](https://exame.abril.com.br/tecnologia/ameaca-a-netflix-the-pirate-bay-comeca-a-testar-servico-de-streaming/)

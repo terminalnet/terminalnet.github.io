@@ -59,6 +59,6 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [G1](https://g1.globo.com/mg/triangulo-mineiro/noticia/2019/10/13/pesquisador-da-ufu-explica-tecnologia-que-aumenta-precisao-em-diagnosticos-de-cancer-de-prostata.ghtml)
+Via [G1](https://g1.globo.com/mg/triangulo-mineiro/noticia/2019/10/13/pesquisador-da-ufu-explica-tecnologia-que-aumenta-precisao-em-diagnosticos-de-cancer-de-prostata.ghtml)
 
 

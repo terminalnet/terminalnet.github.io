@@ -63,5 +63,5 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Fossbytes](https://fossbytes.com/wikipedia-co-founder-launches-wtsocial-facebook-twitter-rival/)
+Via [Fossbytes](https://fossbytes.com/wikipedia-co-founder-launches-wtsocial-facebook-twitter-rival/)
 

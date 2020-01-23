@@ -96,4 +96,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/dicas_e_tutoriais/noticia/como-recuperar-mensagens-apagadas-no-whatsapp-com-o-wamr/92164)
+Via [Olhar Digital](https://olhardigital.com.br/dicas_e_tutoriais/noticia/como-recuperar-mensagens-apagadas-no-whatsapp-com-o-wamr/92164)

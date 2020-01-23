@@ -17,7 +17,7 @@ Os três melhores projetos serão selecionados como finalistas para participar d
 
 No ano passado, foram premiados com medalha de ouro projetos de aplicativos com os temas: Cadê meu Remédio, Lupa na Toga, Não nasci para ser a outra, Brasirama, Focaqui, Câmara das Deputadas e Me diz quem tu és.
 
-Via: [Agência Brasil](http://agenciabrasil.ebc.com.br/geral/noticia/2019-10/maratona-hacker-busca-solucoes-tecnologicas-para-o-combate-corrupcao)  
+Via [Agência Brasil](http://agenciabrasil.ebc.com.br/geral/noticia/2019-10/maratona-hacker-busca-solucoes-tecnologicas-para-o-combate-corrupcao)  
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->

@@ -118,4 +118,4 @@ Versão paga **15.1**:
 Todos os usuários do Zorin OS 15 podem atualizar para o Zorin OS 15.1 instalando as atualizações mais recentes do Atualizador de Software.
 
 
-Via: [Blog Zorin](https://zoringroup.com/blog/2019/12/12/zorin-os-15-1-is-released-a-better-way-to-work-learn-and-play/)
+Via [Blog Zorin](https://zoringroup.com/blog/2019/12/12/zorin-os-15-1-is-released-a-better-way-to-work-learn-and-play/)

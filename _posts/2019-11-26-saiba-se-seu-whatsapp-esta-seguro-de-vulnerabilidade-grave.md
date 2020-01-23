@@ -56,4 +56,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Mashable](https://in.mashable.com/tech/8799/whatsapp-alert-heres-how-to-check-if-youre-safe-on-whatsapp)
+Via [Mashable](https://in.mashable.com/tech/8799/whatsapp-alert-heres-how-to-check-if-youre-safe-on-whatsapp)

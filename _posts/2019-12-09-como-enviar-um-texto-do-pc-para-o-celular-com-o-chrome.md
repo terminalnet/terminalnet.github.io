@@ -94,4 +94,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/dicas_e_tutoriais/noticia/como-enviar-um-texto-do-pc-para-o-celular-com-o-chrome/94087)
+Via [Olhar Digital](https://olhardigital.com.br/dicas_e_tutoriais/noticia/como-enviar-um-texto-do-pc-para-o-celular-com-o-chrome/94087)

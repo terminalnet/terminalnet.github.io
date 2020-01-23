@@ -118,4 +118,4 @@ data-ad-slot="5351066970"></ins>
 
 
 
-Via: [UOL](https://www.uol.com.br/tilt/noticias/redacao/2019/11/28/por-liberdade-de-expressao-entidades-pedem-que-stf-nao-mexa-no-marco-civil.htm)
+Via [UOL](https://www.uol.com.br/tilt/noticias/redacao/2019/11/28/por-liberdade-de-expressao-entidades-pedem-que-stf-nao-mexa-no-marco-civil.htm)

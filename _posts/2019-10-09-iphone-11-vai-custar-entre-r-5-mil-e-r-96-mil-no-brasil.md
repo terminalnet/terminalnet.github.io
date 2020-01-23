@@ -45,5 +45,5 @@ Mas há duas grandes evoluções nos novos iPhones. A principal delas é o proce
 
 As duas áreas são uns dos poucos campos em que a Apple pode inovar sozinha no smartphone, sem depender de uma cadeia de fornecedores - hoje, as telas do iPhone são feitas pela Samsung; já o sensor de imagem é da Sony. "A empresa busca se destacar onde tem o domínio da tecnologia dentro de casa", diz o professor da PUC-RS. "O que se viu não foi nada revolucionário, mas mostra evolução."
 
-Via: [Terra](https://www.terra.com.br/noticias/tecnologia/iphone-11-vai-custar-entre-r-5-mil-e-r-96-mil-no-brasil,e47e3b7451e1f5d7f293bca936eacf2bo9lmawjy.html)
+Via [Terra](https://www.terra.com.br/noticias/tecnologia/iphone-11-vai-custar-entre-r-5-mil-e-r-96-mil-no-brasil,e47e3b7451e1f5d7f293bca936eacf2bo9lmawjy.html)
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

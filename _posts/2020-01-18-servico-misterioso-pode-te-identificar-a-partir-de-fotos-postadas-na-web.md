@@ -80,4 +80,4 @@ O empresário Richard Schwartz, de 61 anos, é o cofundador da empresa ao lado d
 
 Até hoje, a empresa levantou US$ 7 milhões (R$ 29 milhões) de investidores.
 
-Via: *UOL*
+Via *UOL*

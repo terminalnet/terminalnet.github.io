@@ -31,7 +31,7 @@ O Youtube enfrenta grandes polêmicas em relação ao conteúdo que exibe para c
 
 Dito isso, a ideia de uma estrela infantil do YouTube não é exatamente novidade hoje em dia. Em 2018, um YouTuber de 7 anos de idade com o nome de Ryan conseguiu chegar ao topo a lista da Forbes dos YouTubers mais bem pagos. Segundo a revista, ele ganhou até 11 milhões de dólares com seu canal.
 
-Via: [Ubergizmo](https://www.ubergizmo.com/2019/07/6-yo-korean-youtuber-8m-home/?utm_source=mainrss)
+Via [Ubergizmo](https://www.ubergizmo.com/2019/07/6-yo-korean-youtuber-8m-home/?utm_source=mainrss)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->

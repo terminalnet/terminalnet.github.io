@@ -67,4 +67,4 @@ data-full-width-responsive="true"></ins>
 
 Ou seja, O, se não encontrar uma saída mais inteligente, o Japão está prestes a lançar 1,7 milhão de toneladas de água contaminada no Oceano Pacífico em um futuro mais próximo do que se imagina.
 
-Via: [Hankyoreh](http://english.hani.co.kr/arti/english_edition/e_international/922022.html)
+Via [Hankyoreh](http://english.hani.co.kr/arti/english_edition/e_international/922022.html)

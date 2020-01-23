@@ -33,7 +33,7 @@ Sabia que os carros elétricos são movidos a bateria de níquel? A Vale é a ma
 
 ![Escuderia](/assets/images/usp3.jpg)
 
-Via: [Razões Para Acreditar](https://razoesparaacreditar.com/design/alunos-usp-carro-eletrico/)
+Via [Razões Para Acreditar](https://razoesparaacreditar.com/design/alunos-usp-carro-eletrico/)
 
 
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

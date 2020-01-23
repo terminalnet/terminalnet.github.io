@@ -58,4 +58,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/noticia/brasileiros-criam-oculos-com-reconhecimento-facial-de-codigo-aberto-para-deficientes/92306)
+Via [Olhar Digital](https://olhardigital.com.br/noticia/brasileiros-criam-oculos-com-reconhecimento-facial-de-codigo-aberto-para-deficientes/92306)

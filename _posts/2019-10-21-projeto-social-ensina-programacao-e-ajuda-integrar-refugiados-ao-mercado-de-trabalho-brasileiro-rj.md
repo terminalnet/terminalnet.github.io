@@ -69,6 +69,6 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Razões para Acreditar](https://razoesparaacreditar.com/tecnologia/projeto-programacao-refugiados/)
+Via [Razões para Acreditar](https://razoesparaacreditar.com/tecnologia/projeto-programacao-refugiados/)
 
 

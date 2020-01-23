@@ -44,4 +44,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Hypeness](https://www.hypeness.com.br/2019/12/tim-cook-revela-o-que-e-feito-com-os-androids-negociados-por-descontos-na-apple/)
+Via [Hypeness](https://www.hypeness.com.br/2019/12/tim-cook-revela-o-que-e-feito-com-os-androids-negociados-por-descontos-na-apple/)

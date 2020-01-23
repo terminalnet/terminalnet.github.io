@@ -35,4 +35,4 @@ Os engenheiros do Facebook usam o Hydra para criar protótipos de projetos de pe
 
 O Hydra pode ser baixado no GitHub.
 
-Via: [CIO](https://cio.com.br/novo-framework-do-facebook-promete-simplificar-desenvolvimento-de-python/)
+Via [CIO](https://cio.com.br/novo-framework-do-facebook-promete-simplificar-desenvolvimento-de-python/)

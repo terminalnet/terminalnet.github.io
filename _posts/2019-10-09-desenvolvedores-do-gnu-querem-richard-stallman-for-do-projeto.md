@@ -73,7 +73,7 @@ O único comentário de Stallman sobre essa situação até agora foi:
 
 A própria FSF ainda não declarou o que fará no futuro. O que parece claro agora é que Stallman ainda está dando as ordens no Projeto GNU - apesar da oposição - e ainda tem influência sobre a FSF.
 
-Via: [ZDNET](https://www.zdnet.com/article/gnu-project-developers-object-to-richard-m-stallmans-continued-leadership/)
+Via [ZDNET](https://www.zdnet.com/article/gnu-project-developers-object-to-richard-m-stallmans-continued-leadership/)
    
 
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

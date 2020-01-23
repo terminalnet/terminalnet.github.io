@@ -118,4 +118,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [UOL](https://www.uol.com.br/ecoa/ultimas-noticias/2019/10/17/jovem-cria-impressora-3d-com-sucata.htm)
+Via [UOL](https://www.uol.com.br/ecoa/ultimas-noticias/2019/10/17/jovem-cria-impressora-3d-com-sucata.htm)

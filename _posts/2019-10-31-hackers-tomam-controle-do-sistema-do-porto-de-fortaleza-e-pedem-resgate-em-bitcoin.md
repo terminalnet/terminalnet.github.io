@@ -59,4 +59,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Portal Bitcoin](https://portaldobitcoin.com/hackers-tomam-controle-do-sistema-do-porto-de-fortaleza-e-pedem-resgate-em-bitcoin/)
+Via [Portal Bitcoin](https://portaldobitcoin.com/hackers-tomam-controle-do-sistema-do-porto-de-fortaleza-e-pedem-resgate-em-bitcoin/)

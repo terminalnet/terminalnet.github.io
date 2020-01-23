@@ -80,4 +80,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [computerworld](https://computerworld.com.br/2019/10/27/guia-de-salarios-2020-quanto-devera-ganhar-um-cto-em-2020/)
+Via [computerworld](https://computerworld.com.br/2019/10/27/guia-de-salarios-2020-quanto-devera-ganhar-um-cto-em-2020/)

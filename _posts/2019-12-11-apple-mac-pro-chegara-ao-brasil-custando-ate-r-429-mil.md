@@ -105,4 +105,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [TecMundo](https://www.tecmundo.com.br/mercado/148493-apple-mac-pro-chegara-brasil-custando-r-429-mil.htm?f)
+Via [TecMundo](https://www.tecmundo.com.br/mercado/148493-apple-mac-pro-chegara-brasil-custando-r-429-mil.htm?f)

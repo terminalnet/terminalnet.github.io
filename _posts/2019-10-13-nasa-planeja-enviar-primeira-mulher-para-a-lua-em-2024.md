@@ -34,6 +34,6 @@ Para começar, a NASA reservou uma vaga da missão exclusivamente para uma astro
 
 Para que a missão seja executada em cinco anos, a agência americana solicitou ao governo um aumento de 1,6 bilhão de dólares no orçamento anual a partir de 2020. Além disso, a NASA precisa desenvolver, entre outras coisas, novos trajes lunares e um novo mecanismo capaz de pousar na Lua — um dos processos mais difíceis de ser realizados. 
 
-Via: [ScienceAlert](https://www.sciencealert.com/nasa-is-making-room-for-a-woman-astronaut-in-the-2024-moon-mission). Com créditos de tradução de [Ciencianautas](https://ciencianautas.com/nasa-planeja-enviar-primeira-mulher-para-a-lua-em-2024/).
+Via [ScienceAlert](https://www.sciencealert.com/nasa-is-making-room-for-a-woman-astronaut-in-the-2024-moon-mission). Com créditos de tradução de [Ciencianautas](https://ciencianautas.com/nasa-planeja-enviar-primeira-mulher-para-a-lua-em-2024/).
 
 

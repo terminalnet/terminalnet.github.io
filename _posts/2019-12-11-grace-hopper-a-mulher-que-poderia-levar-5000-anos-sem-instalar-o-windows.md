@@ -146,4 +146,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [BBC](https://www.bbc.com/mundo/noticias-38586597)
+Via [BBC](https://www.bbc.com/mundo/noticias-38586597)

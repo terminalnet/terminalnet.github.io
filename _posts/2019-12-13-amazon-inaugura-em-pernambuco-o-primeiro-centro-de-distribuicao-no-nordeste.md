@@ -38,4 +38,4 @@ data-ad-slot="5351066970"></ins>
 
 A Amazon não deu número exato de quantas pessoas serão contratadas para trabalhar no local, mas afirmou que criará “centenas de postos de trabalho diretos e indiretos”.  
 
-Via: [ComputerWorld](https://computerworld.com.br/2019/12/13/amazon-inaugura-em-pernambuco-o-primeiro-centro-de-distribuicao-no-nordeste/)
+Via [ComputerWorld](https://computerworld.com.br/2019/12/13/amazon-inaugura-em-pernambuco-o-primeiro-centro-de-distribuicao-no-nordeste/)

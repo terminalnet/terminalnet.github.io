@@ -56,4 +56,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Starbreeze](https://www.starbreeze.com/2019/10/payday-2-community-update-the-winds-of-change/)
+Via [Starbreeze](https://www.starbreeze.com/2019/10/payday-2-community-update-the-winds-of-change/)

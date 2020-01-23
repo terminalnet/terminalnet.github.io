@@ -72,4 +72,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Linux Adictos](https://www.linuxadictos.com/servicios-de-google-estan-bloqueando-algunos-navegadores-web-de-linux.html)
+Via [Linux Adictos](https://www.linuxadictos.com/servicios-de-google-estan-bloqueando-algunos-navegadores-web-de-linux.html)

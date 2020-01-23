@@ -79,4 +79,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Live Science](https://www.livescience.com/what-if-flat-earth.html)
+Via [Live Science](https://www.livescience.com/what-if-flat-earth.html)

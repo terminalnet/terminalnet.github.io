@@ -56,4 +56,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Microsoft](https://blogs.microsoft.com/on-the-issues/2019/10/28/cyberattacks-sporting-anti-doping/)
+Via [Microsoft](https://blogs.microsoft.com/on-the-issues/2019/10/28/cyberattacks-sporting-anti-doping/)

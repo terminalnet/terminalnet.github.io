@@ -69,4 +69,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Hypeness](https://www.hypeness.com.br/2019/12/professora-de-universidade-brasileira-e-eleita-membra-da-academia-mundial-de-ciencias/)
+Via [Hypeness](https://www.hypeness.com.br/2019/12/professora-de-universidade-brasileira-e-eleita-membra-da-academia-mundial-de-ciencias/)

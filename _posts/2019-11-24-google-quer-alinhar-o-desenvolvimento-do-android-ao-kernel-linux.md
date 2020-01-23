@@ -54,4 +54,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [The Inquirer](https://www.theinquirer.net/inquirer/news/3084097/google-wants-to-unfork-android-back-to-the-linux-kernel)
+Via [The Inquirer](https://www.theinquirer.net/inquirer/news/3084097/google-wants-to-unfork-android-back-to-the-linux-kernel)

@@ -78,4 +78,4 @@ data-full-width-responsive="true"></ins>
 </script>
 
 
-Via: [Correio Brasiliense](https://www.correiobraziliense.com.br/app/noticia/tecnologia/2019/11/25/interna_tecnologia,808921/telepatia-voluntarios-compartilham-pensamentos-via-internet.shtml)
+Via [Correio Brasiliense](https://www.correiobraziliense.com.br/app/noticia/tecnologia/2019/11/25/interna_tecnologia,808921/telepatia-voluntarios-compartilham-pensamentos-via-internet.shtml)

@@ -63,4 +63,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Drone Visual](https://www.dronevisual.com/single-post/2018/02/21/ANO-NOVO-CHINES-E-CELEBRADO-COM-SHOW-DE-LUZES-DE-300-DRONES-AUTONOMOS)
+Via [Drone Visual](https://www.dronevisual.com/single-post/2018/02/21/ANO-NOVO-CHINES-E-CELEBRADO-COM-SHOW-DE-LUZES-DE-300-DRONES-AUTONOMOS)

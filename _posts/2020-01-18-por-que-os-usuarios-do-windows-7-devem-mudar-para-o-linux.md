@@ -160,4 +160,4 @@ Atualizações e upgrades funcionam da mesma maneira; você é notificado sobre 
 
 Existem várias outras razões válidas pelas quais os usuários devem mudar para o Linux - então compartilhe seu discurso de troca persuasivo na seção de comentários!
 
-Via: [OMG Ubuntu](https://www.omgubuntu.co.uk/2020/01/reasons-to-switch-to-linux-from-windows)
+Via [OMG Ubuntu](https://www.omgubuntu.co.uk/2020/01/reasons-to-switch-to-linux-from-windows)

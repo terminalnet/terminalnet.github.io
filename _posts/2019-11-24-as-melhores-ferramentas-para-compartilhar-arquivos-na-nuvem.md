@@ -148,4 +148,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Gizmodo](https://gizmodo.uol.com.br/ferramentas-compartilhar-arquivos-grandes/)
+Via [Gizmodo](https://gizmodo.uol.com.br/ferramentas-compartilhar-arquivos-grandes/)

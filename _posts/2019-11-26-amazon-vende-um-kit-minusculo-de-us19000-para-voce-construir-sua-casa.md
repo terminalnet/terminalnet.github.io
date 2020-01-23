@@ -164,4 +164,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Business Insider](https://www.businessinsider.com/amazon-tiny-home-kit-allwood-getaway-cabin-loft-2019-7)
+Via [Business Insider](https://www.businessinsider.com/amazon-tiny-home-kit-allwood-getaway-cabin-loft-2019-7)

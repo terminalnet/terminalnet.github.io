@@ -59,7 +59,7 @@ data-ad-slot="9652691879"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Oficina da Net](https://www.oficinadanet.com.br/huawei/28072-huawei-cria-o-harmonyos-sistema-operacional-proprio-contra-embargo-estadunidense)
+Via [Oficina da Net](https://www.oficinadanet.com.br/huawei/28072-huawei-cria-o-harmonyos-sistema-operacional-proprio-contra-embargo-estadunidense)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->

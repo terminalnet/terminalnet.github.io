@@ -39,5 +39,5 @@ O resultado dos novos pop-ups do MacOS tem dividido opiniões nas redes sociais.
 <blockquote class="twitter-tweet" data-lang="pt"><p lang="en" dir="ltr">Remember when we all laughed about the UAC dialogs in Windows Vista? <a href="https://twitter.com/hashtag/osx?src=hash&amp;ref_src=twsrc%5Etfw">#osx</a> <a href="https://twitter.com/hashtag/catalina?src=hash&amp;ref_src=twsrc%5Etfw">#catalina</a> <a href="https://t.co/vvVT3zU5Ju">pic.twitter.com/vvVT3zU5Ju</a></p>&mdash; Jens C. (@jensc) <a href="https://twitter.com/jensc/status/1146389753237053440?ref_src=twsrc%5Etfw">3 de julho de 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/fique_seguro/noticia/com-novo-macos-apple-adota-recurso-que-criticava-desde-o-windows-vista/91319)
+Via [Olhar Digital](https://olhardigital.com.br/fique_seguro/noticia/com-novo-macos-apple-adota-recurso-que-criticava-desde-o-windows-vista/91319)
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

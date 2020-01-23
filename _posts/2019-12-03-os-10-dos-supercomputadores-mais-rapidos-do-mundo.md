@@ -83,4 +83,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [ComputerWorld](https://computerworld.com.br/2019/12/03/os-10-dos-supercomputadores-mais-rapidos-do-mundo/)
+Via [ComputerWorld](https://computerworld.com.br/2019/12/03/os-10-dos-supercomputadores-mais-rapidos-do-mundo/)

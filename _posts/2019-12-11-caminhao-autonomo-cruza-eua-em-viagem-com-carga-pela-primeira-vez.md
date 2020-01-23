@@ -40,4 +40,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Plus.AI](https://www.youtube.com/channel/UCn1FXax-dz8rWPCHt8xNPvg)
+Via [Plus.AI](https://www.youtube.com/channel/UCn1FXax-dz8rWPCHt8xNPvg)

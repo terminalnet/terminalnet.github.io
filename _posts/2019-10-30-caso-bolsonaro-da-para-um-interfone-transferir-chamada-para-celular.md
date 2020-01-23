@@ -106,4 +106,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/30/interfone-do-condominio-de-bolsonaro-aciona-celular-de-morador-entenda.htm)
+Via [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/30/interfone-do-condominio-de-bolsonaro-aciona-celular-de-morador-entenda.htm)

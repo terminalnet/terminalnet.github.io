@@ -65,4 +65,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [GizChina](https://www.gizchina.com/2019/10/25/huawei-ceo-is-captured-with-an-ipad-at-the-airport/)
+Via [GizChina](https://www.gizchina.com/2019/10/25/huawei-ceo-is-captured-with-an-ipad-at-the-airport/)

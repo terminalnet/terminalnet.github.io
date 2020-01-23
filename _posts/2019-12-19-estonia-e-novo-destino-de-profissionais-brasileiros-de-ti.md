@@ -67,4 +67,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Estadão](https://economia.estadao.com.br/noticias/geral,estonia-e-novo-destino-de-profissionais-brasileiros-de-ti,70003109790)
+Via [Estadão](https://economia.estadao.com.br/noticias/geral,estonia-e-novo-destino-de-profissionais-brasileiros-de-ti,70003109790)

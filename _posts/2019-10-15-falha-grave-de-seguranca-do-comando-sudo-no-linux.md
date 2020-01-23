@@ -57,7 +57,7 @@ data-ad-slot="9652691879"></ins>
 
 sudo: <https://www.sudo.ws/>
 
-Via: [Engadget](https://www.engadget.com/2019/10/14/linux-unix-sudo-command-security-flaw/)
+Via [Engadget](https://www.engadget.com/2019/10/14/linux-unix-sudo-command-security-flaw/)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->

@@ -85,4 +85,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Computer World](https://computerworld.com.br/2020/01/19/as-7-linguagens-de-programacao-que-voce-deve-aprender-em-2020/)
+Via [Computer World](https://computerworld.com.br/2020/01/19/as-7-linguagens-de-programacao-que-voce-deve-aprender-em-2020/)

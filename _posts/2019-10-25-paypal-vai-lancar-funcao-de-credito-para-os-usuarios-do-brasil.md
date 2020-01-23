@@ -48,4 +48,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [ComputerWorld](https://computerworld.com.br/2019/10/25/rumor-paypal-vai-lancar-funcao-de-credito-para-os-usuarios-do-brasil/)
+Via [ComputerWorld](https://computerworld.com.br/2019/10/25/rumor-paypal-vai-lancar-funcao-de-credito-para-os-usuarios-do-brasil/)

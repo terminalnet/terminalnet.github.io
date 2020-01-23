@@ -107,4 +107,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [The Intercept Brasil](https://theintercept.com/2019/10/15/governo-ferramenta-vigilancia/)
+Via [The Intercept Brasil](https://theintercept.com/2019/10/15/governo-ferramenta-vigilancia/)

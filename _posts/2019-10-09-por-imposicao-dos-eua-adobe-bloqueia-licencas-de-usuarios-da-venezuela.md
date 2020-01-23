@@ -30,5 +30,5 @@ De acordo com o documento, o bloqueio de relações com o país se deve a forma 
 
 A tendência é que o bloqueio seja seguido por outras gigantes de tecnologia, que em geral acatam decisões similares tomadas pelo governo.
    
-Via: [CW](https://computerworld.com.br/2019/10/09/por-imposicao-dos-eua-adobe-bloqueia-licencas-de-usuarios-da-venezuela/)
+Via [CW](https://computerworld.com.br/2019/10/09/por-imposicao-dos-eua-adobe-bloqueia-licencas-de-usuarios-da-venezuela/)
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

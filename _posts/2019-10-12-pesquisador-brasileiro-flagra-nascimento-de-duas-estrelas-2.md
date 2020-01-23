@@ -28,4 +28,4 @@ Segundo Alves, as duas estrelas jovens estão em meio a discos circunstelares - 
 Atualmente Alves faz pós-doutorado no Centro de Estudos Astroquímicos do Instituto Max Planck de Física Extraterrestre, em Munique, na Alemanha
 
 
-Via: [UOL](https://www.uol.com.br/tilt/noticias/redacao/2019/10/12/pesquisador-brasileiro-flagra-nascimento-de-duas-estrelas.htm)
+Via [UOL](https://www.uol.com.br/tilt/noticias/redacao/2019/10/12/pesquisador-brasileiro-flagra-nascimento-de-duas-estrelas.htm)

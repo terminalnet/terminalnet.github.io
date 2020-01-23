@@ -153,5 +153,5 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Gizmodo](https://gizmodo.uol.com.br/inteligencia-artificial-starcraft-2-nivel-mais-dificil/)
+Via [Gizmodo](https://gizmodo.uol.com.br/inteligencia-artificial-starcraft-2-nivel-mais-dificil/)
 

@@ -152,4 +152,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Olhar Digital](https://olhardigital.com.br/dicas_e_tutoriais/noticia/fedora-31-quais-sao-as-novidades-da-distribuicao-e-como-instala-la/92287)
+Via [Olhar Digital](https://olhardigital.com.br/dicas_e_tutoriais/noticia/fedora-31-quais-sao-as-novidades-da-distribuicao-e-como-instala-la/92287)

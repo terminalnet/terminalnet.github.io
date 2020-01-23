@@ -82,7 +82,7 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [ZDNET](https://www.zdnet.com/article/shuttleworth-sees-the-linux-desktop-living-on-with-ubuntu-19-10/)
+Via [ZDNET](https://www.zdnet.com/article/shuttleworth-sees-the-linux-desktop-living-on-with-ubuntu-19-10/)
 
    
 

@@ -67,4 +67,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [UOL Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/12/19/hackers-sao-presos-por-extorsao-de-milhoes-de-usuarios-de-sites-pornos.htm)
+Via [UOL Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/12/19/hackers-sao-presos-por-extorsao-de-milhoes-de-usuarios-de-sites-pornos.htm)

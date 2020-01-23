@@ -96,4 +96,4 @@ data-ad-slot="5351066970"></ins>
 </script>
 
 
-Via: [BBC](https://www.bbc.com/news/blogs-trending-50222380)
+Via [BBC](https://www.bbc.com/news/blogs-trending-50222380)

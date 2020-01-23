@@ -54,4 +54,4 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Agência FAPESP](http://agencia.fapesp.br/pesquisadores-criam-minifigado-funcional-por-impressao-3d/31946/)
+Via [Agência FAPESP](http://agencia.fapesp.br/pesquisadores-criam-minifigado-funcional-por-impressao-3d/31946/)

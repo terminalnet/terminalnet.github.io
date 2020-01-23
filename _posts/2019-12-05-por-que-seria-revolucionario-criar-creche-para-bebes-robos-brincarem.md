@@ -77,5 +77,5 @@ Se dermos o mesmo poder aos robôs, podemos entender melhor como as máquinas e 
 
 Talvez, num futuro não muito distante, teremos nos ajudando nas tarefas domésticas um robô que "cresceu" e brincou muito em um laboratório —só não usou fraldas.
 
-Via: *UOL*
+Via *UOL*
 

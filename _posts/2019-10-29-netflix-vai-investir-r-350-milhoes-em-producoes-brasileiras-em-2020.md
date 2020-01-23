@@ -50,4 +50,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Terra](https://www.terra.com.br/noticias/tecnologia/netflix-vai-investir-r-350-milhoes-em-producoes-brasileiras-em-2020,f395b34f6627de7cf3d9af0fc057fa2euey20py9.html)
+Via [Terra](https://www.terra.com.br/noticias/tecnologia/netflix-vai-investir-r-350-milhoes-em-producoes-brasileiras-em-2020,f395b34f6627de7cf3d9af0fc057fa2euey20py9.html)

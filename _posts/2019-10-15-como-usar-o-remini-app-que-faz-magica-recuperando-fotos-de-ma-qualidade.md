@@ -101,6 +101,6 @@ data-ad-slot="9652691879"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/14/como-usar-o-remini-app-que-faz-magica-recuperando-fotos-de-ma-qualidade.htm)
+Via [Tilt](https://www.uol.com.br/tilt/noticias/redacao/2019/10/14/como-usar-o-remini-app-que-faz-magica-recuperando-fotos-de-ma-qualidade.htm)
 
 

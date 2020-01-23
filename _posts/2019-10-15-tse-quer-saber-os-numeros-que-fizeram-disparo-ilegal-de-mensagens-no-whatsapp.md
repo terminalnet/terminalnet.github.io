@@ -73,4 +73,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Agência Brasil](http://agenciabrasil.ebc.com.br/economia/noticia/2019-10/tse-requer-linhas-que-enviaram-mensagens-em-massa-nas-eleicoes-de-2018)
+Via [Agência Brasil](http://agenciabrasil.ebc.com.br/economia/noticia/2019-10/tse-requer-linhas-que-enviaram-mensagens-em-massa-nas-eleicoes-de-2018)

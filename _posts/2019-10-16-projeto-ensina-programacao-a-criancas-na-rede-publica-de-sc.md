@@ -59,4 +59,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [NSC Total](https://www.nsctotal.com.br/colunistas/dagmara-spautz/projeto-leva-licoes-de-tecnologia-e-inovacao-para-mais-de-5-mil-criancas)
+Via [NSC Total](https://www.nsctotal.com.br/colunistas/dagmara-spautz/projeto-leva-licoes-de-tecnologia-e-inovacao-para-mais-de-5-mil-criancas)

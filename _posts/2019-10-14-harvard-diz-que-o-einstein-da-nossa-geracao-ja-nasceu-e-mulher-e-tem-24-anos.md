@@ -43,6 +43,6 @@ Apesar de ter recebido ofertas milionárias para trabalhar em empresas aeroespac
 
     
 
-Via: [Hypeness](https://www.hypeness.com.br/2017/09/harvard-diz-que-o-einstein-da-nossa-geracao-ja-nasceu-e-mulher-e-tem-24-anos/)
+Via [Hypeness](https://www.hypeness.com.br/2017/09/harvard-diz-que-o-einstein-da-nossa-geracao-ja-nasceu-e-mulher-e-tem-24-anos/)
 
 

@@ -33,4 +33,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Câmara de Deputados](https://www.camara.leg.br/noticias/607175-CCJ-APROVA-VALIDADE-MINIMA-DE-UM-ANO-A-CREDITO-DO-CELULAR-PRE-PAGO)
+Via [Câmara de Deputados](https://www.camara.leg.br/noticias/607175-CCJ-APROVA-VALIDADE-MINIMA-DE-UM-ANO-A-CREDITO-DO-CELULAR-PRE-PAGO)

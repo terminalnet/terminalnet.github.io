@@ -66,4 +66,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [Computer World](https://computerworld.com.br/2019/10/30/5-conselhos-de-bill-gates-para-alavancar-a-sua-carreira/)
+Via [Computer World](https://computerworld.com.br/2019/10/30/5-conselhos-de-bill-gates-para-alavancar-a-sua-carreira/)

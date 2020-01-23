@@ -70,4 +70,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [A Gazeta](https://www.agazeta.com.br/es/gv/professores-do-ifes-realizam-chamadas-por-reconhecimento-facial-1019)
+Via [A Gazeta](https://www.agazeta.com.br/es/gv/professores-do-ifes-realizam-chamadas-por-reconhecimento-facial-1019)

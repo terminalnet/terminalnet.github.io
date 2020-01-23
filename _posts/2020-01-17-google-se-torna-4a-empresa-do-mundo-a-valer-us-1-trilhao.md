@@ -71,4 +71,4 @@ Países emergentes também são outro desafio da empresa. É em lugares como Bra
 
 Como se não fosse suficiente, ele terá de lidar com a pressão interna dos funcionários: nos últimos meses, intensificaram-se os protestos dos "Googlers", os empregados da empresa. Os motivos são vários: do envolvimento da empresa com o governo chinês em um projeto secreto às condições de trabalho de terceirizados, passando pela política interna para lidar com questões de assédio moral e sexual. Um exemplo é o fato de que o Google é frequente alvo de críticas por ter deixado que Andy Rubin, o antecessor de Pichai no Android, tenha saído da empresa com milhões no bolso mesmo após ser acusado de forçar uma colega a ter relações com ele.
 
-Via: [Terra](https://www.terra.com.br/noticias/tecnologia/google-se-torna-4-empresa-do-mundo-a-valer-us-1-trilhao,cdb99867a2380832f0cb4a05128b9d7f17c3ldot.html)
+Via [Terra](https://www.terra.com.br/noticias/tecnologia/google-se-torna-4-empresa-do-mundo-a-valer-us-1-trilhao,cdb99867a2380832f0cb4a05128b9d7f17c3ldot.html)

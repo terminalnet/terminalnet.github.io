@@ -1,0 +1,660 @@
+I"�`<div class="container">
+    
+ <!--endif page url is / -->
+    
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>Todos artigos</span></h4>
+        
+
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/alunos-da-usp-constroem-carro-eletrico-capaz-de-cruzar-o-pais-com-5-reais.html">Alunos da USP constróem carro elétrico capaz de cruzar o país com 5 reais</a>
+	</h2>
+	<p class="excerpt">
+	   Na hora de pegar a estrada, sempre temos que colocar no planejamento o custo da gasolina, o que encarece a viagem. Mas já imaginou se você pudesse cruzar o país com apenas R$ 5? Um ca...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 26, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/alunos-da-usp-constroem-carro-eletrico-capaz-de-cruzar-o-pais-com-5-reais.html">
+	<img class="w-100" src="/assets/images/usp.jpg" alt="Alunos da USP constróem carro elétrico capaz de cruzar o país com 5 reais" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/falha-de-seguranca-no-vlc-pode-permitir-que-hackers-invadam-seu-computador.html">Falha de segurança no VLC pode permitir que hackers invadam seu computador</a>
+	</h2>
+	<p class="excerpt">
+	   Devido à sua natureza gratuita e de código aberto, o VLC é um dos mais populares media players multiplataforma do mundo. Infelizmente, uma falha de segurança recém-descoberta e potenc...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 25, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/falha-de-seguranca-no-vlc-pode-permitir-que-hackers-invadam-seu-computador.html">
+	<img class="w-100" src="/assets/images/vlc.jpg" alt="Falha de segurança no VLC pode permitir que hackers invadam seu computador" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/celulares-de-bolsonaro-tambem-foram-alvo-de-hackers.html">Celulares de Bolsonaro também foram alvo de hackers</a>
+	</h2>
+	<p class="excerpt">
+	     Criminosos também atacaram aparelhos do Ministro Sérgio Moro e de Deltan Dallagnol; há fortes indícios de que o celular do Ministro da Economia, Paulo Guedes, também foi atacado.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 25, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/celulares-de-bolsonaro-tambem-foram-alvo-de-hackers.html">
+	<img class="w-100" src="/assets/images/bolsonaro.jpg" alt="Celulares de Bolsonaro também foram alvo de hackers" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/estudante-autista-de-vitoria-es-e-ouro-na-olimpiada-brasileira-de-matematica.html">Estudante autista de Vitória (ES) é ouro na Olimpíada Brasileira de Matemática</a>
+	</h2>
+	<p class="excerpt">
+	   iO estudante capixaba Gabriel Barroca, 13 anos, foi o único aluno de Vitória (ES) a ganhar uma medalha de ouro na edição de 2018 da Olimpíada Brasileira de Matemática das Escolas Públ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 13, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/estudante-autista-de-vitoria-es-e-ouro-na-olimpiada-brasileira-de-matematica.html">
+	<img class="w-100" src="/assets/images/newproposal.jpg" alt="Estudante autista de Vitória (ES) é ouro na Olimpíada Brasileira de Matemática" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/ransomware-que-sequestra-pcs-windows-e-detectado-na-america-latina.html">Ransomware que exige R$ 10 mil para desbloquear PC já está na América Latina</a>
+	</h2>
+	<p class="excerpt">
+	   Sodin confisca os arquivos do computador e pede US$ 2.500 por resgate. Ele tem como alvo a região asiática, mas também já apareceu na Europa e na América do Norte
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 12, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/ransomware-que-sequestra-pcs-windows-e-detectado-na-america-latina.html">
+	<img class="w-100" src="/assets/images/ransomware.jpg" alt="Ransomware que exige R$ 10 mil para desbloquear PC já está na América Latina" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/evento-para-invadir-Area-51-e-ver-ets-reune-400-mil-participantes-nos-eua.html">Evento para invadir Área 51 e ver ETs reúne 400 mil participantes nos EUA</a>
+	</h2>
+	<p class="excerpt">
+	   Um grupo criado no Facebook para invadir a Área 51 já tem cerca de 400 mil confirmados nos Estados Unidos. Chamado de “Storm Area 51, They can’t stop us” (Tempestade Área 51, eles não...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 12, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/evento-para-invadir-Area-51-e-ver-ets-reune-400-mil-participantes-nos-eua.html">
+	<img class="w-100" src="/assets/images/facebook-12110600774283.jpg" alt="Evento para invadir Área 51 e ver ETs reúne 400 mil participantes nos EUA" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/bitcoin-cai-us-3-mil-em-apenas-um-dia-apos-forte-alta-com-anuncio-do-libra.html">Bitcoin cai US$ 3 mil em apenas um dia, após forte alta com anúncio do Libra - Criptomoedas</a>
+	</h2>
+	<p class="excerpt">
+	   Esta semana ajudou mais uma vez a lembrar o mercado como o bitcoin é uma criptomoeda volátil. Ela começou a semana em alta, após o anúncio de que o Facebook está entrando neste setor ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 07, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/bitcoin-cai-us-3-mil-em-apenas-um-dia-apos-forte-alta-com-anuncio-do-libra.html">
+	<img class="w-100" src="/assets/images/bitcon-cai.jpg" alt="Bitcoin cai US$ 3 mil em apenas um dia, após forte alta com anúncio do Libra - Criptomoedas" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/bill-gates.html">Bill Gates: o bilionário que espera na fila, come lanche de rua e veste roupa simples</a>
+	</h2>
+	<p class="excerpt">
+	   A foto que mostra um dos homens mais ricos do mundo em momento de pura simplicidade é uma lição sobre sucesso.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 04, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/bill-gates.html">
+	<img class="w-100" src="/assets/images/ac98c1b397b9d938066e03f8c986ae88.jpg" alt="Bill Gates: o bilionário que espera na fila, come lanche de rua e veste roupa simples" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/google.html">App brasileiro que traduz Português para Libras ganha prêmio do Google</a>
+	</h2>
+	<p class="excerpt">
+	   O App brasileiro Hand Talk, já mostrado aqui no SóNotíciaBoa, acaba de ser premiado pelo Google. O aplicativo traduz mensagens em Português para Libras, a Língua Brasileira de Sinais.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 03, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/google.html">
+	<img class="w-100" src="/assets/images/hand_talk.jpg" alt="App brasileiro que traduz Português para Libras ganha prêmio do Google" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/snowden.html">Alcance ilimitado, sem salvaguardas': Snowden avisa sobre maior controle social da história</a>
+	</h2>
+	<p class="excerpt">
+	   O governo dos EUA tem tendência de se apropriar das inovações revolucionárias e torná-las em armas, disse Edward Snowden. Ele notou que o desejo humano natural de comunicar com os out...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 02, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/snowden.html">
+	<img class="w-100" src="/assets/images/745525.jpg" alt="Alcance ilimitado, sem salvaguardas': Snowden avisa sobre maior controle social da história" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item"><a class="page-link" href="/page21">&laquo; Anterior</a></li>
+              
+
+              
+                
+                <li class="page-item"><a class="page-link" href="/">1</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page4">4</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page5">5</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page6">6</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page7">7</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page8">8</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page9">9</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page10">10</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page11">11</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page12">12</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page13">13</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page14">14</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page15">15</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page16">16</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page17">17</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page18">18</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page19">19</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page20">20</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page21">21</a></li>
+                
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">22</span></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page23">23</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page24">24</a></li>
+                
+              
+
+              
+                <li class="page-item"><a class="page-link" href="/page23">Próximo &raquo;</a></li>
+              
+            </ul>
+                  
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Destaques</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/bill-gates.html" class="text-dark">Bill Gates: o bilionário que espera na fila, come lanche de rua e veste roupa simples</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/google.html" class="text-dark">App brasileiro que traduz Português para Libras ganha prêmio do Google</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/snowden.html" class="text-dark">Alcance ilimitado, sem salvaguardas': Snowden avisa sobre maior controle social da história</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/olimpiada.html" class="text-dark">Cearenses levam ouro, prata e bronze na Olimpíada Internacional de Química</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/nao-diploma.html" class="text-dark">Habilidades, não diplomas, definem hoje os melhores talentos, diz CEO do LinkedIn</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/espioes.html" class="text-dark">Os celulares espiam e transmitem nossas conversas, mesmo desligados</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/japao.html" class="text-dark">Japão, 30 mil suicídios por ano: riqueza, tecnologia, mas… vazio na alma</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/amazon.html" class="text-dark">Homem enche Amazon Drive com 1,8 petabytes de pornografia como teste</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/matematica.html" class="text-dark">Brasileira de 17 anos leva o ouro em Olimpíada Europeia de Matemática</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/banana-java.html" class="text-dark">Blue Java, a banana azul que tem textura de sorvete e sabor de baunilha</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/gps.html" class="text-dark">Empresa cria sapato com GPS para monitorar idosos e pessoas com problemas de memória</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/cirurgia.html" class="text-dark">Unicamp faz 1ª cirurgia de crânio com titânio impresso em 3D do Brasil</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/pinguins.html" class="text-dark">Cientistas mostram que pinguins tentam matar 'talaricos'</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/pesquisa.html" class="text-dark">Pesquisa aponta que o ser humano está cada vez menos inteligente</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#news">News</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div> 
+    
+    </div>
+    
+</div>
+
+
+
+</div>
+:ET

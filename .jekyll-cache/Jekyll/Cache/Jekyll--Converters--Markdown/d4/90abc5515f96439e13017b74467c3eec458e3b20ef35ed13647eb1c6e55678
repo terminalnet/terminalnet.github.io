@@ -1,0 +1,25 @@
+I"�<p>Devido à sua natureza gratuita e de código aberto, o VLC é um dos mais populares media players multiplataforma do mundo. Infelizmente, uma falha de segurança recém-descoberta e potencialmente muito séria descoberta no VLC significa que talvez você queira desinstalá-lo até que o pessoal do VideoLAN Project consiga corrigir o problema. Apesar de estar trabalhando em correções, o VideoLAN alega que a falha se encontrava apenas em uma versão anterior e desatualizada do VLC.</p>
+
+<p>Descoberta pela agência de segurança alemã CERT-Bund (via <a href="https://winfuture.de/news,110171.html">WinFuture</a> ), a nova falha no VLC (listada como <a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13615">CVE-2019-13615</a>) recebeu uma pontuação básica de vulnerabilidade de 9,8, o que a classifica como “crítica”.</p>
+
+<p>A vulnerabilidade permite uma RCE (execução remota de código), que potencialmente autoriza agentes mal-intencionados a instalarem, modificarem ou executarem um software sem autorização, e também pode ser utilizado para divulgar arquivos no sistema host. Tradução: A falha de segurança do VLC pode permitir que hackers invadam seu computador e vejam seus arquivos.</p>
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- Informat -->
+<p><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2838251107855362" data-ad-slot="2327980059" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+
+<p>Felizmente, parece que ninguém tirou proveito da falha ainda, mas com o WinFuture relatando que as versões Windows, Linux e Unix do VLC foram todas afetadas (mas não a versão do macOS), há um grande número de sistemas potencialmente vulneráveis ​​por aí.</p>
+
+<p>O VideoLAN também está ciente do problema e está atualmente <a href="https://trac.videolan.org/vlc/ticket/22474">trabalhando em uma série</a> de mudanças, embora, neste momento, elas pareçam estar apenas 60% completas. Infelizmente, isso significa que enquanto as pessoas estão esperando por uma solução, seu único recurso para se proteger da falha é desinstalar o VLC e mudar para uma alternativa como o KMPlayer ou o Media Player Classic.</p>
+
+<p>Ou você pode arriscar e acreditar que ninguém vai tentar te atacar enquanto você espera por uma solução. Mas, de qualquer forma, você foi avisado.</p>
+
+<p>Nesta quarta-feira (23), o VideoLAN respondeu ao incidente por meio de um <a href="https://twitter.com/videolan/status/1153963312981389312">tuíte</a>, dizendo que o VLC pode não estar tão vulnerável quanto parecia inicialmente. O VideoLAN diz que o “problema de segurança” no VLC foi causado por uma biblioteca de terceiros chamada Libebml, que foi corrigida há 16 meses, e que as acusações eram baseadas em uma versão anterior (e desatualizada) do VLC.</p>
+
+<p>Via <a href="https://gizmodo.uol.com.br/falha-seguranca-vlc-hackers/">Gizmodo</a></p>
+<div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&amp;formatId=28"></script></div>
+:ET

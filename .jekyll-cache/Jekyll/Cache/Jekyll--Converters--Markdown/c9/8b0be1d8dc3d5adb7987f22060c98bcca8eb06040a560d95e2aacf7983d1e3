@@ -1,0 +1,90 @@
+I"�<blockquote>
+  <p>Para navegar na internet, é bem capaz que você use mais de um dispositivo como um celular e um computador. Assim, talvez você já tenha se deparado com a necessidade de copiar um texto entre esses dois aparelhos, mas teve que fazer essa tarefa manualmente, o que não acaba sendo algo prático.</p>
+</blockquote>
+
+<p>Felizmente, o Chrome tem implementado recursos que oferecem uma maior integração para quem usa o navegador em mais de uma plataforma. A seguir, confira como mandar um texto do PC para o celular com Android usando o Google Chrome.
+Importante</p>
+
+<p>A nova função exibida no tutorial abaixo já está disponível na versão estável do navegador. Dessa forma, não é necessário fazer a instalação de uma versão de testes do browser.</p>
+
+<p>Vale lembrar que até o momento da publicação da matéria, o recurso para receber um texto copiado só está disponível no Android e o processo inverso não pode ser feito, ou seja, por enquanto você ainda não pode enviar textos do celular para o PC com o Chrome.</p>
+
+<!-- QUADRADO -->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<p><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2838251107855362" data-ad-slot="5351066970"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+
+<h2 id="como-mandar-texto-um-texto-do-pc-para-o-celular-com-o-chrome">Como mandar texto um texto do PC para o celular com o Chrome</h2>
+
+<p>Apesar do novo recurso já estar disponível no navegador, a função dele ainda não vem habilitada por padrão. Além disso, para que o processo funcione é necessário que o computador e o celular estejam logados na mesma conta do Google. Confira como usar o novo recurso:</p>
+
+<ol>
+  <li>
+    <p>Abra o Google Chrome normalmente e verifique se ele está atualizado para a última versão disponível. Na Google Play, também atualize o navegador para a sua última versão;</p>
+  </li>
+  <li>
+    <p>Acesse o endereço: chrome://flags;</p>
+  </li>
+</ol>
+
+<p><img src="/assets/images/20191209104257.jpg" alt="Imagem" /></p>
+
+<ol>
+  <li>No campo “Search flags”, procure por “clipboard”;</li>
+</ol>
+
+<p><img src="/assets/images/20191209104347.jpg" alt="Imagem" /></p>
+
+<!-- MINI ANÚNCIO -->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- Games Root -->
+<p><ins class="adsbygoogle" style="display:inline-block;width:730px;height:95px" data-ad-client="ca-pub-2838251107855362" data-ad-slot="5351066970"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+
+<ol>
+  <li>Agora, nas três opções que aparecem, troque o valor de “Default” para “Enabled”;</li>
+</ol>
+
+<p><img src="/assets/images/20191209104412.jpg" alt="Imagem" /></p>
+
+<ol>
+  <li>Com as três opções modificadas, uma mensagem deve surgir no navegador. Então, clique em “Relaunch” e espere o browser ser reiniciado.</li>
+</ol>
+
+<p><img src="/assets/images/20191209104437.jpg" alt="Imagem" /></p>
+
+<p>A partir desse momento, já é possível enviar textos do Chrome para outros dispositivos. Para isso, basta selecionar um texto, clicar com o botão direito nele e escolher a opção “Enviar texto para seus dispositivos”, conforme sugere a imagem abaixo.</p>
+
+<!-- RETANGULO LARGO 2 -->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-2838251107855362" data-ad-slot="8549252987"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+
+<p><img src="/assets/images/20191209104519.jpg" alt="Imagem" /></p>
+
+<p>Já no seu celular, você receberá uma notificação confirmando que um texto foi copiado para a sua área de transferência. Assim, você poderá utilizá-lo onde precisar, como em um aplicativo qualquer de anotações, por exemplo.</p>
+
+<p><img src="/assets/images/20191209104544.jpg" alt="Imagem" /></p>
+
+<p>Pronto! A partir desse momento, você já sabe como enviar os textos de seu computador para outros dispositivos com o Chrome.</p>
+
+<!-- RETANGULO LARGO -->
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- Informat -->
+<p><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2838251107855362" data-ad-slot="2327980059" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+
+<p>Via <a href="https://olhardigital.com.br/dicas_e_tutoriais/noticia/como-enviar-um-texto-do-pc-para-o-celular-com-o-chrome/94087">Olhar Digital</a></p>
+:ET

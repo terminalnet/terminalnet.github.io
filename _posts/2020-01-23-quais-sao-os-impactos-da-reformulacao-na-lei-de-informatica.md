@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quais são os impactos da reformulação na Lei de Informática?"
+title: 'Quais são os impactos da reformulação na Lei de Informática?'
 categories: [ News ]
 image: 'assets/images/news/aviso-legal.jpg'
 ---

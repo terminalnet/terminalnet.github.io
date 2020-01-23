@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Por que o príncipe da Arábia Saudita hackeou celular de Jeff Bezos, segundo investigação da ONU"
+title: 'Por que o príncipe da Arábia Saudita hackeou celular de Jeff Bezos, segundo investigação da ONU'
 categories: [ News ]
 image: 'assets/images/news/o-principe-saudita-mohammed-bin-salman.jpg'
 ---

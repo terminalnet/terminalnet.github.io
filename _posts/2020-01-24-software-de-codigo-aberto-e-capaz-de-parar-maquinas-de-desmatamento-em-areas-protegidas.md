@@ -3,6 +3,8 @@ layout: post
 title: " Software de código aberto é capaz de parar máquinas de desmatamento em áreas protegidas"
 categories: [ News ]
 image: 'assets/images/news/codigo_de_consciencia_1.png'
+featured: true
+hidden: true
 ---
 
 A tecnologia, no que possui de melhor, pode promover verdadeiras revoluções – capazes de efetivamente melhorar e até mesmo salvar o planeta literalmente. É o caso do Código da Consciência, um software gratuito e de código aberto que pode reduzir ou mesmo deter o desmatamento em regiões como a Amazônia. Esse “escudo virtual” pode ser inserido em máquinas pesadas e diretamente informar que estão entrando em áreas protegidas ou desligar essas máquinas quando estiverem em área que não pode ser desmatada.

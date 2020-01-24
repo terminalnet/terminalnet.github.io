@@ -4,6 +4,8 @@ title:  "Habilidades, não diplomas, definem hoje os melhores talentos, diz CEO 
 author: sal
 categories: [ News ]
 image: assets/images/gettyimages-490834208.jpg
+featured: true
+hidden: true
 tags: [featured]
 ---
 Em processos seletivos, é comum que recrutadores levem em consideração a universidade onde se formaram os candidatos — sobretudo para dar preferência aos que frequentaram as instituições mais renomadas. Para Jeff Weiner, CEO do LinkedIn, tal prática não faz o menor sentido. Durante uma palestra na ASU GSV Summit, o executivo defendeu o que acredita ser importante analisar na hora de contratar alguém. Segundo ele, o LinkedIn quer alguém com paixão pelo que faz, ética, perseverança, lealdade e mentalidade de crescimento (o "Growth Mindset" sobre o qual tem se falado tanto no mundo corporativo recentemente).
@@ -28,7 +30,7 @@ Em processos seletivos, é comum que recrutadores levem em consideração a univ
 
 "Nós nos orgulhávamos de no recrutamento ter uma lista incrivelmente curta de universidades, e muitas empresas do Vale do Silício costumavam fazer o mesmo", disse Weiner. "Certamente não estamos sozinhos. Recentemente, demos uma olhada no perfis do LinkedIn e constatamos que, entre os trabalhadores do setor de tecnologia dentro do Vale, apenas 5% deles tiveram formações não tradicionais".
 
-Nos últimos anos, no entanto, empresas têm percebido que existe muito talento escondido — e que muitas pessoas inteligentes e apaixonadas estão desprezando o ensino superior tradicional. 
+Nos últimos anos, no entanto, empresas têm percebido que existe muito talento escondido — e que muitas pessoas inteligentes e apaixonadas estão desprezando o ensino superior tradicional.
 
-"Estamos tentando nos afastar dessa ideia de que todos na equipe de engenharia, e todos no geral, devem ter vindo de uma escola específica ou ter que ter um grau diploma", disse Weiner. "Sim, diplomas de [ciência da computação] de escolas específicas podem te levar a encontrar um talento incrível. Mas há tanto talento para ser encontrando se as pessoas estiverem abertas buscá-los em lugares diferentes." 
+"Estamos tentando nos afastar dessa ideia de que todos na equipe de engenharia, e todos no geral, devem ter vindo de uma escola específica ou ter que ter um grau diploma", disse Weiner. "Sim, diplomas de [ciência da computação] de escolas específicas podem te levar a encontrar um talento incrível. Mas há tanto talento para ser encontrando se as pessoas estiverem abertas buscá-los em lugares diferentes."
 <div id="46254-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=46254&formatId=28"></script></div>

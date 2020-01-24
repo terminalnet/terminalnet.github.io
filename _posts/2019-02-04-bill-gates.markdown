@@ -3,6 +3,8 @@ layout: post
 title:  "Bill Gates: o bilionário que espera na fila, come lanche de rua e veste roupa simples"
 categories: [ News ]
 image: assets/images/ac98c1b397b9d938066e03f8c986ae88.jpg
+featured: true
+hidden: true
 tags: [featured]
 ---
 

@@ -1,63 +1,82 @@
 # Site
-name: 'News Terminal Root'
-description: 'A reunião das melhores publicações da internet estão aqui.'
+name: "News Terminal Root"
+title: "News Terminal Root"
+description: "A reunião das melhores publicações da internet estão aqui."
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
+google_analytics: 'UA-75725905-3'
 disqus: 'disqus_o9Wbt23Bfs'
-email: 'terminalroottv@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-
 include: ["_pages"]
+#permalink: /:title/
 permalink: /:title.html
+
+# Authors
+authors:
+  sal:
+    name: Marcos
+    display_name: Marcos
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: contato@terminalroot.com.br
+    web: https://terminalroot.com.br
+    twitter: https://twitter.com/wowthemesnet
+    description: "https://youtube.com/TerminalRootTV"
+  john:
+    name: Eric
+    display_name: Eric
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contato@terminalroot.com.br
+    web: https://terminalroot.com.br
+    twitter: https://twitter.com/TerminalRootTV
+    description: "https://youtube.com/TerminalRootTV"
+  jane:
+    name: Camilo
+    display_name: Camilo
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contato@terminalroot.com.br
+    web: https://terminalroot.com.br
+    twitter: https://twitter.com/TerminalRootTV
+    description: "https://youtube.com/TerminalRootTV"
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-archives
 
-authors:
-    sal:
-      name:           Marcos
-      site:           https://www.youtube.com/TerminalRootTV?sub_confirmation=1
-      avatar:         assets/images/avatar.png
-      bio:            https://youtube.com/TerminalRootTV
-      email:          contato@terminalroot.com.br
-      twitter:        https://twitter.com/TerminalRootTV
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
 
-    jane:
-      name:           Marcos
-      site:           https://www.youtube.com/TerminalRootTV?sub_confirmation=1
-      avatar:         assets/images/avatar.png
-      bio:            https://youtube.com/TerminalRootTV
-      email:          contato@terminalroot.com.br
-      twitter:        https://twitter.com/TerminalRootTV
+# Pagination
+paginate: 6
+paginate_path: /page:num/
 
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: jane
-      avatar: assets/images/avatar.png
-
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-
-# Syntax
+# Other
 markdown: kramdown
-highlighter: rouge
 
-# Paginate
-paginate: 10
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-2838251107855362"
+adsense-data-ad-slot: "7504231210"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

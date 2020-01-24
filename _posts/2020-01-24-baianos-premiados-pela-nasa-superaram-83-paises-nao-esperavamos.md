@@ -3,6 +3,8 @@ layout: post
 title: "Baianos premiados pela Nasa superaram 83 países: 'Não esperávamos'"
 categories: [ News ]
 image: 'assets/images/news/csm_2401SEXP00020a_p01_f8ca6b5802.jpg'
+featured: true
+hidden: true
 ---
 
 > Jovens venceram mundialmente com um projeto para cuidar dos oceanos; eles irão aos EUA apresentar o projeto

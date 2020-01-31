@@ -3,6 +3,7 @@ layout: post
 title: "Especialistas consideram criptografia do Android mais forte que a do iPhone"
 categories: [ News ]
 image: 'assets/images/news/especialistas-consideram-criptografia-do-android-mais-forte-que-a-do-iphone.jpg'
+tags: [featured]
 ---
 
 Muita coisa tem mudado no mundo da tecnologia nesses últimos tempos. A AMD não é mais conhecida por oferecer soluções inferiores e com problemas de temperatura, e chega a competir em pé de igualdade com a Intel e até mesmo agradando a muitos gamers. A MediaTek também começou a entregar chipsets que podem concorrer com opções da Qualcomm a preço mais baixo e qualidade muito próxima. E, agora, uma reportagem da Vice indica que o iPhone pode não ser mais seguro que o Android.

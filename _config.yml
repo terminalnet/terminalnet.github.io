@@ -4,7 +4,7 @@ title: "News Terminal Root"
 description: "A reunião das melhores publicações da internet estão aqui."
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
-baseurl: '/'
+baseurl: '/news.terminalroot.com.br/'
 google_analytics: 'UA-75725905-3'
 disqus: 'disqus_o9Wbt23Bfs'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'

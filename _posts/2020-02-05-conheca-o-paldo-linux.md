@@ -3,7 +3,7 @@ layout: post
 title: "Conheça o Paldo Linux"
 categories: [ Artigos ]
 image: 'assets/images/posts/paldo-linux.jpg'
----
+---do
 
 Paldo é uma distribuição Linux que usa os utilitários GNU. Foi originalmente desenvolvido por Jürg Billeter e Raffaele Sandrini e lançado em 2004, principalmente sob a GNU GPL.
 

@@ -34,7 +34,7 @@ data-ad-slot="5351066970"></ins>
 
 Passo 1: uma vez que você tenha feito o download do aplicativo, será necessário selecionar uma de suas contas do Google para iniciar o processo de configuração. Clique sobre o e-mail que deseja usar para prosseguir.
 
-![Gogle Pay](https://imagens.canaltech.com.br/287500.537434-Google-Pay.jpg)
+![Gogle Pay](/assets/images/news/287500.537434-Google-Pay.jpg)
 
 Selecione a conta do Google que mais usa para que o Google Pay possa ser vinculado a ela (Captura de tela: Ariane Velasco)
 
@@ -52,7 +52,7 @@ data-ad-slot="8549252987"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-![Google Pay](https://imagens.canaltech.com.br/287501.537435-Google-Pay.jpg)
+![Google Pay](/assets/images/news/287501.537435-Google-Pay.jpg)
 
 <!-- RETANGULO LARGO -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -71,7 +71,7 @@ Caso você queira localizar estabelecimentos conveniados com mais facilidade, au
 
 Passo 3: caso você tenha autorizado, o aplicativo irá exibir a opção de ativar o histórico de localização para que informações locais sejam acessadas a qualquer momento. Toque em “Ativar” ou em “Não”, no canto inferior direito da tela.
 
-![Google Pay](https://imagens.canaltech.com.br/287502.537436-Google-Pay.jpg)
+![Google Pay](/assets/images/news/287502.537436-Google-Pay.jpg)
 
 <!-- QUADRADO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -87,7 +87,7 @@ Ative o "Histórico de localização" para ter informações completas sobre o G
 
 Passo 4: feito isso, você poderá acessar a tela principal do Google Pay. Toque em “Adicionar um cartão” para cadastrar seu cartão de crédito/débito. Um frame fará a captura de suas informações, que também podem ser adicionadas manualmente.
 
-![Google Pay](https://imagens.canaltech.com.br/287503.537437-Google-Pay.jpg)
+![Google Pay](/assets/images/news/287503.537437-Google-Pay.jpg)
 Adicione seu cartão de débito ou crédito ao Google Pay (Captura de tela: Ariane Velasco)
 
 # Google Pay: adicionando um segundo cartão
@@ -97,7 +97,7 @@ Você também pode efetuar compras com o Google Pay utilizando mais de um cartã
 - Abra o aplicativo e selecione “Pagamento”, na parte inferior da tela. Depois, toque em “+Forma de pagamento”.
 - Feito isso, basta repetir o processo acima para cadastrar seu novo cartão.
 
-![Google Pay](https://imagens.canaltech.com.br/287504.537438-Google-Pay.jpg)
+![Google Pay](/assets/images/news/287504.537438-Google-Pay.jpg)
 
 É possível adicionar mais de um cartão no Google Pay (Captura de tela: Ariane Velasco)
 
@@ -105,7 +105,7 @@ Você também pode efetuar compras com o Google Pay utilizando mais de um cartã
 
 Para fazer um pagamento com o Google Pay, é necessário que o estabelecimento onde a compra será efetuada aceite o método. Caso a resposta seja afirmativa, basta aproximar seu smartphone da máquina onde os pagamentos são feitos e esperar até que uma notificação do Google Pay chegue até você. Para conferir os registros de suas compras, você deve abrir o aplicativo e rolar a tela até “Atividades recentes”, onde todas as notificações de transações serão exibidas.
 
-![Google Pay](https://imagens.canaltech.com.br/287510.537446-Google-Pay.png)
+![Google Pay](/assets/images/news/287510.537446-Google-Pay.png)
 
 <!-- MINI ANÚNCIO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -122,15 +122,15 @@ data-ad-slot="5351066970"></ins>
 
 Já, caso você queira alterar alguma configuração no Google Pay, basta abrir o aplicativo e tocar no símbolo localizado no canto superior esquerdo da tela. Em seguida, selecione “Configurações”, onde você poderá escolher entre as opções “Geral” e “Notificações”.
 
-![Google Pay](https://imagens.canaltech.com.br/287505.537439-Google-Pay.jpg)
+![Google Pay](/assets/images/news/287505.537439-Google-Pay.jpg)
 As configurações do Google Pay permitem selecionar quais informações você deseja receber (Captura de tela: Ariane Velasco)
 
 Em “Geral”, é possível ativar ofertas e dicas por e-mail, vincular o aplicativo ao Gmail a fim de receber promoções ou cartões de fidelidade, configurar sua localização e editar todas as informações de sua conta, como nome e endereço.
 
-![Google Pay](https://imagens.canaltech.com.br/287506.537440-Google-Pay.jpg)
+![Google Pay](/assets/images/news/287506.537440-Google-Pay.jpg)
 É possível editar todas as informações de sua conta nas configurações gerais (Captura de tela: Ariane Velasco)
 
 Já em “Notificações”, você pode optar por visualizar detalhes de suas transações, receber ofertas e dicas diretamente em seu smartphone, descobrir onde você pode usar seus cartões de fidelidade ou outros prêmios e também ficar a par de qualquer atualização sobre os cartões cadastrados.
 
-![Google Pay](https://imagens.canaltech.com.br/287507.537441-Google-Pay.jpg)
+![Google Pay](/assets/images/news/287507.537441-Google-Pay.jpg)
 Gerencie as notificações do Google Pay para receber as informações mais necessárias (Captura de tela: Ariane Velasco)

@@ -68,7 +68,7 @@ data-full-width-responsive="true"></ins>
 ​Altamente requisitada por empresas tradicionais, Java tornou-se uma poderosa plataforma de desenvolvimento. O motivo: é uma linguagem portável para qualquer sistema operacional e tem grande variedade de frameworks que visam facilitar o trabalho do desenvolvedor para
 criar aplicações para desktop, celular, cartão, web, televisão digital, etc. Aos profissionais de TI, cabe uma especialização nesta linguagem de programação.
 
-### Veja também: [Java VS Kotlin: Quais são as principais diferenças entre elas?](https://terminalroot.com.br/2019/10/java-vs-kotlin-quais-sao-as-principais-diferencas-entre-elas.html)
+### Veja também → [Java VS Kotlin: Quais são as principais diferenças entre elas?](https://terminalroot.com.br/2019/10/java-vs-kotlin-quais-sao-as-principais-diferencas-entre-elas.html)
 
 <!-- QUADRADO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -87,4 +87,4 @@ de Matemática e Ciência de Computação, localizado em Amsterdã, e tem impuls
 
 Generoso destaca ainda que “a nova geração de desenvolvedores de software precisa estar preparada para essas linguagens, porém ter uma base conceitual sólida em arquitetura, agilidade e padrões de desenvolvimento de software é fundamental. Isso permite que o desenvolvedor domine mais linguagens e não perca oportunidades de crescimento profissional nas tecnologias que transformarão o mercado global”.
 
-### Veja também: [Jython - A linguagem que mistura Java com Python](https://terminalroot.com.br/2019/10/jython-a-linguagem-que-mistura-java-com-python.html)
+### Veja também → [Jython - A linguagem que mistura Java com Python](https://terminalroot.com.br/2019/10/jython-a-linguagem-que-mistura-java-com-python.html)

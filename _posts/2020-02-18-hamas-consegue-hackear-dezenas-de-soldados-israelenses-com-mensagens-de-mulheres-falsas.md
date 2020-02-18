@@ -2,7 +2,7 @@
 layout: post
 title: "Hamas consegue hackear dezenas de soldados israelenses com mensagens de mulheres falsas"
 categories: [ News ]
-image: 'assets/images/news/_110930610_selfieblur-1.jpg'
+image: 'assets/images/news/girls-hamas.jpg'
 ---
 
 Dezenas de soldados de Israel tiveram seus telefones celulares invadidos pelo grupo militante Hamas numa estratégia que simulava mulheres em busca de atenção.

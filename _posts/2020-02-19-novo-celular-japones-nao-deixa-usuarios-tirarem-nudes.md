@@ -2,7 +2,7 @@
 layout: post
 title: "Novo celular japonês não deixa usuários tirarem nudes"
 categories: [ News ]
-image: 'assets/img/japan-to-open-nude-restaurant-wont-allow-overweight-diners_fg3c'
+image: 'assets/img/japan-to-open-nude-restaurant-wont-allow-overweight-diners_fg3c.jpg'
 ---
 
 > Câmera do aparelho desativa botão de disparo em caso de "conteúdo inapropriado"

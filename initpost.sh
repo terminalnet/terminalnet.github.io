@@ -28,7 +28,7 @@ _skell(){
     echo "layout: post"
     echo "title: \"${1}\""
     echo "categories: [ News ]"
-    echo "image: 'assets/images/news/'"
+    echo "image: 'assets/img/'"
     echo "---"
     echo
     echo '

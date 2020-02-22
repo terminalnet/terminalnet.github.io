@@ -2,7 +2,7 @@
 layout: post
 title: "Bolsonaro confirma viagem aos EUA para tentar trazer Tesla ao Brasil"
 categories: [ News ]
-image: 'assets/img/'
+image: 'assets/img/tesla-no-brasil'
 ---
 
 > O presidente deve viajar em março para tentar fazer com que a empresa de Elon Musk se instale no Brasil

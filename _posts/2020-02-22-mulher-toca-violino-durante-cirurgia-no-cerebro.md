@@ -2,7 +2,7 @@
 layout: post
 title: "Mulher toca violino durante cirurgia no cérebro"
 categories: [ News ]
-image: 'assets/img/'
+image: 'assets/img/20200220014433.jpg'
 ---
 
 Uma equipe médica do King’s College Hospital, de Londres, pediu para uma paciente tocar violino durante uma delicada cirurgia no cérebro. A intervenção foi necessária para extrair um tumor.

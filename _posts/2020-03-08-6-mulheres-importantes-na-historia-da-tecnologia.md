@@ -2,7 +2,7 @@
 layout: post
 title: "6 mulheres importantes na história da tecnologia"
 categories: [ News ]
-image: 'assets/img/Hedy-capa-1024x469.png'
+image: 'assets/img/mulheres.jpg'
 ---
 
 O lugar da mulher é onde ela quiser. Esta frase é muito usada por movimentos de lutas pelos direitos das mulheres e, de certa forma, pode ser considerada um clichê. No entanto, ela é muito precisa para o que vamos mostrar no nosso artigo de hoje: sobre mulheres importantes na tecnologia. Apesar de ser um mercado lembrado por ser constituído em sua maioria por homens, temos muitas mulheres que contribuíram para o desenvolvimento da sociedade moderna.
@@ -10,6 +10,7 @@ O lugar da mulher é onde ela quiser. Esta frase é muito usada por movimentos d
 Seja gerenciando, programando, criando produtos ou inovando, elas sempre estiveram aí mostrando que fazem muito bem o que quiserem. Como uma forma de homenageá-las pelo Dia Internacional da Mulher, fizemos uma lista com seis das mais importantes mulheres na história da tecnologia. Vamos conferir quem são e como influenciam, mesmo depois de tanto tempo, a nossa vida:
 
 # Hedy Lamarr
+![Hedy Lamarr](/assets/img/Hedy-capa-1024x469.png)
 
 Hedy Lamarr já foi considerada “a mulher mais bonita do mundo”. Ao longo de sua carreira no cinema, a atriz hollywoodiana estrelou mais de 30 filmes, incluindo os clássicos “Sansão e Dalila” e “A História da Humanidade”. Porém, a diva não se contentou apenas com seu destaque no cinema. Dona de uma inteligência absurda, Hedy também tinha um grande fascínio pela ciência. Tanto que é considerada a [inventora do salto de frequência](https://oglobo.globo.com/ela/gente/hedy-lamarr-diva-cientista-16953628), uma técnica que evita a interceptação de mensagens.
 

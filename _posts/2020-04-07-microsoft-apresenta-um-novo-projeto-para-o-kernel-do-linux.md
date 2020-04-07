@@ -2,7 +2,7 @@
 layout: post
 title: "Microsoft apresenta um novo projeto para o kernel do Linux"
 categories: [ News ]
-image: 'assets/img/Microsoft-Introduces-A-New-Project-For-Linux-Kernel-640x367'
+image: 'assets/img/Microsoft-Introduces-A-New-Project-For-Linux-Kernel-640x367.png'
 ---
 
 Quase dois meses após o lançamento da Plataforma em Nuvem do Azure baseada na IoT, a Microsoft anunciou agora um novo LSM (Linux Security Module) para dispositivos incorporados. O módulo de segurança, chamado IPE (Integrity Policy Enforcement), visa resolver o problema de integridade no kernel do Linux, adicionando um novo recurso de segurança.

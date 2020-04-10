@@ -2,7 +2,7 @@
 layout: post
 title: "Arquivos de Linux poderão ser acessados no Windows por meio do Explorer"
 categories: [ News ]
-image: 'assets/img/lunux-windows.jpg'
+image: 'assets/img/linux-windows.jpg'
 ---
 
 A Microsoft vai integrar ainda mais o Linux ao Windows. Depois do terminal e até mesmo de adotar o kernel Linux em um sistema novo, a empresa adicionou outra novidade na mais recente build da versão de testes do Windows 10 (19603). Ainda disponível apenas para os testadores do sistema operacional, ela permite acesso integral e por meio do Explorador de Arquivos aos arquivos de uma distribuição de Linux instalada na mesma máquina .

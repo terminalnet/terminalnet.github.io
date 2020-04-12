@@ -7,6 +7,8 @@ image: 'assets/img/linux-windows.jpg'
 
 A Microsoft vai integrar ainda mais o Linux ao Windows. Depois do terminal e até mesmo de adotar o kernel Linux em um sistema novo, a empresa adicionou outra novidade na mais recente build da versão de testes do Windows 10 (19603). Ainda disponível apenas para os testadores do sistema operacional, ela permite acesso integral e por meio do Explorador de Arquivos aos arquivos de uma distribuição de Linux instalada na mesma máquina .
 
+<a href="https://terminalroot.com.br/newsletter" target="_blank" class="btn btn-danger btn-block">Receba novidades por e-mail!</a>
+
 <!-- QUADRADO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -43,5 +45,7 @@ data-ad-slot="8549252987"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<a href="https://terminalroot.com.br/newsletter" target="_blank" class="btn btn-danger btn-block">Receba novidades por e-mail!</a> 
 
 Via: [Microsoft](https://blogs.windows.com/windowsexperience/2020/04/08/announcing-windows-10-insider-preview-build-19603/)

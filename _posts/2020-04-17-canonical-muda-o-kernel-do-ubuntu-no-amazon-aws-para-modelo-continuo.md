@@ -37,6 +37,8 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<a href="https://terminalroot.com.br/newsletter" target="_blank" class="btn btn-danger btn-block">Receba novidades por e-mail!</a> 
+
 Para começar, primeiro faça login na sua instância remota do Ubuntu na AWS e verifique a versão do kernel usando o comando:
 
 `uname -r`
@@ -74,6 +76,8 @@ data-ad-slot="8549252987"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<a href="https://terminalroot.com.br/newsletter" target="_blank" class="btn btn-danger btn-block">Receba novidades por e-mail!</a> 
 
 Via: [FOSSBYTES](https://fossbytes.com/ubuntu-on-aws-rolling-kernel-model/)
 

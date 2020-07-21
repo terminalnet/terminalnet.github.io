@@ -73,4 +73,4 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Fonte: [FayerWayer](https://www.fayerwayer.com/2020/07/tiktok-anonymous-robo-de-informacion/) | Via: [TecMundo](https://www.tecmundo.com.br/seguranca/155384-anonymous-alerta-usuarios-deletem-tiktok.htm)
+Fonte: [FayerWayer](https://www.fayerwayer.com/2020/07/tiktok-anonymous-robo-de-informacion/) - Via: [TecMundo](https://www.tecmundo.com.br/seguranca/155384-anonymous-alerta-usuarios-deletem-tiktok.htm)

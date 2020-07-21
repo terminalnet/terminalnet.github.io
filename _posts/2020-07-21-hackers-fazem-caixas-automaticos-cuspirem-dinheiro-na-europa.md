@@ -87,4 +87,4 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Fonte: [E Hacking News](https://www.ehackingnews.com/2020/07/black-box-new-atm-attack-that-diebold.html) | Via: [Olhar Digital](https://olhardigital.com.br/fique_seguro/noticia/hackers-fazem-caixas-automaticos-cuspirem-dinheiro-na-europa/103802)
+Fonte: [E Hacking News](https://www.ehackingnews.com/2020/07/black-box-new-atm-attack-that-diebold.html) - Via: [Olhar Digital](https://olhardigital.com.br/fique_seguro/noticia/hackers-fazem-caixas-automaticos-cuspirem-dinheiro-na-europa/103802)

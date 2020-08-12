@@ -2,7 +2,7 @@
 layout: post
 title: "John McAfee é preso por usar calcinha de renda como máscara"
 categories: [ News ]
-image: 'assets/img/'
+image: 'assets/img/john_mcafee.jpg'
 ---
 
 > Bilionário diz ter sido preso em um aeroporto na Noruega por se recusar a trocar uma máscara em forma de calcinha por um modelo aprovado pelos médicos.

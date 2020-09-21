@@ -75,6 +75,8 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+Via: [pplware](https://pplware.sapo.pt/smartphones-tablets/mark-zuckerberg-confessa-que-e-fa-do-android-e-da-samsung/)
+
 <!-- QUADRADO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -84,4 +86,5 @@ data-ad-slot="5351066970"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 

@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript se consolida como a linguagem de programação mais popular"
 categories: [ News ]
-image: 'assets/img/ijs-prog.jpg'
+image: 'assets/img/js-prog.jpg'
 ---
 
 > Segundo pesquisa da SlashData Python está em segundo lugar, seguido de perto por Java na terceira posição

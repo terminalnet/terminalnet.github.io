@@ -111,8 +111,9 @@ Outro case positivo foi visto recentemente pela Magazine Luiza. Em setembro, red
 
 De acordo com a companhia — famosa pela assistente virtual Magalu —, o objetivo da ação busca proporcionar mais diversidade racial para os cargos de liderança da empresa, entendendo que a equidade racial e de gênero são fundamentais para a criação de ambientes empresariais bem-sucedidos e para um país mais igualitário.
 
-    Gente, estão abertas as inscrições p/ o Trainee 2021, o programa q forma as futuras lideranças do Magalu. Igualdade de oportunidades e a inclusão são duas das nossas mais importantes causas. E, por isso, neste ano será exclusivo para candidatos negros. Segue o fio pra entender + pic.twitter.com/rc4puiMEs8
-    — Lu do Magalu (em ðŸÂ ) (@magazineluiza) September 18, 2020
+> Gente, estão abertas as inscrições p/ o Trainee 2021, o programa q forma as futuras lideranças do Magalu. Igualdade de oportunidades e a inclusão são duas das nossas mais importantes causas. E, por isso, neste ano será exclusivo para candidatos negros. Segue o fio pra entender + [pic.twitter.com/rc4puiMEs8](https://t.co/rc4puiMEs8)
+
+> — Lu do Magalu (em ðŸÂ ) (@magazineluiza) [September 18, 2020](https://twitter.com/magazineluiza/status/1307089647282122758?ref_src=twsrc%5Etfw)
 
 É certo que ações empresariais como essas são pequenos passos para os debates sobre inclusão nas companhias e muito ainda há de ser debatido.
 

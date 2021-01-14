@@ -50,6 +50,8 @@ Pelas impressões do clipe, o sistema parece bastante leve e minimalista, com po
 
 A equipe do site The Verge também teve acesso ao sistema e afirma que essa é uma versão bastante próxima da finalizada, que será enviada aos consumidores.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">a new build of Windows 10X has leaked, and it&#39;s the near final version <a href="https://t.co/LWiTfwcmSh">pic.twitter.com/LWiTfwcmSh</a></p>&mdash; Tom Warren (@tomwarren) <a href="https://twitter.com/tomwarren/status/1349533686694359040?ref_src=twsrc%5Etfw">January 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!-- RETANGULO LARGO -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->

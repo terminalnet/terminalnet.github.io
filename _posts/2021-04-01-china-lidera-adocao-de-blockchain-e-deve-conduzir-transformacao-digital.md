@@ -52,6 +52,18 @@ data-ad-slot="8549252987"></ins>
 
 Para ele, existem pontos cruciais que sustentam a liderança da China na adoção do blockchain. O primeiro deles baseia-se na percepção de mercado. Embora tenha sido inicialmente focado em aplicativos de criptomoedas, o blockchain passou a agregar valor de negócio às companhias que incorporassem a tecnologia em suas operações.
 
+# União por meio do blockchain
+
+Outros coadjuvantes para o avanço do blockchain na China foram os fornecedores de EBP (Enterprise Buyer Professional).
+
+Divididos nas categorias de fornecedores de software, provedores de serviços em nuvem e provedores de serviços de consultoria, eles foram essenciais para impulsionar a inovação local e adaptar as soluções blockchain às necessidades do cliente.
+
+E como resultado de todos esses esforços, é possível observar a criação de um ecossistema digital chinês, que engloba bancos, seguros, saúde, energia, governo, manufatura, varejo, telecomunicações e logística.
+
+Juntos, os setores têm trabalhado para otimizar a confiança nacional, melhorar as experiências dos clientes e impulsionar o setor de inovação no país, respaldados pelo blockchain.
+
+O blockchain 3.0 está mais próximo do que se imagina. E quando a nova era chegar, a China já estará “lá”.
+
 <!-- RETANGULO LARGO -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Informat -->

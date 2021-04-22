@@ -7,7 +7,7 @@ image: 'assets/img/china-qr-code-jogo-720x405.jpg'
 
 A China é um país onde muitas situações insólitas e caricatas ligadas ao mundo da tecnologia acontecem. E a situação de que falamos hoje é um exemplo claro disso mesmo.
 
-Na região de Xangai, uma criadora de videojogos conseguiu criar algo verdadeiramente inovador. Colocou drones a emitir enormes códigos QR no céu, para que as pessoas pudessem apontar os seus dispositivos e fazerem download de um game.
+Na região de Xangai, uma criadora de games conseguiu criar algo verdadeiramente inovador. Colocou drones a emitir enormes códigos QR no céu, para que as pessoas pudessem apontar os seus dispositivos e fazerem download de um game.
 
 <!-- QUADRADO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -19,13 +19,13 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-# Drones exibem códigos QR enormes para descarregar videojogos
+# Drones exibem códigos QR enormes para baixar games
 
 Os drones vierem revolucionar diversos segmentos, desde a mobilidade, fotografia e vídeo, entregas, entre muitos outros. Mas estes gadgets também permitem dar, quase literalmente, asas à imaginação para levar a cabo diversos projetos e ideias interessantes.
 
 Nesse sentido, a empresa responsável pela criação do jogo ‘Princess Connect Re: Dive‘, decidiu celebrar o aniversário do título de uma forma bem especial. Recentemente a criadora apresentou em Xangai um mega espetáculo massivo de drones. Para o efeito foram então utilizados um total de 1.500 drones que voaram até aos céus da cidade chinesa em plena noite.
 
-Nos céus, os drones realizaram diversas coreografias com referências ao videojogo. Foram criadas e exibidas personagens do jogo, mensagens, o logotipo do título, entre outras coisas.
+Nos céus, os drones realizaram diversas coreografias com referências ao game. Foram criadas e exibidas personagens do jogo, mensagens, o logotipo do título, entre outras coisas.
 
 <!-- MINI ANÚNCIO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -73,5 +73,5 @@ data-full-width-responsive="true"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Via: [pplware](https://pplware.sapo.pt/gadgets/china-drones-exibem-codigos-qr-gigantes-no-ceu-para-as-pessoas-descarregarem-jogos/)
+Via: [pplware](https://pplware.sapo.pt/gadgets/china-drones-exibem-codigos-qr-gigantes-no-ceu-para-as-pessoas-baixarem-jogos/)
 

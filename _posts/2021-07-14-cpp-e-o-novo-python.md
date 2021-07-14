@@ -91,7 +91,7 @@ Então se inscreva nos nossos [Cursos de C++ Moderno](https://terminalroot.com.b
 Acesse o endereço:
 # <https://terminalroot.com.br/cpp/> e saiba mais!
 
-# Conheça o Terminal Finances, um software para Gestão Financeira Pessoas escrito em C++
+# Conheça o Terminal Finances, um software para Gestão Financeira Pessoal escrito em C++
 
 <iframe width="910" height="390" src="https://www.youtube.com/embed/BF809OoXfjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

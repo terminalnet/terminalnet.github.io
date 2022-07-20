@@ -44,7 +44,6 @@ II - aceitar outro produto ou prestação de serviço equivalente;
 
 > "Sempre gravo os vídeos por quando são produtos de alto valor por segurança. Tinha medo de levar um golpe ou algo assim, mas nunca imaginei que fosse acontecer comigo", disse em entrevista ao UOL.
 
-<iframe src="https://www.instagram.com/p/CgMkaChleb0/embed/" frameborder="0"></iframe> 
 
 <!-- RETANGULO LARGO 2 -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

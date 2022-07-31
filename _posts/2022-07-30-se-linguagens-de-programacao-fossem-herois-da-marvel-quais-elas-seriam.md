@@ -37,6 +37,8 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<br><hr><br>
+
 # Python: Homem-Formiga
 O Homem-Formiga é um dos heróis mais divertidos da Marvel, principalmente pela facilidade de entendimento de seus poderes - e o Python, no mundo da programação, não é diferente, atraindo milhares de desenvolvedores para suas documentações pela sua grande versatilidade e fácil estudo.
 

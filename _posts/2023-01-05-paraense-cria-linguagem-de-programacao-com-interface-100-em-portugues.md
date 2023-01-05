@@ -35,7 +35,7 @@ data-ad-slot="5351066970"></ins>
 
 A primeira versão do Egua foi lançada em 2019, idêntica ao Python, porém com limitações. Mas em abril de 2020, foi lançado a primeira versão em português, com um formato mais elaborado.
 
-Em linguagem Egua, é possível estruturar programas capazes de executar todas as funções já consolidadas no mercado, como: laços de repetição, funções, estrutura de dados, operadores, paradigmas de programação e orientação a objetos.
+Em linguagem Egua, é possível estruturar programas capazes de executar todas as funções já consolidadas no mercado, como: laços de repetição, funções, estrutura de dados, operadores e orientação a objetos.
 
 Acesse o [endereço oficial da Egua](https://egua.tech/).
 

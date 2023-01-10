@@ -92,7 +92,7 @@ Como analista de Wall Street, foi gratificante ver minhas previsões se tornarem
 
 # Assista à um vídeo sobre ChatGPT
 
-<iframe width="1253" height="705" src="https://www.youtube.com/embed/VIDEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1253" height="705" src="https://www.youtube.com/embed/33Z91g0xrtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- RETANGULO LARGO -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

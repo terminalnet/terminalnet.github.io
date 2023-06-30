@@ -2,7 +2,7 @@
 layout: post
 title: "Youtube vai 'jogar duro' com usuários de bloqueador de anúncio"
 categories: [ News ]
-image: 'assets/img/Youtube.jpg'
+image: 'assets/img/YouTube'
 ---
 
 Atualmente, o YouTube está executando o que descreve como um "pequeno experimento global", alertando os usuários para desativar seus bloqueadores de anúncios e evitar limitar-se a apenas três exibições de vídeo.

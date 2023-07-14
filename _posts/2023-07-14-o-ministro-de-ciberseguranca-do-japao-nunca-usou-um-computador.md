@@ -21,8 +21,6 @@ data-ad-slot="5351066970"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Sakurada tem 68 anos e seu papel será supervisionar a segurança cibernética das Olimpíadas de 2020, que acontecerá em Tóquio. Ele se tornou chefe de cibersegurança do país no mês passado, quando o primeiro-ministro Shinzo Abe foi reeleito.
-
 Quando um parlamentar expressou espanto com o fato de alguém que nunca usou um computador ocupar esse cargo, Sakurada disse que esse “é um assunto que deveria ser tratado com o governo como um todo”.
 
 “Estou confiante de que não tenho culpa”, completou.

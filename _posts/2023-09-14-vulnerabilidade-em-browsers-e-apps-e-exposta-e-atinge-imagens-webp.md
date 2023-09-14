@@ -2,7 +2,7 @@
 layout: post
 title: "Vulnerabilidade em browsers e apps é exposta e atinge imagens WebP"
 categories: [ News ]
-image: 'assets/img/'
+image: 'assets/img/web-browsers_startuptalky.jpg'
 ---
 
 A vulnerabilidade chamada de CVE-2023-4863 foi revelada, atingindo diversos browsers e expondo uma quantidade massiva de malwares em computadores de todo o planeta. A falha vem diretamente do libwebp, uma biblioteca codificada que renderiza imagens no formato “WebP” – utilizado por diversos sites e uma das favoritas dos criadores de conteúdo pela sua capacidade de compressão sem perder a qualidade.

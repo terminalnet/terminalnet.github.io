@@ -69,7 +69,22 @@ Eu sou desenvolvedor e uso com frequeência Vim/Neovim, além de outros cli e n�
 # Responda a enquete no GitHub:
 ## <https://github.com/microsoft/terminal/discussions/16440>
 
+---
+
+# Veja como instalar Vim/Neovim no Windows:
+## <https://terminalroot.com.br/2022/12/como-instalar-o-vim-e-neovim-no-windows.html>
+## <https://terminalroot.com.br/2023/03/como-instalar-o-astronvim-no-windows.html>
+
+---
+
+# Aprenda Vim e Neovim
+## <https://terminalroot.com.br/vim>
+
+---
+
 Então, se isso é do seu interesse, acesse o tópico e deixe sua voz ser ouvida. Isso pode fazer a diferença. 
+
+---
 
 <!-- RETANGULO LARGO -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

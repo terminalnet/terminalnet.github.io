@@ -41,6 +41,9 @@ Os enormes ganhos no preço das ações impulsionaram sozinhos cerca de um terç
 
 Fundada há 31 anos para construir placas gráficas para jogadores de videogames, a empresa sediada no Vale do Silício viu, no último ano, trimestres sucessivos de grande crescimento de receita, anunciando um aumento de 265% ano a ano em fevereiro ede 262% em maio. Suas ações subiram cerca de 170% desde o início do ano.
 
+![Nvidia GitHub](assets/img/nvidia-github.png)
+> Em seu repositório no [GitHub](https://terminalroot.com.br/tags#github) nota-se que as linguagens de programação mais utilizadas pela Nvidia são: [C++](https://terminalroot.com.br/cpp), [Linguagem C](https://terminalroot.com.br/c) e [Python](https://terminalroot.com.br/tags#python).
+
 O CEO da Nvidia, Jensen Huang, declarou que a empresa está no centro de uma nova "revolução industrial", liberando o poder da inteligência artificial generativa para transformar todos os setores da economia global com computação inteligente.
 
 Google, Microsoft e Amazon compraram a série de unidades de processamento gráfico Hopper para seus serviços em nuvem. O ecossistema de software da Nvidia, Cuda, que oferece ferramentas para desenvolvedores que usam seus chips, consolidou sua dominância.

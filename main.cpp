@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(int argc, char **argv){
-  std::cout << "Olá, Mundo!\n";
+  std::cout << "Terminal Net!\n";
   return EXIT_SUCCESS;
 }
 

@@ -27,6 +27,8 @@ Como relembrou Gates em seu blog, em 1975, Bill Gates e Paul Allen desenvolveram
 
 Para celebrar o 50º aniversário da Microsoft, Gates compartilhou o código-fonte original do Altair BASIC e o descreveu como “o código mais incrível que já escrevi”. Essa iniciativa oferece aos entusiastas de tecnologia uma visão sobre o trabalho que deu origem à Microsoft. Clique aqui para acessar o PDF com a reprodução do código-fonte.
 
+Veja aqui o código fonte: <https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code>
+
 <!-- MINI ANÚNCIO -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Games Root -->

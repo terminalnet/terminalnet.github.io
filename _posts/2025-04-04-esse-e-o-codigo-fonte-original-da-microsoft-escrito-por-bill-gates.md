@@ -23,7 +23,7 @@ data-ad-slot="5351066970"></ins>
 Como relembrou Gates em seu blog, em 1975, Bill Gates e Paul Allen desenvolveram o Altair BASIC para o microcomputador Altair 8800. Esse interpretador BASIC permitiu que entusiastas programassem o Altair, marcando o início da Microsoft e contribuindo significativamente para a revolução dos computadores pessoais.
 
 ### O Código-Fonte lendário
-![Código-Fonte lendário](Captura-de-tela-2025-04-03-121221-562x600.webp)
+![Código-Fonte lendário](assets/img/Captura-de-tela-2025-04-03-121221-562x600.webp)
 
 Para celebrar o 50º aniversário da Microsoft, Gates compartilhou o código-fonte original do Altair BASIC e o descreveu como “o código mais incrível que já escrevi”. Essa iniciativa oferece aos entusiastas de tecnologia uma visão sobre o trabalho que deu origem à Microsoft. Clique aqui para acessar o PDF com a reprodução do código-fonte.
 
